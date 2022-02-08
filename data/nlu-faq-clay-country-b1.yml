@@ -1,0 +1,2021 @@
+version: "3.0" 
+nlu: 
+
+- intent: nlu-faq-clay-country-b1/Who-is-the-county-manager
+  examples: |
+    - Who is the county manager?
+    - Who are county managers?
+    - What is a county manager?
+    - Who is county manager?
+    - What is the role of the county manager?
+    - What is county manager?
+    - Who is the county manager?
+- intent: nlu-faq-clay-country-b1/Do-I-need-permission-to-put-up-a-sign
+  examples: |
+    - Do I need permission to put up a sign?
+    - Do I need to have permission to put up a sign?
+    - Do I need a permission to put up a sign?
+    - Do I need permission to post a sign?
+    - Do I need permission to put up a sign?
+    - Do I need a photo to put up sign?
+    - Do I need permission to write a sign?
+    - Why do I need permission to put up a sign?
+- intent: nlu-faq-clay-country-b1/What-paperwork-do-I-need-to-file-a-claim-with-the-VA
+  examples: |
+    - What paperwork do I need to file a claim with the VA?
+    - What paperwork do I need to file a claim with the VA?
+    - What documents do I need to file a claim with the VA?
+    - What paperwork do I need to file for VA?
+    - How do I file a claim with the VA?
+    - How can I file a claim with the VA?
+    - What are some papers to file an appeal against the VA?
+- intent: nlu-faq-clay-country-b1/Do-I-have-to-pay-in-full-before-my-event-at-the-clay-county-fairground
+  examples: |
+    - Do I have to pay in full before my event at the clay county fairground?
+    - Do I have to pay in full before my event at Clay County Fairgrounds?
+    - Will you be obligated to pay in full for an event at the clay county fairgrounds?
+    - Do I have to pay in full before my event at the clay county fairgrounds?
+    - Do I have to pay in full before my event at the clay county fairgrounds in Georgia?
+    - I have to pay in full before my event at clay county fairgrounds?
+    - Should I pay in full before a Clay County Fairgrounds event?
+    - Do I have to pay in full before my event at the clay county fairground?
+- intent: nlu-faq-clay-country-b1/Where-is-Camp-Chowenwaw
+  examples: |
+    - Where is Camp Chowenwaw?
+    - Where is Camp Chowenwaw?
+    - Where is camp Chowenwaw?
+    - Which is Camp Chowenwaw?
+    - How is Camp Chowenwaw?
+    - What is Camp Chowenwaw?
+- intent: nlu-faq-clay-country-b1/What-is-the-address-of-the-clay-county-fairgrounds
+  examples: |
+    - What is the address of the clay county fairgrounds
+    - What is the address of the Clay County fairgrounds?
+    - What is the address of the clay county fairgrounds?
+    - What is the address of the Clay County Fairgrounds?
+    - What is the address of the Clay county fairgrounds?
+    - How is the address of the clay county fairgrounds?
+- intent: nlu-faq-clay-country-b1/What-can-I-do-to-my-home-to-prevent-flooding
+  examples: |
+    - What can I do to my home to prevent flooding?
+    - What can we do about flooding in our home?
+    - How can I stop my home from flooding?
+    - How can you prevent flooding at your home?
+    - How can you prevent a flood in your home?
+    - How do I prevent a flooding in my house?
+    - What should I do to protect my home from flooding?
+    - How can I protect my home from flooding?
+    - How do I avoid flooding my home?
+    - How do I do to protect my home against flooding?
+    - How do I repair my home to prevent flooding?
+- intent: nlu-faq-clay-country-b1/What-is-Extension
+  examples: |
+    - What is Extension?
+    - What is extension?
+    - What is Extension?
+    - What is the extension?
+    - What are extensions?
+- intent: nlu-faq-clay-country-b1/When-is-spraying-scheduled-for-my-neighborhood
+  examples: |
+    - When is spraying scheduled for my neighborhood?
+    - When is spraying scheduled in my neighborhood?
+    - When is spraying scheduled for my neighborhood?
+    - When spraying is scheduled in my neighborhood?
+- intent: nlu-faq-clay-country-b1/Clay-county-animal-services-costs
+  examples: |
+    - Clay county animal services costs
+    - Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services. Clay county animal services. Clay county animal services costs. Clay county animal services cost. Clay county animal services costs. Clay county animal services costs
+    - Clay county animal services costs. Clay county animal services costs. Clay county animal services cost. Clay county animal services costs. Clay county animal services cost. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal
+    - Clay county animal services costs, Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services costs. Clay county animal services. Clay county animal services
+    - Clay county animal services costs animal services of Clay county, Tennessee Animal Services Fees Clay county Animal Services fees Clay county animal services costs animal services fees Clay county animal services costs Clay county animal services costs animal service charges animal services. a clay county animal services fee Clay county animal services costs animal services cost animal services cost
+    - Clay county animal services costs Clay county animal services charges Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal
+    - Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal
+    - Clay county animal services costs clay county animal services costs. Clay county animal services costs Clay county animal services costs Clay county animal services cost Clay county animal services cost Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay county animal services costs Clay
+- intent: nlu-faq-clay-country-b1/What-can-I-do-with-this-dog-that-I-found
+  examples: |
+    - What can I do with this dog that I found
+    - What do I do with my dog I found?
+    - What can I do with my dog I found?
+    - What can I do with a dog I found and it is healthy?
+    - What can I do with a German Shepherd mix dog I lost?
+    - What can I do with this dog I found?
+    - What should I do with my new dog?
+    - What should I do with my new puppy?
+    - What can you do with a dog you found?
+    - What should I do with a dog I found?
+    - What can I do with the dog I have just found?
+- intent: nlu-faq-clay-country-b1/Is-alcohol-sold-at-the-clay-county-fair
+  examples: |
+    - Is alcohol sold at the clay county fair?
+    - Is alcohol sold in clay county fair?
+    - Is alcohol sold at the clay county fair?
+    - Is alcohol sold at clay county fair?
+    - Can alcohol be sold at the Clay County Fair?
+    - Is alcohol sold at the Clay County Fair?
+    - Can I get alcohol for a bottle at the clay county fair in Clay County, Alabama?
+- intent: nlu-faq-clay-country-b1/How-can-I-get-landscaping-questions-such-as-plant-pests-and-diseases-identification-and-advice-for-solutions-to-these-issues
+  examples: |
+    - How can I get landscaping questions such as plant, pests, and diseases identification and advice for solutions to these issues?
+    - How can I get landscape questions such as plant, pests, and diseases identification and advice for solutions to these issues?
+    - How do I get landscaping questions such as plant, pest, and diseases identification and advice for solutions to these issues?
+    - How can I get landscaping questions such as plant pests, diseases identification, and advice for solutions to these issues?
+    - What are the most common landscaping questions asked?
+    - How can I get landscaping questions such as plant, pests, and diseases identification and advice for solutions to these issues?
+    - Where can I get landscape questions such as plant, pests, and diseases identification and advice for solutions to these issues?
+    - How do I get answers for landscape plants and pests to such questions?
+    - How can I get helpful answers for landscaping questions like plant, pest, and diseases identification and advice for solutions to these issues?
+- intent: nlu-faq-clay-country-b1/how-much-is-camp-chowenwaw-park
+  examples: |
+    - how much is camp chowenwaw park?
+    - How much is camp Chowenwaw park?
+    - How much is camp chowenwaw park?
+    - How much is chowenwaw park camp?
+    - How much is Camp Cheonwaw park?
+- intent: nlu-faq-clay-country-b1/What-is-Camp-Chowenwaw
+  examples: |
+    - What is Camp Chowenwaw?
+    - What is Camp Chowenwaw?
+    - What are camp Chowenwaw?
+    - What is camp chowenwaw?
+    - What is Camp Chowenwaw? What are the facilities there?
+- intent: nlu-faq-clay-country-b1/Is-what-the-sprayers-use-safe
+  examples: |
+    - Is what the sprayers use safe?
+    - Is spraying safe?
+    - Is spraying safer?
+    - Is the sprayer safe?
+    - Is what the sprayers use safe?
+    - Is sprayers safe?
+- intent: nlu-faq-clay-country-b1/Does-Clay-County-have-presentation-guidelines
+  examples: |
+    - Does Clay County have presentation guidelines?
+    - Does Clay County have any general guidelines for presentation?
+    - Does Clay County have presentation guidelines?
+    - Does Clay County have any presentation guidelines?
+    - What are some Clay County presentation guidelines?
+    - What are the Clay County presentation guidelines?
+    - Does Clay County have its own presentation guidelines?
+- intent: nlu-faq-clay-country-b1/how-can-i-register-my-dog-for-a-shelter
+  examples: |
+    - how can i register my dog for a shelter
+    - How can I register a pet with a shelter?
+    - How do I register my dog for a shelter?
+    - How do I register a dog for a shelter?
+    - How do I register a dog with the shelter?
+    - How can I register a stray dog with a shelter?
+    - How do I register my dogs for a shelter?
+    - How can I register my dog for a shelter?
+- intent: nlu-faq-clay-country-b1/How-can-I-get-a-map-of-Camp-Chowenwaw-Park
+  examples: |
+    - How can I get a map of Camp Chowenwaw Park?
+    - How do I get a map of Camp Chowenwaw Park?
+    - How can I get a map of Camp Chowenwaw park?
+    - How can I get a road map to Camp Chowenwaw Park?
+    - How do I get a map of Camp Chowenwaw?
+    - Where can I get a map of Camp Chowenwaw Park?
+    - How can I get a map of Camp Chowenwaw Park?
+    - How do I get a map of Chowenwaw Park?
+    - How do I get a map of Chowenwaw Camp?
+- intent: nlu-faq-clay-country-b1/how-can-I-reserve-a-building-at-camp-chowenwaw-park
+  examples: |
+    - how can I reserve a building at camp chowenwaw park?
+    - How do I reserve a building at camp chowenwaw park?
+    - How do I reserve a building at Camp Chowenwaw park?
+    - How can I reserve a building at camp chowenwaw park?
+    - How do I reserve a building in camp chowenwaw park?
+    - How do I reserve building in camp chowenwaw park?
+    - How do you reserve a building at camp chowenwaw park?
+- intent: nlu-faq-clay-country-b1/why-is-this-land-being-cleared-out
+  examples: |
+    - why is this land being cleared out?
+    - Why is this land being cleared out?
+    - Why is land being cleared out?
+    - Why is so much land clearing?
+    - Why is land cleared?
+    - Why is land clearing so much?
+    - Why is a large amount of land being cleared out to make way for more housing?
+    - Why are the lands being cleared out?
+    - Why is this land clearing out?
+    - Why isn't land cleared out as planned?
+    - Why is land being cleared out of the Indian Ocean?
+- intent: nlu-faq-clay-country-b1/Does-Clay-County-Animal-Services-handle-wildlife-concerns
+  examples: |
+    - Does Clay County Animal Services handle wildlife concerns?
+    - What is Clay County Animal Services, and does it handle wildlife?
+    - Does Clay County Animal Services handle wildlife complaints?
+    - Does Clay County Animal Services handle wildlife concerns?
+    - Do Clay County Animal Services handle wildlife issues?
+    - Does Clay County Animal Services have wildlife?
+    - Does Clay County Animal Services handle wildlife problems?
+    - Does Clay County Animal Services handle wildlife?
+- intent: nlu-faq-clay-country-b1/Can-I-give-a-PowerPoint-Presentation-during-Public-Comments
+  examples: |
+    - Can I give a PowerPoint Presentation during Public Comments?
+    - Can I give PowerPoint Presentation during public comments?
+    - How do I give PowerPoint presentations during public comments?
+    - Can I give a PowerPoint presentation to public comments?
+    - Can I give a PowerPoint presentation during public comments?
+    - Can I give a PowerPoint Presentation during public comments?
+    - Can you give a PowerPoint presentation during public comments?
+    - Can I give a PowerPoint Presentation during Public Comments?
+- intent: nlu-faq-clay-country-b1/How-can-I-find-out-what-issues-are-on-the-BCC-Agenda
+  examples: |
+    - How can I find out what issues are on the BCC Agenda?
+    - How can I find out what topics are on the BCC Agenda?
+    - How can I find out which issues are on the BCC Agenda?
+    - What is the BCC Agenda for 2019?
+    - How can I find out which issues are in the BCC agenda?
+    - What are the topics on the agenda of BCC?
+    - How do you find out what are the topics on BCC's agenda?
+    - What are the issues of the BCC agenda?
+    - How do I find out what issues are on the BCC agenda?
+    - What are the issues that are on BCC Agenda for the 2018 election?
+    - How do I find out what the BCC agenda is?
+- intent: nlu-faq-clay-country-b1/Places-with-pools
+  examples: |
+    - Places with pools
+    - Places with pool. Pools are available in some places.
+    - Places with pools in a tropical garden.
+    - Places with pools have been established at least once a year, and can they be found in a lot?
+    - Places with pools in the lake.
+    - Places with pools or hot springs with waterfalls.
+    - Places with pools for families.
+    - Places with pools at the swimming pool.
+    - Places with pools : Pools, picnic tables & huts and outdoor pool areas.
+    - Places with pools with pools: Where do you find a pool?
+    - Places with pools or hot tubs.
+- intent: nlu-faq-clay-country-b1/Fairfield-by-Marriott
+  examples: |
+    - Fairfield by Marriott
+    - Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott & Fairfield by Marriott, Fairfield by Marriott.
+    - Fairfield by Marriott Fairfield b2b Fairfield by Marriott Fairfield cbt Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield at Marriott Fairfield Marriott Hotel, Chicago. Fairfield by Marriott Fairfield By Marriott Fairfield by Marriott
+    - Fairfield by Marriott Fairfield by Marriott Fairfield Hotel.
+    - Fairfield Marriott by Marriott is a Marriott property. The Fairfield Marriott offers excellent services.
+    - Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield Marriott Fairfield b/c Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott. Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott
+    - Fairfield by Marriott is located near the airport. For the rest of the day, it's an easy drive.
+    - Fairfield by Marriott Hotel Fairfield By Marriott Hotel Fairfield by Marriott Hotel Fairfield has 324 rooms.
+    - Fairfield by Marriott Fairfield By Marriott Fairfield by Marriott Fairfield by Marriott Fairfield Hotel Fairfield Inn.
+    - Fairfield By Marriott Fairfield by Marriott Fairfield by Marriott Fairfield By Marriott Fairfield by Marriott
+    - Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by Marriott Fairfield by
+- intent: nlu-faq-clay-country-b1/Treehouse-Camping
+  examples: |
+    - Treehouse Camping
+    - Camping Treehouse Camping & Cabins-The Treehouse Camping & Cabins-The Treehouse Camping & Cabins Camping Treehouse Camping & Cabins Camping for two weeks 10 days/week and 1 day.
+    - Treehouse Camping. Treehouse Camping.
+    - Treehouse Campsite. Camping in the Treehouse (near a campsite) Treehouse Camping Site (near a campsite)
+    - Treehouse Camping Treehouse Camping Treehouse Camping Camping Treehouse Camping Treehouse Camping Camping Treehouse Camping Camping Treehouse Camping Camping Treehouse Camping Camping Treehouse Camping Camping Treehouse Camping Camping Treehouse Camping
+    - Treehouse Camping (Anzac) Treehouse Camping (British Pines) Treehouse Camping (Gerry Pines) Treehouse Camping (Guest House)
+    - Treehouse Camping Treehouse camping location.
+    - Treehouse Camping Treehouse Camping/Arranger Camping Camping Treehouse Camping Camping Treehouse Camping Camping Camping Treehouse Camping Camping Treehouse Camping Camping Treehouse Camping Camping Camping Treehouse Camping Camping Camping Treehouse Camping Camping Treehouse Camping Camping Treehouse Camping Camping Treehouse Camping Camping Treehouse Camping Camping Camping Treehouse
+    - Treehouse Camping Treehouse Camping Camping
+    - a Treehouse Camping Campsite, Camping House campsite, Camping/Sitting. Treehouse Camping Camping Treehouse Camping Campsite Treehouse Camping. Treehouse Camping.
+    - Treehouse Camping Treehouse Camping Campground Camping.
+- intent: nlu-faq-clay-country-b1/What-Hotels-are-in-Clay-County
+  examples: |
+    - What Hotels are in Clay County
+    - What hotels are in Clay County, Ohio?
+    - What are the best hotels in Clay County?
+    - What are some hotels in Clay County, Georgia?
+    - What are some hotels in Clay County in arizona?
+    - What hotels are in Clay County?
+    - What hotels are there in Clay County, GA?
+    - Which hotels are in Clay County?
+- intent: nlu-faq-clay-country-b1/How-can-I-turn-my-land-into-a-farm
+  examples: |
+    - How can I turn my land into a farm
+    - How can I turn my land into a farm?
+    - How do I turn my property into a farm?
+    - How do I turn a flat into a farm?
+    - How do you turn a small agricultural property into a farm?
+    - How can you turn your family land into a farm?
+    - How do I turn my land into a farming property?
+- intent: nlu-faq-clay-country-b1/How-much-is-it-to-rent-a-cabin-at-camp-chownewaw-park
+  examples: |
+    - How much is it to rent a cabin at camp chownewaw park
+    - How much is it to rent a cabin at camp chownewaw park?
+    - How much is it to rent a camp-chownewaw park cabin?
+    - How much does it cost to rent cabin in camp chownewaw park?
+    - How much is it to rent a cabin at camp chownewaw park in Oklahoma?
+    - How much is it to rent a cabin in camp Chownewaw park?
+- intent: nlu-faq-clay-country-b1/What-hotels-are-in-Fleming-Island
+  examples: |
+    - What hotels are in Fleming Island
+    - What hotels are there in Fleming Island, South Dakota?
+    - What are some hotels to stay at on Fleming Island?
+    - What are the best hotels to stay in Fleming Island?
+    - What are some good hotels in Fleming Island?
+    - What are the top hotels in Fleming Island?
+    - What are some hotels in Fleming Island?
+    - Which hotels are in Fleming Island, Fleming Island?
+    - What hotel is at Fleming Island?
+    - Which hotel are available for vacation in Fleming Island?
+- intent: nlu-faq-clay-country-b1/What-flood-zone-am-I-located-in
+  examples: |
+    - What flood zone am I located in?
+    - What are flood zones?
+    - What is the flood zone in the Philippines?
+    - Where is the flood zone located?
+    - What flood zone is it located in?
+    - What is a flood zone in the Philippines?
+    - What are flood zones in the Philippines?
+    - What flood zone am I located in?
+    - What is a flood zone? What flood zone are you located in?
+    - What flood zone is there in India?
+- intent: nlu-faq-clay-country-b1/Do-I-have-to-reserve-a-pavilion-at-Ronnie-Van-Zant-Park
+  examples: |
+    - Do I have to reserve a pavilion at Ronnie Van Zant Park?
+    - Will I have to reserve a pavilion in Ronnie Van Zant Park?
+    - I have to reserve a pavilion at Ronnie Van Zant Park?
+    - Can we use the pavilion of Ronnie Van Zant Park if we use it?
+    - Do I have to reserve a pavilion at Ronnie Van Zant Park?
+    - How do I reserve a pavilion at Ronnie Van Zant Park?
+    - Does Ronnie Van Zant Park require pavilions?
+    - Can we reserve a pavilion at Ronnie Van Zant Park?
+- intent: nlu-faq-clay-country-b1/How-do-I-apply-for-a-culvert
+  examples: |
+    - How do I apply for a culvert?
+    - How do I apply for culvert?
+    - How can I apply to be a culvert?
+    - How do I apply for a culvert?
+    - How can I apply for a culvert?
+    - How can one apply for culvert?
+    - How can one apply for a culvert?
+- intent: nlu-faq-clay-country-b1/can-an-owner-pull-permits-on-their-rental-property
+  examples: |
+    - can an owner pull permits on their rental property?
+    - Can an owner pull permit on their rental property?
+    - How do I pull a permit on my rental property?
+    - Where and how can you pull permits on your rental property?
+    - Can an owner pull permits on their rental property?
+    - How do I pull permits on my rental property?
+    - Can an owner pull a permit for their rental property?
+    - Can a property owner pull out a permit on their rental property?
+    - How do I pull a permit on a rental property?
+    - Can you pull a permit for your rental property?
+    - How can you pull a permit?
+- intent: nlu-faq-clay-country-b1/Do-I-need-to-be-present-for-a-building-inspection
+  examples: |
+    - Do I need to be present for a building inspection
+    - Do I need to be present for inspection?
+    - Do I need to be present to a building inspection in person?
+    - Do I need to be present for a building inspection?
+    - Do I need to be present for a building inspection or inspection?
+    - Is it necessary to be present for a building inspection?
+    - Do I have to be present for a building inspection and inspection?
+    - Do I need to be present for building inspection?
+- intent: nlu-faq-clay-country-b1/Why-is-my-contractor-license-on-hold
+  examples: |
+    - Why is my contractor license on hold?
+    - Why is my contractor license on hold?
+    - Why does my contractor license are on hold?
+- intent: nlu-faq-clay-country-b1/Where-can-I-print-out-building-permits
+  examples: |
+    - Where can I print out building permits
+    - Where can I print building permit (save old buildings and building permits)?
+    - Where can I print out building permits?
+    - Where can I print building permit forms?
+    - Where can I print building permit form online?
+    - Where can I print building permit online?
+    - Where can I print building permit form and the permit documents?
+    - Where can I print out building permits and other building documents?
+- intent: nlu-faq-clay-country-b1/how-long-is-plan-review
+  examples: |
+    - how long is plan review?
+    - How long is the time it takes to plan review?
+    - How long does a plan review take to review?
+    - How long does a plan review cycle take?
+    - How long is plan review?
+    - How long will a plan review take?
+    - How long is a plan review?
+    - How long does it take plan review process?
+    - How long does a plan review last?
+- intent: nlu-faq-clay-country-b1/How-can-I-find-out-the-status-of-my-VA-claim
+  examples: |
+    - How can I find out the status of my VA claim?
+    - How do I find out what a VA claim is?
+    - How can I get my VA claim revoked?
+    - How do I find out the status of my VA claim?
+    - How do you find out if you have any VA claim?
+    - How do I find out the status of a VA claim?
+    - How can you determine if your VA claim is a valid VA claim?
+    - How can I get out the status of my VA claim with a lawyer?
+    - How can I find out the status of my VA claim?
+- intent: nlu-faq-clay-country-b1/what-VA-benefits-am-I-eligible-for
+  examples: |
+    - what VA benefits am I eligible for?
+    - What are VA benefits?
+    - What VA benefits do I qualify for?
+    - What VA benefits would you like to be eligible for?
+    - What benefits do VA veterans get?
+    - What is VA benefits?
+    - What VA benefits are available for me?
+    - Which VA benefits can I qualify for?
+- intent: nlu-faq-clay-country-b1/where-can-I-throw-out-furniture
+  examples: |
+    - where can I throw out furniture
+    - Where do I throw out furniture?
+    - Where do I throw furniture out?
+    - Where can I throw out furniture?
+    - Where can I get rid of old furniture in my house?
+    - Where can I throw out a piece of furniture?
+    - Where can I throw out all the furniture?
+    - Where can I throw out a furniture?
+    - Where can you throw out furniture?
+    - Where should I throw out all the furniture?
+    - Where can I throw furniture out and recycling?
+- intent: nlu-faq-clay-country-b1/Where-do-I-go-to-file-a-claim-with-the-VA
+  examples: |
+    - Where do I go to file a claim with the VA?
+    - Where do I get a VA claim?
+    - How can I file a claim with the VA?
+    - Where do I file a claim with the VA?
+    - How do I file a claim with the VA?
+    - What is the process to file a VA claim?
+    - Where can I file a claim with the VA?
+    - Where do I file a claim with VA?
+- intent: nlu-faq-clay-country-b1/How-can-I-improve-my-credit-score-and-clean-up-my-credit-history
+  examples: |
+    - How can I improve my credit score and clean up my credit history?
+    - What are some ways to improve credit score?
+    - How do I change my credit score?
+    - How can I improve my credit report?
+    - How can I improve my credit score?
+    - How do I improve my credit score?
+    - How do I clean up my credit history?
+    - How can I change my credit score?
+    - What can I do to improve my credit report?
+    - I have poor credit scores, how do I get better?
+- intent: nlu-faq-clay-country-b1/Where-can-I-get-a-HIPAA-release-form
+  examples: |
+    - Where can I get a HIPAA release form?
+    - How can I get a HIPAA release form?
+    - Where can I get a HIPAA release form?
+    - Where can I get HIPAA release form?
+    - Where can I find a HIPAA release form online?
+    - Where can I get an HIPAA release form?
+    - What is the process for obtaining HIPAA release forms?
+- intent: nlu-faq-clay-country-b1/how-can-I-verify-an-address-for-a-building
+  examples: |
+    - how can I verify an address for a building
+    - How do I verify an address for a building if I have an address registered for it?
+    - How can I verify an address for a building?
+    - How do I verify a building address and verify the building address in real time?
+    - How do I verify an address on a building?
+    - How do I verify address in building, building or other building?
+    - How do I verify an address for a building?
+    - How do you verify a building or building address by building?
+    - How do I verify address for a building?
+    - How can I verify addresses for building codes?
+    - How can I verify address for a building I'm thinking about?
+- intent: nlu-faq-clay-country-b1/How-do-I-dispose-of-needles
+  examples: |
+    - How do I dispose of needles
+    - How do I dispose of needles?
+    - How do you dispose of needles?
+- intent: nlu-faq-clay-country-b1/Are-pets-allowed-at-Camp-Chowenwaw
+  examples: |
+    - Are pets allowed at Camp Chowenwaw?
+    - Can pets stay at Camp Chowenwaw?
+    - Can dogs be permitted in Camp Chowenwaw?
+    - Can animals be a part of camp Chowenwaw?
+    - What are the pets allowed on Camp Chowenwaw?
+    - Do dogs remain allowed at Camp Chowenwaw?
+    - Are pets allowed in Camp Chowenwaw?
+    - Can pets be kept at camp Chowenwaw?
+    - Are pets allowed in Chowenwaw?
+    - Are pets allowed in camp Chowenwaw?
+    - Are dogs allowed on Camp Chowenwaw?
+- intent: nlu-faq-clay-country-b1/does-camp-chowenwaw-park-have-rv-parking
+  examples: |
+    - does camp chowenwaw park have rv parking?
+    - Camp Chowenwaw park has a rv parking garage?
+    - Does camp chowenwaw park have RV parking?
+    - How do I park a 4x4 in Camp Chowenwaw park?
+    - Can camp chowenwaw park have any RV parking?
+    - Does camp chowenwaw park park have RV parking?
+    - Does camp chowenwaw park have rv parking?
+    - Does Camp Changiwaw Park have RV parking?
+    - Does camp Cheweenwaw Park have rv parking?
+- intent: nlu-faq-clay-country-b1/Why-did-I-get-a-code-violation
+  examples: |
+    - Why did I get a code violation?
+    - What are codes that were coded on the person adviing to the code based on the violation?
+    - If I have a code violation, what should I do?
+    - How do I get code violation?
+    - What is the code violation and why did you get code violation?
+    - How do I get a code violation?
+    - Is it a code violation?
+    - Why was my code violation?
+    - What is code violation?
+    - Why did I get code violation on the internet?
+    - What does it mean to get a code violation?
+- intent: nlu-faq-clay-country-b1/What-will-Code-Enforcement-do-if-I-refuse-to-comply-with-the-County-Code
+  examples: |
+    - What will Code Enforcement do if I refuse to comply with the County Code
+    - What will Code Enforcement do when a person refuses to obey the County Code?
+    - What will Code Enforcement do if I refuse to comply with the County Code?
+    - What does the county code enforcement officer do when I refuse to obey the county code?
+    - How will I get fired if I refuse to comply with county code?
+    - What shall Code Enforcement do if I refuse to comply with the County Code?
+    - What will the Enforcement Agency do if I refuse to comply with the County Code?
+    - What does Code Enforcement do if I refuse to comply with the County Code?
+    - What should I do if I refuse to comply with the County Code?
+- intent: nlu-faq-clay-country-b1/When-are-dayuse-meeting-rooms-available-at-camp-chowenwaw-park
+  examples: |
+    - When are day-use meeting rooms available at camp chowenwaw park?
+    - When are the day-use meeting rooms available at camp chowenwaw park?
+    - How do we set up our meeting rooms in the Chowenwaw campsite?
+    - When are day-use meeting rooms available at camp chowenwaw park?
+    - When do you want to use your day-use meeting room at camp chowenwaw park?
+    - Are there day-use meeting rooms at Camp Changiwan?
+    - What are day-use meeting rooms available in Camp Chowenwaw?
+- intent: nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer
+  examples: |
+    - What does Camp Chowenwaw offer?
+    - What does Camp Chowenwaw offer?
+    - What is Camp Chowenwaw/Camp CW?
+    - What is Camp Chowenwaw (Spanish Camp)?
+    - What is Camp Chowenwaw?
+    - What is Camp Chowenwaw? What do campers offer?
+    - What is Camp Chowenwaw offered?
+    - What does Camp Chowenwaw offers?
+    - What does Chowenwaw Camp offer?
+- intent: nlu-faq-clay-country-b1/what-is-camp-chow
+  examples: |
+    - what is camp chow
+    - What is camp chow?
+    - What is a camp chow?
+    - What are camp chow and what are some basic things about them?
+    - What is camp chow and what is camp chow?
+- intent: nlu-faq-clay-country-b1/What-projects-require-a-building-permit
+  examples: |
+    - What projects require a building permit?
+    - What projects need a building permit?
+    - Does any construction project require building permit?
+    - Which projects require a building permit?
+    - What project requires building permits?
+    - What is required for a building permit?
+    - What are some projects that require building permits?
+    - What projects require building permits?
+    - Which projects need building permits?
+    - What are some types of projects that require building permits?
+- intent: nlu-faq-clay-country-b1/where-can-I-get-my-property-value
+  examples: |
+    - where can I get my property value
+    - Where can I get property value?
+    - How do I find my property values?
+    - Where can I get property value in a short period?
+    - How can you calculate property value of your property?
+    - I have to get my property value if i want to get it now?
+    - Where can I get my property value?
+    - Where do I get a property value?
+    - Where can I get my property values?
+    - Where can I obtain the property value?
+- intent: nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate
+  examples: |
+    - Where can I get a birth certificate
+    - Where can I get birth certificate?
+    - How do I get a birth certificate in India?
+    - Where can I get a birth certificate?
+    - Where can I get a birth certificate without a birth certificate?
+    - Where can I get birth certificate for birth in India?
+    - Where can I get birth certificates?
+    - How can I get Birth Certificate for my daughter?
+    - How can I get birth certificate?
+    - Where can I get birth certificate online?
+- intent: nlu-faq-clay-country-b1/Where-can-I-get-a-death-certificate
+  examples: |
+    - Where can I get a death certificate
+    - Where do I get death certificate?
+    - Where can I get a death certificate?
+    - How can I get a death certificate?
+    - How do I get a death certificate?
+    - How can I get death certificate in a state?
+    - Where can I get my death certificate?
+- intent: nlu-faq-clay-country-b1/Where-can-I-get-a-marriage-certificate
+  examples: |
+    - Where can I get a marriage certificate
+    - Where can I get a marriage certificate?
+    - Where can I get a marriage certificate, if I have a valid marriage certificate?
+    - Where can I get marriage certificate for our daughter?
+    - Where can I get marriage certificate?
+    - Where can I get marriage certificates online?
+    - Where can I get married certificate in my hometown of Tulsa, India?
+- intent: nlu-faq-clay-country-b1/Where-can-I-camp
+  examples: |
+    - Where can I camp
+    - Where can I camp?
+    - Where can I camp and camp?
+    - Where can I camp in camp?
+    - Where can you camp?
+    - Where do I camp?
+    - Where do I camp at camp?
+- intent: nlu-faq-clay-country-b1/How-can-I-get-my-landscape-and-garden-soil-tested
+  examples: |
+    - How can I get my landscape and garden soil tested?
+    - How can I get my soil tested in my landscape and garden?
+    - How do you get soil tested in landscape and garden?
+    - How do I get my soil tested for outdoor weed control?
+    - How do I get my soil tested for landscaping and garden plants?
+    - Where can I get soil tests?
+    - How do I get a soil test for landscape and garden soil?
+    - How can I get soil tested?
+    - What should I do to get soil tested for landscaping and gardening?
+    - How can you get soil test for landscape plants?
+    - What is the best way to get soil tested before landscaping?
+- intent: nlu-faq-clay-country-b1/Where-are-all-the-mosquitoes-coming-from
+  examples: |
+    - Where are all the mosquitoes coming from?
+    - Where are mosquitoes coming from?
+    - Where do mosquitoes come from?
+    - Where does the mosquito come from?
+    - Where is mosquito food coming from?
+- intent: nlu-faq-clay-country-b1/Do-all-mosquitoes-bite
+  examples: |
+    - Do all mosquitoes bite?
+    - Does a mosquito bite?
+    - Is it true that all mosquitoes bite?
+    - How can I get my mosquito bites away?
+    - Do mosquitoes bite? If so, how can they bite the humans?
+    - Is it true that mosquitoes bite infested humans?
+    - Do mosquitoes bite?
+    - Do most mosquitoes bite?
+    - How often do mosquitoes bite each other?
+    - How often do mosquito bites happen?
+- intent: nlu-faq-clay-country-b1/How-do-I-submit-for-Development-Review-Committee
+  examples: |
+    - How do I submit for Development Review Committee?
+    - How do I submit for Development Review Committee?
+    - How do I submit to a Development Review Committee?
+    - How can I submit for development review committee?
+    - What is the way to submit for Development Review Committee (DRC)?
+    - How do I submit to Development Review Committee (DRC)?
+    - How do I submit to the Development Review Committee?
+    - How can I submit my application for Development Review Committee?
+    - How do you submit for development review committee?
+    - What do I need to do to be eligible for development review committee?
+    - How do I submit for development review committee?
+- intent: nlu-faq-clay-country-b1/What-are-the-park-hours
+  examples: |
+    - What are the park hours?
+    - What are the park hours?
+    - What is park hours?
+    - What are park hours?
+    - How are park hours?
+- intent: nlu-faq-clay-country-b1/How-can-I-view-the-BCC-Minutes
+  examples: |
+    - How can I view the BCC Minutes?
+    - What is the best way to view a BCC Minutes?
+    - How do I view the BCC minutes?
+    - How do I view the BCC Minutes of 2017?
+    - How can I view the BCC minutes?
+    - How can I view BCC Minutes?
+    - How do I see the entire BCC minutes?
+    - How do I view the BCC minutes online?
+    - How can I view the BCC Minutes?
+    - How can I view the BCC minute views?
+    - How do I view the BCC Minutes?
+- intent: nlu-faq-clay-country-b1/When-will-my-road-be-resurfaced
+  examples: |
+    - When will my road be resurfaced
+    - When will my road be resurfaced?
+    - When will road be resurfaced?
+    - How soon will my driveway be resurfaced?
+    - When does a road get resurfaced?
+    - When will roads be resurfaced?
+    - When will the road be resurfaced?
+    - When will I get my road resurfaced?
+    - When will my road be resurfaced? How do I fix it?
+- intent: nlu-faq-clay-country-b1/How-do-I-apply-for-a-job
+  examples: |
+    - How do I apply for a job?
+    - How can I apply for jobs?
+    - How do I apply for jobs?
+    - How do I apply for a job?
+    - How can I apply for job?
+- intent: nlu-faq-clay-country-b1/What-are-the-park-rules-for-Camp-Chowenwaw-Park
+  examples: |
+    - What are the park rules for Camp Chowenwaw Park?
+    - What are the park rules in Chowenwaw Park?
+    - What are the park rules for camp Chowenwaw Park?
+    - What are the park rules for Camp Chowenwaw Park?
+    - What is the park rules for Camp Chowenwaw Park?
+    - What are the park rules for Camp Chowenwaw?
+    - What are park rules and regulations for camp Chowenwaw park?
+- intent: nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park
+  examples: |
+    - What is there to do at Camp Chowenwaw Park?
+    - What is there to do at Camp Chowenwaw Park?
+    - What are some interesting things to do in Camp Chowenwaw Park?
+    - What can you do at Camp Chowenwaw Park?
+    - What's to do at Camp Chowenwaw Park?
+    - What is there to do at Camp Chowenwaw?
+    - What can I do in camp chowenwaw park?
+    - What are the things to do at Camp Chowenwaw?
+    - What are the best things to do at Camp Chowenwaw?
+    - What is there to do in camp Chowenwaw park?
+- intent: nlu-faq-clay-country-b1/What-are-the-Clay-county-human-resources-office-hours
+  examples: |
+    - What are the Clay county human resources office hours
+    - What are Clay county human resources office hours?
+    - What are the clay county human resources office hours? What are the phone numbers?
+    - What are the Clay County Human Resources office hours?
+    - What are the Clay county human resources office hours?
+    - What are the Clay County human resources office hours?
+    - What are the Clay County Human Resources Office hours?
+    - What are the Clay county human resources offices hours?
+- intent: nlu-faq-clay-country-b1/How-do-I-obtain-a-commercial-power-to-clean-and-show
+  examples: |
+    - How do I obtain a commercial power to clean and show?
+    - How do I obtain commercial power to clean and show?
+    - How do I obtain a commercial power to clean and show?
+    - How do you obtain a commercial power to clean and show?
+    - What are some ways to obtain a commercial power to clean and show?
+- intent: nlu-faq-clay-country-b1/What-are-the-benefits-offered-by-the-Board-of-County-Commissioners
+  examples: |
+    - What are the benefits offered by the Board of County Commissioners?
+    - What are some benefits of the Board of County Commissioners?
+    - What are the advantages of County Commissioners?
+    - What are the benefits of the Board of County Commissioners?
+    - What are the benefits of being a County Commissioner?
+    - What are the benefits of being elected by the Board of County Commissioners?
+    - What are the benefits offered by the Board of County Commissioners?
+    - What are the advantages of a Board of County Commissioners?
+    - What are the benefits provided by a Board of County Commissioners?
+- intent: nlu-faq-clay-country-b1/Who-is-responsible-for-cleaning-after-an-event-at-the-clay-county-fairground
+  examples: |
+    - Who is responsible for cleaning after an event at the clay county fairground?
+    - Who is responsible for cleaning after an event at the clay county fairground?
+    - Who is responsible for cleaning after an event at Clay County fairgrounds?
+    - Who are responsible for cleaning after an event at the clay county fairgrounds?
+    - Who is responsible for cleaning after an event at the clay county fairgrounds?
+    - Who is responsible for clean up after an event at clay county fairground?
+    - How do you clean the clay county fairgrounds?
+    - Who is responsible for cleaning after an event at the Clay County Fairground?
+    - What is responsible for cleaning after an event at the Clay County fairground?
+- intent: nlu-faq-clay-country-b1/How-can-I-verify-information-about-a-current-or-past-employee
+  examples: |
+    - How can I verify information about a current or past employee?
+    - How do I verify information about a current employee?
+    - How do I verify information on a current or past employee?
+    - How do you verify information about a current or past employee?
+    - How do I verify information about a current or past employee?
+    - How can I verify information about a current or past employee?
+    - How do I verify the identity of an employee?
+    - How do I verify a job history?
+    - How do I verify information about my current employer?
+    - How do I verify information about an individual?
+- intent: nlu-faq-clay-country-b1/What-Radio-and-TV-channels-should-I-use-to-track-emergency-watches-and-warnings
+  examples: |
+    - What Radio and TV channels should I use to track emergency watches and warnings?
+    - What Radio and TV channels can I use to track emergency watches and warnings?
+    - What radio and TV channels should I use to track emergency watches and warnings?
+    - Which radio and TV channels should I use to track emergency watch and warnings?
+    - Which TV channel should I use to monitor emergency watches and warnings?
+    - Which radio and television channels should I use to track the situation of an emergency?
+    - What channels should I use to track emergency watches or warnings?
+    - Which radio channels should I use to track emergency watches and warnings?
+    - What radio and TV channels are there to track emergency watches and warnings?
+    - Which Radio and TV channels should I use to track emergency watches and warnings?
+- intent: nlu-faq-clay-country-b1/Do-you-have-any-information-on-flood-safety
+  examples: |
+    - Do you have any information on flood safety?
+    - Do you have any information on flood safety?
+    - How do I ensure my home is safe from flood and landslide?
+    - Is there any information about flood safety?
+    - What are some flood safety facts that we should know?
+    - Are flood safety standards being violated?
+    - What is the best way to prepare for floods?
+    - What is the best information on flood safety?
+    - How can I get more flood-safety information?
+    - What are some good flood safety tips?
+    - Do you have information about flood safety?
+- intent: nlu-faq-clay-country-b1/How-do-I-join-4H
+  examples: |
+    - How do I join 4-H?
+    - How can I join a 4-H?
+    - How do I join a 4-H organization?
+    - How do I join 4-H?
+    - How can I join 4-H?
+    - How do I join the 4-H community?
+    - How do you join 4-H?
+    - How do I get involved in 4-H?
+- intent: nlu-faq-clay-country-b1/Do-you-have-an-interactive-map-viewer
+  examples: |
+    - Do you have an interactive map viewer?
+    - Is there an interactive map viewer?
+    - How can I find an interactive map viewer?
+    - Is there a way to create interactive maps in a website?
+    - Do you have an interactive map viewer?
+    - How can you map to a different area?
+- intent: nlu-faq-clay-country-b1/What-maps-are-available-for-download
+  examples: |
+    - What maps are available for download?
+    - Which maps are available to download?
+    - What are the best free maps to download?
+    - Which map is available for download?
+    - What are some maps available for download?
+    - What is a map available for download?
+    - What are some of the best free online map download sites?
+    - Is there any map that will work for a local or national park?
+    - What are the free maps available for downloading?
+    - What are some free map download apps?
+    - Which is the best mapping app on earth available for download?
+- intent: nlu-faq-clay-country-b1/What-do-I-do-about-a-lien-on-my-property
+  examples: |
+    - What do I do about a lien on my property?
+    - What do I do if I have a lien on my property?
+    - What should I do if there's a lien on my property?
+    - What should I do if I have a lien on my property?
+    - What is the best way to file a legal action against a lien on property?
+    - What do I do when someone has a lien on my property?
+    - What does it take to fight a lien from my home?
+    - What are the remedies for a lien on my property?
+    - What can I do if I get a lien on my property?
+    - What should I do about a lien I have on my property?
+- intent: nlu-faq-clay-country-b1/Why-am-I-being-cited-for-not-having-a-permit-I-purchased-the-property-like-this
+  examples: |
+    - Why am I being cited for not having a permit, I purchased the property like this?
+    - Why am I being cited for not having a permit, I purchased the property like this?
+    - Why do you not have a permit for purchases of real estate?
+    - Why am I being cited for not having a permit for buying the property like this?
+    - Why am I cited for not having a permit, I purchased the property like this?
+    - Why do I get cited for not having a permit, I bought the property like this?
+    - Why am I being cited for not having a permit, I bought the property like this?
+    - Why do I get cited for not having a permit and then not having a property purchase permit when I can still move and sell?
+    - Is it still legal to be cited for not having a permit for purchase of a property?
+- intent: nlu-faq-clay-country-b1/How-long-will-it-take-for-the-Code-Enforcement-officer-to-respond-to-my-complaint
+  examples: |
+    - How long will it take for the Code Enforcement officer to respond to my complaint?
+    - How long will it take an officer to respond to a complaint?
+    - How long does it take for a Code Enforcement Officer to respond to a complaint?
+    - How long does it take for Code Enforcement to respond to my complaint?
+    - How long will it take for the Code Enforcement officer to respond to my complaint?
+    - How long do I have to wait for a response from a code enforcement officer?
+    - How long will it take for the code enforcement officer to respond to my complaint?
+    - How long does it take for a Code Enforcement Officer to respond to my complaint?
+    - How long does it take for the code enforcement officer to respond to a complaint?
+    - How long can I wait for my complaint to be processed by Code Enforcement?
+    - How long is the code enforcement officer going to respond to my complaint?
+- intent: nlu-faq-clay-country-b1/How-long-will-it-take-to-resolve-the-code-enforcementviolation
+  examples: |
+    - How long will it take to resolve the code enforcement violation?
+    - How long does it take for an enforcer to determine if a violation of Code Enforcement is involved?
+    - How long does it take to resolve a code enforcement violation?
+    - How long does it take to resolve the code enforcement violation?
+    - How long does it take to resolve code enforcement violation?
+    - How long would it take to resolve code enforcement violations?
+    - How long does code enforcement take to resolve a code enforcement violation?
+    - How long will it take to resolve a violation by a code enforcement officer?
+    - How long will it take to resolve the code enforcement violation?
+    - How long will it take to resolve code enforcement violations?
+- intent: nlu-faq-clay-country-b1/What-do-I-do-about-a-violation-letter-I-received-from-code-enforcement
+  examples: |
+    - What do I do about a violation letter I received from code enforcement
+    - What should I do about the violation letter I received from code enforcement?
+    - What happens to a violation letter I received from code enforcement?
+    - What should I do about a violation letter I received from Code Enforcement regarding a violation letter I received from Code Enforcement?
+    - What do I do about a violation letter I received from Code Enforcement?
+    - What do I do about a violation letter I received from code enforcement?
+    - How do I respond to a violation letter I got from code enforcement that l should be handled?
+    - What are the procedures I should follow after receiving a violation letter from code enforcement?
+    - What can I do about a violation letter I received from code enforcement?
+    - How should I respond to a violation letter I received from code enforcement?
+    - How do I respond to a violation letter from code enforcement?
+- intent: nlu-faq-clay-country-b1/Can-I-remain-anonymous-when-filing-a-complaint
+  examples: |
+    - Can I remain anonymous when filing a complaint?
+    - How do I become anonymous in complaint files?
+    - Can I remain anonymous when filing a complaint?
+    - Can I remain anonymous in filing complaints?
+    - Is there a way to remain anonymous if you have a complaint?
+    - How do I remain anonymous by filing complaint online?
+    - Can I remain anonymous when filing complaint?
+    - Can I remain anonymous if I file a complaint?
+- intent: nlu-faq-clay-country-b1/What-does-Camp-Chowenwaws-Orange-Blossom-room-have-in-it
+  examples: |
+    - What does Camp Chowenwaw's Orange Blossom room have in it?
+    - What does Chowenwaw's Orange Blossom room have in it?
+    - What does Camp Chowenwaw's orange blossom room have in it?
+    - What does Camp Chowenwaw's Orange Blossom Room have in it?
+    - What does Camp Chowenwaw's Orange Blossom room have in it?
+    - What does Chowenwaw's Orange Blossom Room have in it?
+    - What does Camp Chowenwaw's Orange Blossom room have?
+- intent: nlu-faq-clay-country-b1/what-is-available-in-the-kiwita-room-at-camp-chowenwaw-park
+  examples: |
+    - what is available in the kiwita room at camp chowenwaw park?
+    - What is available in the kiwita room at Camp Chowenwaw park?
+    - What is available in the Kiwita room at camp chowenwaw park?
+    - What is available in the kiwita room at camp chowenwaw park?
+    - What is available in the kiwita room of camp chowenwaw park?
+- intent: nlu-faq-clay-country-b1/What-do-you-provide-in-the-Big-Cabin-at-camp-chowenwaw-park
+  examples: |
+    - What do you provide in the Big Cabin at camp chowenwaw park?
+    - What do you provide in the big cabin at camp chowenwaw park?
+    - What do you provide in the Big Cabin at camp chowenwaw park?
+    - What do you provide in the Big Cabin at camp chowenwaw?
+    - What do you provide in Big Cabin at Camp Chowenwaw park?
+    - What do you provide in the Big Cabin at Camp Chowenwaw?
+- intent: nlu-faq-clay-country-b1/What-can-I-bring-to-camp-at-camp-chowenwaw
+  examples: |
+    - What can I bring to camp at camp chowenwaw?
+    - What can I bring to camp at camp chowenwaw?
+    - Can I bring my own stuff for camp chowenwaw?
+    - What should I bring to camp in camp Chowenwaw?
+    - What are some good things to bring to camp in camp chowenwaw?
+    - How do I bring your own children to camp at camp chowenwaw?
+    - What should I bring to camp chowenwaw?
+    - What should I bring to camp in Changenwaw?
+    - What should I bring to camp in Camp Chevenwaw?
+- intent: nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park
+  examples: |
+    - can you camp at camp chowenwaw park
+    - Can you camp at camp chowenwaw park?
+    - Can you camp at camp Chowenwaw park?
+    - What are some ways to camp in camp Chowenwaw Park?
+    - Can you camp in Camp Chowenwaw park?
+    - Is camp chowenwaw a camp in the park?
+    - What is the best camping spot at Camp Changiwakaw Park in Camp Changiwakawa?
+- intent: nlu-faq-clay-country-b1/How-do-I-find-out-more-about-Camp-Chowenwaw
+  examples: |
+    - How do I find out more about Camp Chowenwaw?
+    - How can I find out more about Camp Chowenwaw?
+    - How do I find out more about Chowenwaw camp?
+    - How do I find out about camp Chowenwaw?
+    - What are the various ways to find out about Camp Chowenwaw?
+    - How do I find out more about Camp Chowenwaw?
+    - What is camp Chowenwaw?
+    - How do I find out about Camp Chowenwaw?
+    - How do you find out more about Camp Chowenwaw?
+- intent: nlu-faq-clay-country-b1/how-do-i-become-a-master-gardener
+  examples: |
+    - how do i become a master gardener
+    - How do I become a master gardener?
+    - How can I become a master gardener?
+    - How should I become a Master Gardener?
+    - How do I become a successful gardener?
+    - How can one become a master gardener?
+    - How can I be a master gardener?
+    - How do you become a master gardener?
+- intent: nlu-faq-clay-country-b1/How-long-is-food-good-in-a-refrigerator-without-power
+  examples: |
+    - How long is food good in a refrigerator without power
+    - How long food should be kept in a refrigerator?
+    - How long food is good in a refrigerator without power for without power for?
+    - How long is food good in refrigerator without power?
+    - How long does food in a refrigerator last without power?
+    - How long food will be safe in a refrigerator if stored in cold?
+    - How long is food good to store in a refrigerator without power?
+    - How long can food stay in the refrigerator without electricity?
+    - How long will food last in the refrigerator?
+    - How long food can stay in the fridge without losing its natural color?
+    - How long is food in a refrigerator without power?
+- intent: nlu-faq-clay-country-b1/What-is-an-MSBU
+  examples: |
+    - What is an MSBU?
+    - What is MSBU?
+    - What is an MSBU?
+    - What is a MSBU?
+    - What are MSBU's?
+- intent: nlu-faq-clay-country-b1/how-can-i-start-a-school-garden
+  examples: |
+    - how can i start a school garden
+    - How can we start school gardens?
+    - How do you start a school garden in your class?
+    - How do I start school garden?
+    - How can I start my own school garden?
+    - How do I start a school garden?
+    - How can I start school garden?
+    - What is the easiest way to start a school garden?
+    - How can I start a school garden?
+- intent: nlu-faq-clay-country-b1/Does-mosquito-control-harm-bees
+  examples: |
+    - Does mosquito control harm bees?
+    - How mosquito control harms bees?
+    - Does mosquito control affect bees?
+    - Does mosquito control harm bees?
+    - Why does mosquito control harm bees?
+    - How mosquito control works?
+    - Do mosquito repellants harm bees?
+    - Can mosquito control harm bees?
+- intent: nlu-faq-clay-country-b1/Can-I-get-sick-from-a-mosquito-bite
+  examples: |
+    - Can I get sick from a mosquito bite
+    - Can a mosquito bite a person from a mosquito bite?
+    - Can you get sick from a mosquito bite?
+    - Can I get sick from a mosquito bite?
+    - How do you get sick from a mosquito bite?
+    - Can mosquito bite a person when they bite them, or do they get sick from them?
+    - Can I get seriously ill from a mosquito bite?
+    - How can I get sick from mosquito bites?
+- intent: nlu-faq-clay-country-b1/How-many-types-of-mosquitoes-are-there
+  examples: |
+    - How many types of mosquitoes are there?
+    - What are some common types of mosquitoes and what are the types of mosquitoes?
+    - How many types of mosquitoes are there in the entire world?
+    - What are some of the most common mosquitoes in the world?
+    - What are the types of mosquitoes and their numbers?
+    - How many types of mosquitoes are there?
+    - What are the types of mosquitoes?
+    - How many species of mosquitoes are there?
+    - How many mosquitoes are there in the whole world?
+    - How many different types of mosquitoes are there in the world?
+- intent: nlu-faq-clay-country-b1/Do-you-provide-public-education-about-mosquitoes
+  examples: |
+    - Do you provide public education about mosquitoes?
+    - Do you provide public education about mosquitoes?
+    - Do you offer public education about mosquitoes?
+    - What is a good mosquito education program?
+- intent: nlu-faq-clay-country-b1/Do-you-have-a-set-schedule-for-spraying-mosquitoes
+  examples: |
+    - Do you have a set schedule for spraying mosquitoes?
+    - Do you have a fixed schedule for spraying mosquitoes?
+    - Do you have a specific schedule for spraying mosquitoes and ticks?
+    - Do you have a set schedule for spraying mosquitoes?
+    - Do you have a set schedule to spray mosquitoes?
+    - Do you have a schedule for spraying mosquitoes?
+    - Do you spray mosquitoes daily?
+    - Is there a daily time or do you spray mosquitoes?
+    - Do you have a schedule to spray mosquitoes?
+- intent: nlu-faq-clay-country-b1/When-does-mosquito-spraying-occur
+  examples: |
+    - When does mosquito spraying occur
+    - Where and how do mosquitoes spray?
+    - What is mosquito spraying?
+    - When can mosquito spraying occur?
+    - How and when does mosquito spraying occur?
+    - What are the risks of mosquito spraying if they are not prevented?
+    - When did mosquito spraying occur?
+    - When is mosquito spraying not acceptable?
+    - Can mosquitoes be kept away from the affected area?
+    - What does mosquito spraying do?
+    - When is mosquito spraying done?
+- intent: nlu-faq-clay-country-b1/How-does-the-spray-request-work
+  examples: |
+    - How does the spray request work?
+    - How does spray request work?
+    - How does spray request works?
+    - What is spray request and how does it work?
+    - How does the spray request work?
+    - How does a spray request work?
+- intent: nlu-faq-clay-country-b1/What-are-the-Lake-Asbury-and-Branan-Field-Masterplans
+  examples: |
+    - What are the Lake Asbury and Branan Field Masterplans?
+    - What are the plans for the Branan Fields and Lake Asbury Masterplans?
+    - What are the Lake Asbury and Branan Field Masterplans?
+    - What are the Masterplans for Branan Field and Lake Asbury?
+    - How are the Lake Asbury and Branan Field Masterplans in terms of resource allocation?
+    - What are the Branan and Lake Asbury masterplans?
+    - What is the lake asbury and Branan Field Masterplans?
+    - What are the Lake Asbury and Branan Field masterplans?
+- intent: nlu-faq-clay-country-b1/What-is-the-Land-Use
+  examples: |
+    - What is the Land Use?
+    - What is land use?
+    - What is Land Use?
+    - What is land use? What do you think is the definition?
+- intent: nlu-faq-clay-country-b1/How-to-make-a-Land-Use-change
+  examples: |
+    - How to make a Land Use change?
+    - How does a land use change affect the way the land is used?
+    - What would be a plan to change land use?
+    - How can I make land use change?
+    - Is a land use change possible?
+    - What's the best way to change land use to make a land use change?
+    - What are the reasons why land use can change?
+    - How does changing land use affect land use?
+    - How does a Land Use Change affect our nation?
+    - How can the Land Use Change Bill be enacted?
+    - How do I make a land use change?
+- intent: nlu-faq-clay-country-b1/Where-do-we-apply-for-Alarm-permits
+  examples: |
+    - Where do we apply for Alarm permits?
+    - How do I apply for an alarm permit?
+    - Where do I apply for alarm permits?
+    - What is an application form for Alarm Permits?
+    - Where can we apply for an Alarm Permit?
+    - Where do I apply for Alarm permit?
+    - How can I apply for alarm permit?
+    - How can you apply for an Alarm Permit?
+    - Where can I apply for alarm permit?
+- intent: nlu-faq-clay-country-b1/how-do-i-find-out-if-a-lot-is-buildable
+  examples: |
+    - how do i find out if a lot is buildable
+    - How do I determine if a lot is buildable?
+    - How do I find out if a lot is buildable?
+    - How do I know if a lot is builtable?
+    - How can I tell if a lot is buildable?
+    - How can I tell whether a lot is buildable?
+    - How do you find out if a lot is buildable?
+    - How do I determine if a lot is buildable or not?
+    - How can I tell if a lot of something is buildable and/or not?
+- intent: nlu-faq-clay-country-b1/What-are-my-setbacks-on-my-property
+  examples: |
+    - What are my setbacks on my property?
+    - What are the setbacks of my property?
+    - What are my setbacks on my property?
+    - What are setbacks on my property?
+- intent: nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home
+  examples: |
+    - how do i pull a permit on my home
+    - How can I pull a permit for my residence?
+    - How do I pull a permit and drive it to my apartment without getting charged for the stay there?
+    - How do you get a permit on a home?
+    - How can I get a permit for my home?
+    - How do I apply for permits while living in my home?
+    - How do I pull a permit for my home?
+    - How do you get a permit for entry at your home?
+    - How do I get a permit for my home?
+    - How do I pull a permit on my house?
+    - How do I obtain a permit to stay at a home?
+- intent: nlu-faq-clay-country-b1/How-do-I-change-a-contractor-on-an-existing-permit
+  examples: |
+    - How do I change a contractor on an existing permit?
+    - How do I change a contractor on an existing permit?
+    - How can I change a contractor on an existing permit?
+    - How do I change contractor on an existing permit?
+    - How do I change contractors?
+    - How do I change contractors in a permit?
+    - How can you change a contractor to a contractor on an existing permit?
+    - How can I change my contractor on an existing permit?
+    - How do I change contractor on my existing permit?
+    - How do I change a contractor in an existing permit?
+    - How can I change a contractor to another contractor on an existing permit?
+- intent: nlu-faq-clay-country-b1/Who-needs-to-sign-the-permit-application
+  examples: |
+    - Who needs to sign the permit application?
+    - Who do I need to sign permit application?
+    - What is a permit application?
+    - What should a citizen sign for permits?
+    - Who are the key person to sign the permit application?
+    - Who need to sign permit application?
+    - Can a tourist sign permit application?
+    - Who needs to sign permit application?
+    - How can you sign a permit application?
+    - Who is supposed to sign the permit application?
+- intent: nlu-faq-clay-country-b1/Who-do-I-call-for-permitting-and-zoning-questions
+  examples: |
+    - Who do I call for permitting and zoning questions?
+    - Who do I call to get zoning questions answered?
+    - Who can I contact for permitting and zoning questions?
+    - Who is the best person I can call and get some answers for permitting and zoning questions?
+    - Who do I contact for permitting and zoning questions?
+    - Who do I call and ask questions regarding permitting, zoning, and land development?
+    - Who do I call if I need assistance with zoning questions?
+    - Who do I call for questions regarding permitting?
+    - Where can I find all the answers in my permitting and zoning questions?
+    - Who do I contact to obtain permit and zoning information?
+    - Who do I call with any questions about permit and zoning?
+- intent: nlu-faq-clay-country-b1/How-much-does-my-building-permit-cost
+  examples: |
+    - How much does my building permit cost?
+    - How much does a building permit cost in a single year?
+    - How much does a building permit cost?
+    - How much does building permit cost?
+    - How much does my building permit cost?
+    - How much does a building permit costs?
+- intent: nlu-faq-clay-country-b1/What-happens-after-the-building-permit-is-issued
+  examples: |
+    - What happens after the building permit is issued?
+    - What happens to a building permit after it has been granted?
+    - What happens after building permit is issued?
+    - What happens after a building permit is issued?
+    - How do you proceed after a building permit has been issued?
+    - What happens to the building permit?
+    - What happens if a building permit is issued?
+    - What happens after the building permit is issued?
+    - What happens to your building permit if you got it?
+- intent: nlu-faq-clay-country-b1/Will-I-need-a-building-permit-for-my-garage
+  examples: |
+    - Will I need a building permit for my garage?
+    - Will I need a building permit to put up a garage?
+    - Will I need a building permit for my garage?
+    - Do I need a building permit for a garage?
+    - How often do I need a building permit to build a garage?
+    - How long does it take to get a building permit for the garage?
+    - Do I need a permit to open my garage?
+    - Will you need to get a building permit for a garage?
+    - Does a building permit require a building permit to build a garage?
+- intent: nlu-faq-clay-country-b1/Do-you-help-Veterans-with-rent-or-utility-bills
+  examples: |
+    - Do you help Veterans with rent or utility bills?
+    - Do you help veterans with their rent and utilities?
+    - Does the VA assist veterans with their utilities?
+    - Do you help Veterans with rent or utility bills?
+    - Do you help veterans with their rent or utility bills?
+    - Do veterans find the need for assistance with their rent and utilities?
+    - Do you help veterans with utilities and rent?
+    - Do you help veterans with utility bills?
+    - Do you help Veteran with rent or utility bills?
+- intent: nlu-faq-clay-country-b1/Do-you-provide-transportation-to-the-VA-Medical-Center-in-Gainesville-or-Lake-City
+  examples: |
+    - Do you provide transportation to the VA Medical Center in Gainesville or Lake City?
+    - Do you provide transportation to VA Medical Center Gainesville/Lake City?
+    - Do you provide transportation to the VA Medical Center in Gainesville or Lake City?
+    - Do you provide transportation to the VA Medical Center in Gainesville?
+    - Do you provide transportation to the VA Medical Center Gainesville or Lake City?
+    - Do you provide transportation to VA medical center for Veterans in Gainesville/Lake City?
+    - How do I get to VA Medical Center?
+- intent: nlu-faq-clay-country-b1/Where-do-I-get-a-VA-ID-card
+  examples: |
+    - Where do I get a VA ID card?
+    - Where can I get a VA ID card?
+    - How can I get VA ID card?
+    - Is it possible to get a VA ID card from me?
+    - Where can I get VA ID card in 12 months?
+    - Where do I get VA ID card?
+    - What is the VA ID card and how can I get one?
+    - Where can I get VA ID card?
+    - Where do I get a VA ID card?
+    - How do I get VA ID card?
+- intent: nlu-faq-clay-country-b1/Where-do-you-find-Clay-Countys-tax-exemption-certificate
+  examples: |
+    - Where do you find Clay County's tax exemption certificate?
+    - How do you find Clay County's tax exemption certificate?
+    - Where can you find Clay County's tax exemption certificate?
+    - Where can I find Clay County's tax exemption certificate?
+    - Where does Clay County's tax exemption certificate come from?
+    - Where do you find Clay County's tax exemption certificate?
+    - Where is the state tax exemption certificate in Clay County?
+    - Where is the free tax exemption for Clay County?
+    - How does Clay County's tax exemption certificate work?
+    - Where do you find Clay County tax exemption certificates?
+- intent: nlu-faq-clay-country-b1/Where-are-awarded-bids-listed
+  examples: |
+    - Where are awarded bids listed?
+    - Where are awarded bids listed?
+    - Where are the bids for bids listed?
+    - Where are all awarded bids listed?
+    - Where are all the awarded bids available?
+    - Where are the awarded bids listed?
+- intent: nlu-faq-clay-country-b1/where-can-i-find-bccs-recent-bids
+  examples: |
+    - where can i find bcc's recent bids?
+    - Where can I find a list of recent bcc bids?
+    - Where can I find bcc's bids?
+    - What are BCC bids?
+    - What are BCC recent bids?
+    - Where can I see the latest bids of the BCC?
+    - Where can I find bcc's recent bids?
+    - How can I find out about bcc bids?
+    - Where can I find BCCC's latest bids?
+    - How can I find a list of recent bids of the BCCC?
+- intent: nlu-faq-clay-country-b1/Where-do-I-dispose-of-tires
+  examples: |
+    - Where do I dispose of tires?
+    - Where can I dispose of tires?
+    - How do you dispose of a tire?
+    - Where can I dispose of my tires?
+    - Where do I dispose of a tire?
+    - Where do you dispose of tires?
+    - Where can I dispose of old tires?
+    - Where do I dispose of tires?
+    - How do I dispose of tires?
+- intent: nlu-faq-clay-country-b1/how-do-I-dispose-of-hazardous-waste
+  examples: |
+    - how do I dispose of hazardous waste?
+    - How can I dispose of hazardous wastes?
+    - How can I dispose of hazardous waste?
+    - How do I dispose of hazardous waste?
+    - What is the best way to dispose of hazardous waste?
+    - How do you dispose of hazardous wastes?
+    - How do you dispose of hazardous waste?
+- intent: nlu-faq-clay-country-b1/How-can-I-dispose-of-my-boat
+  examples: |
+    - How can I dispose of my boat
+    - How do I dispose of boats?
+    - How do I dispose of my boat?
+    - What are some ways of disposing of a boat?
+    - How do I dispose of a boat?
+    - How can I dispose of a boat?
+    - How do you dispose of a boat?
+    - How do I dispose of my boat's hull?
+- intent: nlu-faq-clay-country-b1/Where-do-I-dispose-of-appliances
+  examples: |
+    - Where do I dispose of appliances?
+    - Where can I dispose of appliances?
+    - Where do I dispose of old appliances?
+    - Where can I dispose of all my appliances?
+    - Where do I dispose of appliances?
+    - How do I dispose of a used appliance?
+    - How can I dispose of appliances?
+    - How do I dispose of unrecyclable household appliances?
+- intent: nlu-faq-clay-country-b1/Who-can-I-contact-to-remove-large-appliances
+  examples: |
+    - Who can I contact to remove large appliances?
+    - How can I remove large appliances?
+    - Who are good contractors for removal of appliances?
+    - Who are some good sites to remove large appliances?
+    - What are the most efficient removal services to remove large appliances from a home?
+    - Who can I contact to remove large appliances?
+    - Which is the best removal service for large appliances?
+    - Who can remove large appliances?
+    - Who can I contact to remove large appliances from their original location?
+    - Who do I contact to remove my large appliances?
+- intent: nlu-faq-clay-country-b1/Where-can-I-launch-my-boat-in-Clay-County
+  examples: |
+    - Where can I launch my boat in Clay County?
+    - Where is the best place to launch my boat in Clay County?
+    - Where can I launch my boat in Clay County?
+    - Where can I launch my boat in Clay County, Georgia?
+    - Where can I launch boat in Clay County?
+    - Where can I launch my boat to shore in Clay County?
+    - Where is the best boat launch site in Clay County?
+    - Where can I get a boat launching permit in Clay County?
+- intent: nlu-faq-clay-country-b1/Where-can-I-launch-my-kayak
+  examples: |
+    - Where can I launch my kayak?
+    - Where should I launch my kayak?
+    - Where can I launch my kayak?
+    - How do you launch a kayak?
+    - Where do I launch a kayak?
+    - How do I launch a kayak?
+    - How can I launch my kayak from a flat water lake?
+    - Where can I launch kayak?
+    - What is the best place to launch a kayak?
+- intent: nlu-faq-clay-country-b1/Where-can-I-find-a-list-of-pet-friendly-parks
+  examples: |
+    - Where can I find a list of pet friendly parks?
+    - What are some pet friendly parks in the US?
+    - Where can I find a list of pet friendly parks near me?
+    - What are the pet parks?
+    - Where can I find some pet friendly parks near me?
+    - What are the best pet friendly parks?
+    - What are the best pet parks?
+    - Which are the best pet friendly parks for dogs?
+    - What are some of the best pet parks in the USA?
+    - Where can I find a list of pet friendly parks?
+    - Where can I find a list of pet friendly parks in Colorado?
+- intent: nlu-faq-clay-country-b1/What-facilities-can-I-rent
+  examples: |
+    - What facilities can I rent?
+    - What are the best facilities to rent?
+    - What facilities can I rent?
+    - What is the best facilities to rent?
+    - What are the best facilities to rent in a city?
+    - What are the facilities I can rent?
+    - What facilities can I rent out?
+    - What are the best facilities available to rent?
+- intent: nlu-faq-clay-country-b1/How-can-I-rent-a-field
+  examples: |
+    - How can I rent a field
+    - How can I rent a field?
+    - How do I rent fields?
+    - How do I rent a field in Kansas?
+    - How do I rent a field?
+    - How do you rent a field?
+    - How do I rent out a field?
+    - How do I rent field equipment?
+- intent: nlu-faq-clay-country-b1/Where-can-I-rent-a-pavillion
+  examples: |
+    - Where can I rent a pavillion
+    - Where can I rent a pavillion for a building that needs a lot of new construction?
+    - Where can I rent pavillions?
+    - Where can I rent a pavillion?
+    - Where can I rent a pavillion to a child?
+    - Where can I rent pavillion?
+    - How can I rent pavillion?
+- intent: nlu-faq-clay-country-b1/What-is-my-library-PIN
+  examples: |
+    - What is my library PIN
+    - What is my library pin?
+    - What is my library PIN?
+    - What are library pins?
+    - My library PIN is valid. How can I find that my library is located?
+    - What are the library PINs?
+    - What are the library PIN's?
+    - What is your library PIN?
+    - How do I get my library's PIN?
+- intent: nlu-faq-clay-country-b1/How-do-I-place-holds-at-the-library-online
+  examples: |
+    - How do I place holds at the library online?
+    - How do you place hold at a library online?
+    - How do I place hold online in library?
+    - How can I place hold online at the library?
+    - How do I place holds at the library online?
+    - How can I place my holds in a library online?
+    - How can I place hold in library online?
+    - Can I place holds online in libraries?
+    - Can I place a hold online?
+    - What are some ways to place holds online in the library?
+- intent: nlu-faq-clay-country-b1/Is-there-a-leash-law-for-cats-in-Clay-County
+  examples: |
+    - Is there a leash law for cats in Clay County?
+    - Is there a leash law for cats in Clay County?
+    - Does Clay County require cats to be allowed to walk on leash?
+    - What is a leash ordinance in Clay County for cats?
+- intent: nlu-faq-clay-country-b1/Do-you-have-horses-available-for-adoption
+  examples: |
+    - Do you have horses available for adoption?
+    - What are horses and their adoptions?
+    - What are the available horses for adoption in Wyoming?
+    - Do you have horses for sale if you've got one?
+    - Are horses available for adoption?
+    - Can you offer a horse to meet your criteria?
+    - Do you have any available horses for adoption?
+    - Does a stable/working horses/racers have any opportunities for adoption?
+    - Do you have horses for adoption?
+    - Can you provide any info on horses for adoption?
+    - Does anyone know of any reputable breeds of horses available for adoption?
+- intent: nlu-faq-clay-country-b1/Where-can-I-get-affordable-veterinary-care-for-my-pet
+  examples: |
+    - Where can I get affordable veterinary care for my pet?
+    - Where can I get friendly, affordable veterinary care for my pet?
+    - Where can I get affordable veterinary care for my dogs?
+    - Where can I get affordable veterinary care for my pet?
+    - Where can I get highly experienced veterinary care for my dog?
+    - Where can I get high quality veterinary care for my dogs?
+    - Where can I get cheap veterinary care for my pet?
+    - Where can I get affordable veterinary care for my dog?
+    - Where can I get affordable vet care for my pet?
+- intent: nlu-faq-clay-country-b1/where-can-I-find-lost-pets
+  examples: |
+    - where can I find lost pets
+    - How can I find lost pets?
+    - Where can I find lost pets?
+    - How do I find my lost pets?
+    - How can I find out if someone lost their pet?
+    - How do I find lost pets?
+    - How can I find out lost pets?
+    - How can I find my lost pets online?
+    - Where can I find my lost pets?
+    - I lost my pet and I couldnt get it back. Where can I find lost pets?
+- intent: nlu-faq-clay-country-b1/Where-and-when-does-the-Board-of-County-Commissioners-meet
+  examples: |
+    - Where and when does the Board of County Commissioners meet?
+    - When does the Board of County Commissioners meet?
+    - When and where does the Board of County Commissioners meet?
+    - Where does the Board of County Commissioners meet?
+    - When does the board of county commissioners meet?
+    - What is the meeting date of the Board of County Commissioners and how are they selected?
+    - Where and when does the Board of County Commissioners meet?
+    - Where does the board of county commissioners meet?
+- intent: nlu-faq-clay-country-b1/where-can-I-watch-county-meetings
+  examples: |
+    - where can I watch county meetings
+    - Where can I watch county meetings and county committees?
+    - Where can I watch county meetings, county assemblies and other county meetings in the UK?
+    - How can I watch county meetings?
+    - Where can I watch county comittee meetings?
+    - How do I watch County meetings?
+    - Where can I watch county elections in HD on my smart phone?
+    - Where can I watch county meetings online?
+    - Where can I watch county meetings and other state meetings?
+    - Where can I watch county meetings?
+    - Where can I watch county election websites?
+- intent: nlu-faq-clay-country-b1/How-can-I-get-a-copy-of-the-video-or-audio-tape-of-the-BCC-meetings
+  examples: |
+    - How can I get a copy of the video or audio tape of the BCC meetings?
+    - What are some ways to get a copy of the BCC meetings?
+    - How can I get a copy of the video or audio tape of the BCC meetings?
+    - How can I get a copy of the audio tape of the BCC meeting?
+    - How can I get a copy of the video or audio tapes of the BCC meetings?
+    - How can I get a copy of the video of the BCC meetings?
+    - What's the best way to get a copy of the audio recordings from BCC meetings?
+    - How can I get a copy of BCC meetings video?
+    - What is the best way to get a copy of video from BCC meetings?
+    - How can I get video transcripts of BCC meeting?
+- intent: nlu-faq-clay-country-b1/How-can-I-address-my-concerns-at-the-Board-meeting
+  examples: |
+    - How can I address my concerns at the Board meeting?
+    - How can I address my concerns at the Board meeting?
+    - How can I address my concerns during board meetings?
+    - How should I address my concerns when meeting at the board meeting?
+    - How should I address my concerns at Board meetings?
+    - How can I address my concerns and fears at board meeting?
+    - What are some of the best ways to address concerns during board meeting?
+    - How can I address my concerns at board meetings?
+    - How do I address my concerns at the Board Meeting?
+    - How do I address concerns when the Board meets?
+    - How do I address my concerns at a Board meeting?
+- intent: nlu-faq-clay-country-b1/How-can-I-apply-for-multiple-positions-at-the-county
+  examples: |
+    - How can I apply for multiple positions at the county?
+    - How can I apply for multiple positions at a county?
+    - How do I apply for multiple positions in the county?
+    - How do I apply multiple positions at a county?
+    - How do I apply for multiple positions at a county?
+    - How do I apply for multiple jobs at a county?
+    - How do I apply for multiple positions in a county?
+    - How can I apply for multiple positions in a county?
+- intent: nlu-faq-clay-country-b1/I-am-having-a-sewage-problem
+  examples: |
+    - I am having a sewage problem
+    - Is there a problem with water in the sewer system?
+    - I am having a sewage problem. I am having a sewage problem.
+    - I am having a sewage problem. I am having a sewage problem. I have a sewage problem. I am having a sewage problem.
+    - I've a sewage problem. I am having a sewage problem.
+    - I have a sewage problem and I am having a sewage problem. I am having a sewage problem and sewage problems.
+    - I am having a sewage problem and I don't think I am getting out of here.
+    - I am having a sewage problem in my property and I am having a sewage problem.
+    - I'm having a sewage problem. I have a similar problem with the sewer treatment.
+    - I am having a sewage problem at my house. I have a sewage problem.
+    - I am having a sewage problem and having a sewage problem. I am having a sewage problem and the pump is leaking water. Is it something I can do?
+- intent: nlu-faq-clay-country-b1/What-roads-are-maintained-by-the-county
+  examples: |
+    - What roads are maintained by the county
+    - What are the roads maintained by the county?
+    - What roads are maintained by the County of Alabama?
+    - Which roads are maintained by county for a county?
+    - What are the roads in a county that are maintained by the county?
+    - What roads are maintained by the county?
+    - What is the public road maintained by the county?
+    - Which roads are maintained by the county?
+    - What roads are maintained by the county government?
+- intent: nlu-faq-clay-country-b1/Does-the-county-maintain-my-driveway
+  examples: |
+    - Does the county maintain my driveway?
+    - Is the county of McMinnville, OR, who maintains my driveway?
+    - Does the county maintain my driveway?
+    - Does the county maintain my driveway? Does the county maintain my driveway?
+    - How is the county maintained if my driveway is blasted?
+    - Does my county maintain my driveway?
+    - Does the County maintain my driveway?
+- intent: nlu-faq-clay-country-b1/How-do-I-sign-up-to-receive-emergency-notifications
+  examples: |
+    - How do I sign up to receive emergency notifications?
+    - How do I get emergency notifications?
+    - How do I get Emergency notifications?
+    - How do I get alerts for emergency notifications?
+    - How do I sign up for Emergency Notifications?
+    - How do I receive emergency notifications?
+    - How can I get emergency notifications?
+    - How do you sign up for emergency notification?
+    - How can I sign up to receive an emergency notification?
+    - How can I set up for emergency notification?
+- intent: nlu-faq-clay-country-b1/Where-can-I-see-a-map-of-the-countys-evacuation-zones
+  examples: |
+    - Where can I see a map of the county's evacuation zones?
+    - Where can I see a map of the county's evacuation zones?
+    - Where can I find evacuation zones and maps in a county?
+    - Where can I find evacuation zones and route maps?
+    - Where can I find the evacuation zones in each county and how can I find them?
+    - Where can I see a map of the evacuation zones?
+    - Where can I find the evacuation zones of the county?
+    - Where can I find a map of the evacuation zones of the county?
+    - Where can I find the evacuation zones and evacuation instructions in the county?
+    - Can you get a map of the evacuation zones in the county?
+- intent: nlu-faq-clay-country-b1/Where-can-I-get-flood-insurance
+  examples: |
+    - Where can I get flood insurance?
+    - Where can I get flood insurance?
+    - How do I get flood insurance?
+    - What are the best websites to get flood insurance?
+    - How can I get flood insurance?
+- intent: nlu-faq-clay-country-b1/what-to-bring-to-camp-chowenwaw-park-for-camping
+  examples: |
+    - what to bring to camp chowenwaw park for camping
+    - What should I bring to camp chowenwaw park for camping?
+    - What are some things to bring to camp in chowenwaw park?
+    - What to bring to camp chowenwaw park for camping?
+    - What can I bring to camp in Chowenwaw park for camping?
+    - What can I bring to camp chowenwaw park for camping?
+    - What should I bring with camp to chowenwaw park for camping?
+    - What should we bring to Camp Chowenwaw Park for camping?
+    - What should I bring to camp at chowenwaw park for camping?
+    - What do you pack camping chowenwaw park for camping?
+- intent: nlu-faq-clay-country-b1/Does-the-Board-of-County-Commissioners-have-labor-unions
+  examples: |
+    - Does the Board of County Commissioners have labor unions?
+    - Does the Board of County Commissioners have labor unions?
+    - Does the Board of County Commissioners have a labor union?
+    - Does the Board of County Commissioners have any labor union?
+    - Does the Board of County Commissioners have unions?
+    - Does the Board of County Commissioners have any labor unions?
+    - How many of the County Board of Commissioners have labor unions?
+- intent: nlu-faq-clay-country-b1/How-frequently-are-Board-of-County-Commissioners-employees-paid
+  examples: |
+    - How frequently are Board of County Commissioners employees paid?
+    - How often are Board of County Commissioners employees paid?
+    - How much does Board of County Commissioners pay employees?
+    - How frequently are Board of County Commissioners paid?
+    - How much is the board of county commissioners pay?
+    - How much are Board of County Commissioners paid for their services?
+    - How often are the board of county commissioners employees paid?
+    - How often is Board of County Commissioners paid?
+    - How often are County Commissioners paid?
+    - How often are Board of County Commissioners paid?
+- intent: nlu-faq-clay-country-b1/What-events-can-I-host-at-the-fairgrounds
+  examples: |
+    - What events can I host at the fairgrounds
+    - What are the best fairgrounds events you can host?
+    - What type of events can I hold at fairgrounds?
+    - What are some things I can host at fairgrounds?
+    - What events should be held at fairgrounds?
+    - What events should I host at the fairgrounds?
+    - What are the events I can host at fairgrounds?
+    - What events can I host at fairgrounds?
+    - What type of events can I host at the fairgrounds?
+    - What events can I host at the fairgrounds?
+    - What events can we host at fairgrounds?
+- intent: nlu-faq-clay-country-b1/fairground-event-booking
+  examples: |
+    - fairground event booking
+    - Fairground Event Booking Fairground Event Booking Fairground Event Booking booking Fairground Event Booking Fairground Event Booking Fairground Event Bookings Fairground Event Booking Fairground Event Booking Fairground Event Booking fairground event booking Booking fairground event booking Fairground Event Booking Fairground Event Booking Fairground Event Booking
+    - Fairground event booking services and fairground fairground event booking. bookings of fairground events. fairground event bookings. fairground event booking. bookings.fairground event booking.fairground event booking booking.
+    - Fairground Event Booking Fairground event Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground event Booking Booking Fairground event Booking
+    - Fairground event booking Fairground event booking fairground event booking Fairground event booking Fairground event booking Fairground event Booking. Booking Fairground event booking for fairground event booking fairground event Booking Fairground event Booking in Fairgrounds Fairgrounds Booking.
+    - Fairgrounds Event Bookings - Fairgrounds Event Booking Service. Fairground event booking service (fairground events booking).
+    - Fairground event booking fairground booking fairground event booking fairground event booking fairground event booking fairground event booking fairground event booking booking fairground event booking fairground event booking fairground event booking booking fairground event booking booking booking fairground event booking fairground event booking fairground event booking booking fairground event
+    - Fairground Event Booking. Book today – Fairground Event Booking.
+    - Fairground event booking Fairground event booking fairground event booking Fairground event booking fairground event booking booking fairground event booking booking fairground event booking fairground event booking Booking fairground event booking fairground event booking fairground event booking Fairground event booking Fairground event booking Booking Fairground Event Booking Fairground event
+    - Fairground Event Booking Booking Fairground Event Booking Fairground Events Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Ticket Booking Fairground
+    - Fairground event booking Fairground event booking Booking Fairground event booking Fairground event Booking booking Fairground event Booking Fairground event Booking booking Fairground event Booking Booking Fairground event Booking Booking Booking Fairground event Booking Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Booking Booking Fairground event booking fair
+- intent: nlu-faq-clay-country-b1/How-can-I-find-out-what-the-current-water-levels-are-in-my-area
+  examples: |
+    - How can I find out what the current water levels are in my area?
+    - How can I determine the current water levels in my area?
+    - How do I find out what the current water level in my area?
+    - How can you determine if water levels are high in your neighborhood?
+    - How do I find out what water levels are in my area?
+    - What is the current water level in your area?
+    - What is the current water level in my area?
+    - How can I find out what the current water levels are in my area?
+    - How can you find out what the water level in your area is?
+    - What is the water level at the present time in your area?
+    - What is the current water level of my area? How can I find out?
+- intent: nlu-faq-clay-country-b1/What-do-I-need-to-develop-a-structure-in-a-flood-plain
+  examples: |
+    - What do I need to develop a structure in a flood plain?
+    - What are the steps to develop structures in a flood plain?
+    - What do I need to develop a structure in flood plain?
+    - What is required to develop a structure in a flood plain?
+    - What do I need to develop a structure in a flood plain?
+    - What do I need to develop structure in flood plain?
+    - How do I build a structure in flood plain?
+    - What do I need to develop structure in a flood plain?
+    - What are the requirements to develop a structure in a flood plain?
+- intent: nlu-faq-clay-country-b1/How-can-I-obtain-an-Elevation-Certificate-for-floodplain-development-permits
+  examples: |
+    - How can I obtain an Elevation Certificate for floodplain development permits?
+    - How can I obtain an elevation certificate for a floodplain development permit?
+    - How do I obtain an Elevation Certificate (elevation certificate) for floodplain development permit?
+    - How can I obtain an elevation certificate for floodplain development permit?
+    - How do I obtain an elevation certificate for floodplain development permits?
+    - How do I obtain a Elevation Certificate for floodplain development permit?
+    - How can I get an elevation certificate for floodplain development permits?
+    - How do I obtain an Elevation Certificate for floodplain development permits?
+    - How can I obtain elevation certificate for floodplain development permits?
+    - How can I obtain an Elevation Certificate for floodplain development permit?
+- intent: nlu-faq-clay-country-b1/Where-can-I-get-a-copy-or-view-the-FEMA-map-for-my-area
+  examples: |
+    - Where can I get a copy or view the FEMA map for my area?
+    - How do I get a copy of the FEMA map I need?
+    - How can I get a copy of the FEMA map for my area?
+    - Where can I get an FEMA map?
+    - Where can I get a copy of the FEMA Maps?
+    - Where can I get a copy of the FEMA map for my area?
+    - I'm in Alaska so I'll be able to download a FEMA map for my area. Where can I get it?
+    - Where can I find an FEMA map for my area?
+    - Where can I view the FEMA map?
+- intent: nlu-faq-clay-country-b1/What-is-the-elevation-of-my-property
+  examples: |
+    - What is the elevation of my property
+    - What is the elevation of my property?
+    - What is elevation of property?
+    - What is the elevation of property?
+- intent: nlu-faq-clay-country-b1/How-can-I-protect-my-home-from-flooding
+  examples: |
+    - How can I protect my home from flooding?
+    - How do I protect my home from flooding?
+    - How do I protect my home from floods?
+    - How can you protect a home from flooding?
+    - How can a home be protected from flooding?
+    - How can I protect my home from flooding?
+    - What should I do to prevent my home from being flooded?
+    - How do I protect my house from flooding?
+- intent: nlu-faq-clay-country-b1/How-can-I-find-more-information-on-flood-insurance
+  examples: |
+    - How can I find more information on flood insurance?
+    - How do I find information about flood insurance?
+    - What is flood insurance? How can I obtain more details?
+    - How do I get flood insurance quotes?
+    - How can I get flood insurance?
+    - Where can I find more information about flood insurance?
+    - How do I find out about flood insurance?
+    - Where can I find Flood Insurance?
+    - Is there any kind of flood insurance available in the United States?
+    - How can I find flood insurance?
+    - Where can I find information about flood insurance?
+- intent: nlu-faq-clay-country-b1/How-can-I-make-zoning-payment-fees-online
+  examples: |
+    - How can I make zoning payment fees online?
+    - How can I make zoning fees payment online?
+    - How do I make zoning payment fees online?
+    - I have a lot of zoning fees, how can I pay through Paypal?
+    - How can I make zoning payment fees online?
+    - How can I make zoning payment fee online?
+    - How can I pay zoning fees online?
+    - How do I make online payment of zoning fees?
+- intent: nlu-faq-clay-country-b1/How-do-I-search-for-permits
+  examples: |
+    - How do I search for permits?
+    - How do I search for permits?
+    - What is the best way to search for a permit?
+    - How do I apply for permits?
+    - How can I search for permits?
+    - How can I get permit?
+    - How do I search for a permit?
+    - How do I search for permits in the Philippines?
+    - How do I search for a permit on the Internet?
+- intent: nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection
+  examples: |
+    - How do I schedule an online inspection?
+    - How do I schedule online inspections?
+    - How can I schedule a free online inspection?
+    - How can I schedule an online inspection?
+    - How can I schedule online inspections?
+    - How can I schedule an online inspection online?
+    - How do you schedule an online inspection?
+    - How do I schedule an online inspection?
+    - How do you schedule online inspection?
+- intent: nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online
+  examples: |
+    - How do i schedule an inspection online?
+    - How do I schedule an inspection online?
+    - How can I schedule inspections online?
+    - How do I schedule inspections online?
+    - How can I schedule an inspection online?
+    - How do I schedule inspection online?
+    - What is the best way to schedule an inspection online?
+- intent: nlu-faq-clay-country-b1/What-permits-do-I-need-to-build-a-garage
+  examples: |
+    - What permits do I need to build a garage
+    - What permits do I need to build a garage?
+    - What permits do I need to construct a garage?
+    - What permits do I need to build a garage or garage in the neighborhood?
+    - What permits do I need to build garage?
+    - What permit do I need to build a garage and what do I need to build it?
+    - What are the permits for building a garage?
+    - How do I apply for permits to build a garage?
+- intent: nlu-faq-clay-country-b1/How-do-I-obtain-a-mobile-home-moveon-permit
+  examples: |
+    - How do I obtain a mobile home move-on permit?
+    - What is the required process for a mobile home move on permit?
+    - How do I obtain a mobile home move-on permit?
+    - How do I obtain mobile home move-on permit?
+    - How do I get a mobile home move-on permit?
+    - How can I get a moving permit for mobile home?
+    - How can I apply for a mobile home move on permit?
+    - What is the process of getting a mobile home move-on permit?
+- intent: nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit
+  examples: |
+    - How do I obtain a pool permit?
+    - How do I obtain a pool permit?
+    - How can I apply for a pool permit?
+    - How do I get a pool permit?
+    - How do you get a pool permit?
+    - How do I obtain pool permit?
+    - What is the procedure to obtain a pool permit?
+    - What are the different ways to apply for pool permit?
+- intent: nlu-faq-clay-country-b1/How-do-I-obtain-a-residential-addition-permit
+  examples: |
+    - How do I obtain a residential addition permit?
+    - How can I get a residential addition permit?
+    - What is the process for obtain a residential permit?
+    - How do I apply for a residential addition permit?
+    - How do I get a residence addition permit?
+    - How do I obtain a residential addition permit for a residential dwelling?
+    - How can I obtain a residential addition permit?
+    - How do I obtain residential addition permits?
+    - How do I obtain a residential addition permit?
+- intent: nlu-faq-clay-country-b1/residential-addition-permit-information
+  examples: |
+    - residential addition permit information
+    - Residential addition permit information. For more information please contact City of Anchorage Appeals Office (formerly Associated Office of Planning).
+    - Residential Addition Permit Information (PIN) for residential addition permit information (PIN) for use by additional residential communities.
+    - Residential addition permit information. Residential addition permit information and permit information.
+    - Residential addition permit information.
+    - Residential addition permit information?
+    - Residential permit information and residential addition permit information.
+    - Residential Addition Permit Information. Residential addition permit information, residential addition permit information, residential addition permit information, residential addition permit information.
+    - Residential Added Permit Information: Residential Addition Permit information, residential addition permit information, residential addition permit information, residential addition permit information, residential addition permit information, residential addition permit information, residential extension permit information, residential addition permit information, residential addition permit information, Residential P.O. Information: Residential P
+    - Residential addition permit information for sale of residential addition permits.
+    - Residential addition permit information from the US Department of Revenue.
+- intent: nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit
+  examples: |
+    - How do I obtain a roofing permit?
+    - What's the best way to get a roofing permit?
+    - How do I get roof permit?
+    - How can I obtain a roofing permit?
+    - How do I obtain a roofing permit?
+    - How do I obtain a roof permit?
+    - How do I obtain a permit for roof?
+    - How do I get a roofing permit?
+    - How can you obtain a roofing permit?
+    - How can I get a roof permit?
+- intent: nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit
+  examples: |
+    - How do I obtain a sign permit?
+    - How do I apply to obtain a sign permit?
+    - What is the best way to get a sign permit?
+    - How can I obtain a sign permit?
+    - How do I obtain a sign permit?
+    - What is the process to get a signed permit?
+    - How do I obtain sign permit?
+    - How do I obtain a permit?
+    - How do I obtain my first sign permit?
+    - How do you obtain a sign permit?
+- intent: nlu-faq-clay-country-b1/How-do-I-obtain-a-commercial-permit
+  examples: |
+    - How do I obtain a commercial permit?
+    - How do I obtain a commercial permit for a business?
+    - How can I get a commercial permit for a business?
+    - How do I obtain commercial permit?
+    - What is the best way to obtain a commercial permit?
+    - What is the process to obtain a commercial permit?
+    - How do I apply for a commercial permit for a foreign business?
+    - What is the procedure to obtain a Commercial Permit?
+    - How do I obtain a commercial permit from an agency?
+    - How can I obtain a commercial permit for the US?
+- intent: nlu-faq-clay-country-b1/How-much-is-a-building-permit-fee
+  examples: |
+    - How much is a building permit fee?
+    - What are the building permit fees?
+    - What is the fee for building permit?
+    - How much is a building permit fee?
+    - How much does a building permit fee?
+    - What are the fees for a building permit and how much is it?
+    - How much is building permit fee?
+    - What is the cost of building permit fees?
+    - How much do building permit fees are?
+- intent: nlu-faq-clay-country-b1/Where-can-I-find-information-about-county-elections
+  examples: |
+    - Where can I find information about county elections?
+    - How can I find out more information about the election of county members?
+    - How can I learn about county election?
+    - Where can I find information about county election?
+    - Where can I get information about elections for county?
+    - How can I get information about local elections?
+    - Where can I get election information?
+    - Where can I find information about county elections?
+    - How can I find information about county elections?
+    - How can I get information on county elections?
+    - Where can I get general information on county elections?
+- intent: nlu-faq-clay-country-b1/Where-can-I-find-information-on-the-value-of-my-property
+  examples: |
+    - Where can I find information on the value of my property?
+    - How can I find out value of property?
+    - Where can I find property value information for free?
+    - Where can I get information on the value of property?
+    - Where can I find out about value of a property?
+    - Where can I get information about the value of a home?
+    - How can I find out the value of my property?
+    - Where can I find information about the value of my property?
+    - Where can I get valuation info?
+    - Where can I find information on the value of a property?
+    - Where can I get all the facts on the value of my property?
+- intent: nlu-faq-clay-country-b1/Where-can-I-find-accident-reports-and-arrest-records
+  examples: |
+    - Where can I find accident reports and arrest records?
+    - Can I find the details of accident reports, arrest records, etc.?
+    - Where can I find accident records?
+    - Where can I find accident reports and arrest records?
+    - Where can you find accident reports or arrest records?
+    - Where can you find accident records?
+- intent: nlu-faq-clay-country-b1/Where-can-I-get-civil--criminal-records
+  examples: |
+    - Where can I get civil & criminal records
+    - Where can I get civil and criminal records?
+    - How can I get civil and criminal history?
+    - Where can I get civil and criminal records with the most accurate and highest quality records?
+    - Where can I get civil and criminal records from the Supreme Court?
+    - What are the ways to get a civil and criminal record?
+    - Where can I get civil & criminal records. If I can, then how can I get them?
+    - I want to get a civil and criminal record if I don't live in Canada? Where can I get a free consultation with the corresponding police offices?
+    - Where can I get civil and criminal records with the help of a court or law enforcement?
+    - How do I get criminal and civil records?
+    - Where can I get civil & criminal records?
+- intent: nlu-faq-clay-country-b1/Where-can-I-find-the-Clay-County-public-records-policy
+  examples: |
+    - Where can I find the Clay County public records policy?
+    - Where can I find the Clay County public records policy?
+    - Where can I find Clay County public records policy?
+    - How can I find the Clay County public records policy?
+    - Where can I find the Clay County Public Records Policy?
+    - Where can I find a map of Clay County public records policies?
+- intent: nlu-faq-clay-country-b1/What-Hotels-are-in-Orange-Park
+  examples: |
+    - What Hotels are in Orange Park
+    - What are the Best Hotels in Orange Park?
+    - What are the best hotels in orange park?
+    - What are the best Hotels in Orange Park?
+    - What are the best hotels in Orange Park?
+    - What are some good hotels in Orange Park?
+    - What are some of the best hotels in Orange Park?
+    - What are the best hotels in Orange Park, CA?
+    - What are some hotels in Orange Park?
+- intent: nlu-faq-clay-country-b1/Are-there-any-RV-campgrounds-in-Clay-County
+  examples: |
+    - Are there any RV campgrounds in Clay County
+    - What are some RV campgrounds in Clay County, PA?
+    - Are there any RV campgrounds in Clay County? Are they all RV parks?
+    - Are there any RV camping in Clay County?
+    - Where is the best RV campgrounds in Clay County for the rental of a motorhome?
+    - Which is the best campground in Clay County for RV parkers?
+    - Which is the best campground in Clay County, PA?
+    - Are there any RV campgrounds in Clay County, Georgia?
+    - Where are some campgrounds in Clay County, Maryland for RV camping?
+    - Are there any RV campgrounds in Clay County, OH?
+    - Are there any RV campgrounds in Clay County, KY?
+- intent: nlu-faq-clay-country-b1/Where-is-the-Courtyard-by-Marriott
+  examples: |
+    - Where is the Courtyard by Marriott
+    - Where is The Courtyard by Marriott?
+    - What is the Courtyard Marriott by Marriott and Where is it located?
+    - Where is the Courtyard by Marriott?
+    - What is the Courtyard by Marriott?
+    - Where is the Courtyard Marriott?
+- intent: nlu-faq-clay-country-b1/Where-is-Gold-Head-State-Park
+  examples: |
+    - Where is Gold Head State Park?
+    - Where is Gold Head State Park?
+    - Which is Gold Head State Park?
+    - Where is Gold Head State Park? What are some great attractions?
+    - What is Gold Head State Park and how well is it managed?
+    - What is Gold Head State Park?
+    - Where is Gold Head State Park located?
+- intent: nlu-faq-clay-country-b1/Where-is-Bayard-Conservation-Area
+  examples: |
+    - Where is Bayard Conservation Area?
+    - Where is Bayard Conservation Area?
+    - Where is the Bayard Conservation Area?
+    - What is Bayard Conservation Area?
+    - What is Bayard conservation area?
+    - What is the Bayard Conservation Area?
+- intent: nlu-faq-clay-country-b1/What-is-the-address-of-Jennings-State-Forest
+  examples: |
+    - What is the address of Jennings State Forest?
+    - What is the address of Jennings State Forest?
+    - What is the address of Jennings state forest?
+    - How can I find the address of Jennings State Forest?
+- intent: nlu-faq-clay-country-b1/Whiteys-Fish-Camp
+  examples: |
+    - Whitey’s Fish Camp
+    - Whitey’s Fish Camp is home to Whitey’s fish camp.
+    - Whitey’s Fish Camp, Whitey’s Camp, Whitey’s Camp.Whitey’s Fish Camp. Whitey’s Fish Camp. Whitey’s Camp.Whitey’s Camp.Whitey’s Camp. Whitey’s Fish Camp, Whitey’s Camp
+    - Whitey’s Fish Camp is located at Whitey’s Fish Camp.
+    - Whitey's Fish Camp, Whitey's Fish Camp, Whitey’s Fish Camp. Whitey’s Fish Camp, Whitey’s Fish Camp.
+    - Whitey's Fish Camp: Whitey’s Fish Camp was established in 1909 as a fish camp.
+    - Whitey’s Fish Camp, Whitey’s Fish Camp. Whitey’s Fish Camp was once the largest camping grounds in the gulf.
+    - Whitey’s Fish Camp is a wilderness fishing lake in Vermont.
+    - Whitey's Fish Camp: Whitey’s Fish Camp is open from 3rd to 5th September.
+    - Whitey's Fish Camp, a whitey’s fish camp is located at Whitey’s Fish Camp, Alabama.
+    - Whitey’s Fish Camp, Whitey’s River and Whitey’s River. Whitey’s River and Whitey’s River are both waters of Whitey’s River. Whitey’s River and Whitey’s River are the same. Whitey’s River and Whitey
+- intent: nlu-faq-clay-country-b1/When-does-Clay-County-Animal-Shelter-Open
+  examples: |
+    - When does Clay County Animal Shelter Open?
+    - When does Clay County Animal Shelter open?
+    - When is Clay County Animal Shelter Open?
+    - How long does Clay County Animal Shelter stay open?
+    - When does Clay County Animal Shelter Open its doors?
+    - When does the Clay County Animal Shelter open?
+    - When does Clay County Animal Shelter close?
+    - When does Clay County Animal Shelter Open?
+
+- intent: nlu-faq-clay-country-b1/Who-are-the-County-Commissioners
+  examples: |
+    - Who are the County Commissioners?
+    - What are the names of the County Commissioners?
+    - who is the county comissioner?
+    - what's the name of county's comissioner?
+
+- intent: nlu-faq-clay-country-b1/Who-is-on-the-Board-of-County-Commissioners
+  examples: |
+    - Who is on the Board of County Commissioners?
+    - Who's on the Board of County Commissioners?
+    - Who are the members of the Board of County Commissioners?
+    - who is in the board of county comissioner?
+- intent: nlu-faq-clay-country-b1/What-are-the-hours-for-the-Rosemary-Hill-Solid-Waste-Management-Facility
+  examples: |
+    - What are the hours for the Rosemary Hill Solid Waste Management Facility?
+    - When is the Rosemary Hill Solid Waste Management Facility open?
+    - When does the Rosemary Hill Solid Waste Management Facility open?
+- intent: nlu-faq-clay-country-b1/Where-can-I-drop-off-recycling
+  examples: |
+    - Where can I drop off recycling?
+    - Where can I dispose of my recyclables?
+    - I'm looking for a place where I can drop off my recyclables.
+- intent: nlu-faq-clay-country-b1/How-do-I-report-a-stray-animal
+  examples: |
+    - How do I report a stray animal? 
+    - how am i supposed to report a stray animal?
+    - how can one report a stray animal?
+- intent: nlu-faq-clay-country-b1/How-do-I-report-a-tree-trim-or-overgrown-brush
+  examples: |
+    - How do I report a tree trim or overgrown brush? 
+    - How am i supposed to report a tree trim or overgrown brush?
+    - How can I report a overgrown brush or tree trim?  
+- intent: nlu-faq-clay-country-b1/I-need-to-request-a-tree-trim
+  examples: |
+    - I need to request a tree trim.
+    - How do I request a tree trim?
+    - how can i request a tree trim?
+    - how am i supposed to request a tree trim?
+- intent: nlu-faq-clay-country-b1/When-will-my-road-by-graded
+  examples: |
+    - When will my road by graded?
+    - When is my road going to be graded?
+    - When will my road be graded?
+    - when my road is supposed to be graded?
+    - When is it my road's turn to be graded?

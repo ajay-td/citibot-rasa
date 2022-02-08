@@ -1,0 +1,43 @@
+recipe: default.v1
+language: en
+pipeline:
+- name: WhitespaceTokenizer
+- name: LexicalSyntacticFeaturizer
+- name: CountVectorsFeaturizer
+  OOV_token: oov
+  token_pattern: (?u)\b\w+\b
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
+  min_ngram: 1
+  max_ngram: 4
+- name: DIETClassifier
+  epochs: 100
+  ranking_length: 5
+- name: EntitySynonymMapper
+
+- name: ResponseSelector
+  epochs: 100
+  retrieval_intent: nlu-faq-utah-adult 
+
+- name: ResponseSelector
+  epochs: 100
+  retrieval_intent: nlu-faq-clay-country-b1
+
+- name: ResponseSelector
+  epochs: 100
+  retrieval_intent: nlu-faq-weho-parking-b1
+
+
+- name: FallbackClassifier
+  threshold: 0.75
+  ambiguity_threshold : 0.1
+
+policies:
+- name: TEDPolicy
+  max_history: 10
+  epochs: 20
+  batch_size:
+  - 32
+  - 64
+- name: MemoizationPolicy
+- name: RulePolicy

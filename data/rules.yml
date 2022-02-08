@@ -1,0 +1,28 @@
+version: "3.0"
+
+rules:
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- rule: nlu-faq-utah-adult
+  steps:
+  - intent: nlu-faq-utah-adult
+  - action: utter_nlu-faq-utah-adult
+
+- rule: nlu-faq-clay-country-b1
+  steps:
+  - intent: nlu-faq-clay-country-b1
+  - action: utter_nlu-faq-clay-country-b1
+
+- rule: nlu-faq-weho-parking-b1
+  steps:
+  - intent: nlu-faq-weho-parking-b1
+  - action: utter_nlu-faq-weho-parking-b1

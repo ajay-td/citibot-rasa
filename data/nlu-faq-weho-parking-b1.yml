@@ -1,0 +1,789 @@
+version: "3.0" 
+nlu: 
+
+- intent: nlu-faq-weho-parking-b1/Source-httpswwwwehoorgcitygovernmentcitydepartmentspublicworksparkingservicesparkingpermitsfrequentlyaskedquestions
+  examples: |
+    - Source: https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions 
+    - https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions/weho_city_government/weho_city_departments/
+    - http://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions/. https://www.weho.org/city-government/city-de
+    - https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions/index.php?url=http://www.weho.org/data/
+    - https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions/Parking-permits/parking-permits/city-government/
+    - https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions/Woho.org/suggestions/city-government/city
+    - https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions/city-designated-city-departments/parking-restrictions/
+    - https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently asked-questions/weho_conception/who_conception_concept_resource
+    - https://www.weho.org/city-government/city-departments/public works/parking-services/parking-permits/frequently-asked-questions/https://www.weho.org/city-dominion/city
+    - https://www.weho.org/city-government/city-departments/public works/parking-services/parking-permits/frequently-asked-questions/weho-source/http://www.weho.org/. https://
+    - https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions/Parking-permits/Parking-sale-distributions
+- intent: nlu-faq-weho-parking-b1/How-much-does-a-parking-permit-cost
+  examples: |
+    - How much does a parking permit cost?
+    - How much does parking permit cost?
+    - How much does a parking permit cost?
+    - How much does parking permit costs?
+- intent: nlu-faq-weho-parking-b1/How-do-I-register-for-a-Residential-Parking-Permit-account-in-order-to-obtain-Visitor-Permits-through-the-PermitbyPlate-system
+  examples: |
+    - How do I register for a Residential Parking Permit account in order to obtain Visitor Permits through the Permit-by-Plate system?
+    - How do I register for a residential parking permit account and get visitor permits through permit-by-plate system?
+    - How do I register for a residential parking permit account in order to obtain Visitor Permits through the Permit-by-Plate system?
+    - How am i supposed to register for a residential parking permit account so that i can obtain visitor permits through the permit by plate system?
+    - How do I register for residential parking permit accounts?
+    - How can you register for a Residential parking permit account to obtain visitor permit through the Permit-by-Plate system?
+    - How do I register for a Residential Parking Permit account in order to obtain Visitor Permits through the Permit-by-Plate system?
+    - How do I request a Visitor Permit through the Permit-by-Plate website?
+    - How do I register a Residential Parking Permit account in order to obtain Visitor Permits through the Permit-by-Plate system?
+- intent: nlu-faq-weho-parking-b1/How-many-permits-may-be-requested
+  examples: |
+    - How many permits may be requested?
+    - How many permits can a person request?
+    - How many permits must be requested?
+    - How many permits can I request?
+    - How many permits can I obtain?
+- intent: nlu-faq-weho-parking-b1/How-long-is-a-permit-valid
+  examples: |
+    - How long is a permit valid?
+    - How long does permit validity last?
+    - How long the permit is valid?
+    - How long do permit work for?
+    - How long is a permit valid?
+    - How long is permit valid?
+    - How long is your permit's validity?
+- intent: nlu-faq-weho-parking-b1/How-do-I-request-visitor-permits-if-I-already-have-an-active-Residential-Parking-Permit-account
+  examples: |
+    - How do I request visitor permits if I already have an active Residential Parking Permit account?
+    - What is the process to obtain visitor permits with already active Residential Parking Permit?
+    - I already have a parking permit for a car. How do I request visitor permits?
+    - How do I apply for visitor permits in an area with a active permit?
+    - How do I request visitor permits if I already have an active Residential Parking Permit account?
+    - How do I request visitor permit if I already have an active Residential Parking Permit account?
+    - How do I request visitor permit when I have an active Residential Parking Permit account?
+    - How do you request visitor permit?
+    - How do I apply for visitor permits if I already have an active Residential Parking Permit account?
+    - I already have a permit for a parking in a residence. How do I request visitor permits?
+- intent: nlu-faq-weho-parking-b1/What-are-my-options-if-I-would-rather-not-use-PermitbyPlate
+  examples: |
+    - What are my options if I would rather not use Permit-by-Plate?
+    - What are my options if I would rather not use Permit by Plate?
+    - What is my option if I would rather not use Permit-by-Plate?
+    - What are my options if I would rather not use Permit by Plate?
+    - what other alternate options i have if I don't want the Permit-by-Plate option?
+    - What are the options if I would rather not use Permit-by-Plate?
+- intent: nlu-faq-weho-parking-b1/How-can-I-avoid-getting-a-ticket
+  examples: |
+    - How can I avoid getting a ticket?
+    - How do I avoid a ticket?
+    - how am i supposed to avoid getting parking ticket?
+    - How do you avoid a ticket on the bus?
+    - How do I avoid ticketing?
+    - How do I avoid getting a ticket?
+    - How do I avoid getting ticket?
+    - How can I avoid getting a ticket?
+    - How do I avoid getting tickets?
+    - How can I avoid a Ticket, What does it take to avoid getting a ticket?
+    - What is the best way to avoid getting ticket?
+- intent: nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket
+  examples: |
+    - How do I pay a ticket?
+    - How do I pay for a ticket?
+    - How do I pay my ticket?
+    - How do I pay for an airplane ticket?
+    - How can I pay for my tickets online?
+    - How do I pay a ticket in India?
+    - How do I pay a ticket?
+    - How do I pay a ticket without paying?
+    - How do I pay a ticket online?
+    - What are the best ways to pay for a ticket?
+- intent: nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket-online
+  examples: |
+    - How do I pay a ticket online?
+    - How do I pay online for a parking ticket?
+    - How do I pay for a ticket online?
+    - How do I pay for a ticket on line?
+    - how am i supposed to pay for the ticket online?
+    - online payment of the parking tickets.
+
+- intent: nlu-faq-weho-parking-b1/May-I-share-my-permit-with-another-motorist-What-about-between-vehicles
+  examples: |
+    - May I share my permit with another motorist? What about between vehicles?
+    - Can I share my permit with another motorist?
+    - What are the different types of permissions used by drivers? May I share my permit with another motorist?
+    - May I share my permit with another motorist?
+    - Can I share my permit with another motorist? What about between vehicles?
+    - Can you share a permit with another motorist?
+    - Is it OK to share the permit with another driver?
+    - May I share my permit with another driver?
+- intent: nlu-faq-weho-parking-b1/May-Permits-be-Reused
+  examples: |
+    - May Permits be Reused?
+    - Can Permits be reclaimed?
+    - Can permit residgable?
+    - Will my permit be reused or changed?
+    - How can a permit be redeemed?
+    - May permit be used?
+    - Can permit be re-used?
+    - Can Permits be repurposed?
+    - May permit fees be refunded?
+    - Is it illegal to re-instate your Permit?
+- intent: nlu-faq-weho-parking-b1/How-do-I-contest-a-ticket
+  examples: |
+    - How do I contest a ticket?
+    - How do I contest a ticket on Ms.Davies?
+    - How do I contest ticket?
+    - How can I contest a ticket?
+    - How do I contest a ticket?
+    - How do I contest tickets?
+    - How do you contest a ticket?
+- intent: nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket
+  examples: |
+    - How do I fight a ticket?
+    - How do I fight ticket to fight?
+    - How do I fight a ticket?
+    - What are some tips for fighting a ticket?
+    - How do I fight ticket?
+    - How can I fight my ticket?
+    - What is the fastest way to fight a ticket?
+    - What's the fastest way to fight a ticket?
+- intent: nlu-faq-weho-parking-b1/What-permits-are-offered-as-PermitbyPlate
+  examples: |
+    - What permits are offered as Permit-by-Plate?
+    - What permits are offered as Permit-by-Plate?
+    - What permits are offered as permit by plate?
+    - What permits are available as Permit-by-Plate?
+    - What permits are offered as permits by plates?
+    - Which permits are offered as permit-by-plate?
+    - What permits are offered as permit-by-plate?
+    - What permits are offered as per permit-by-plate?
+- intent: nlu-faq-weho-parking-b1/Who-is-eligible-for-Permitby-Plate-Visitor-Permits
+  examples: |
+    - Who is eligible for Permit-by Plate Visitor Permits?
+    - Who is eligible for Permit-by Plate Visitor Permit?
+    - Who are eligible for Permit-by Plate Visitor Permits?
+    - Who is eligible for Permit-by-Plate Visitor Permits?
+    - Who is eligible for Permit-by-plate visitor permits?
+    - Who is eligible for Permit-by-Petit Visitor Permits?
+    - Who are eligible for Plate Visitor Permits?
+    - Who can qualify for Plate Visitor Permits? How do they work?
+    - Can anyone make a Visitor Permit and Permit?
+    - Who is eligible for Permit-by Plate Visitor Permits?
+    - Who is eligible for Permit-by-plate visitor permit?
+- intent: nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits
+  examples: |
+    - What if I only need Visitor Permits?
+    - What if I only need Visitor Permits?
+    - Can I still get visitor permits?
+    - What if I only need visitor permit?
+    - What if I only need visitor Permits and what if I can only visit the city or only need a visitor permit?
+    - What if I need Visitor Permit?
+    - What if I need only visitor permits?
+    - What if you have visitor permit in place of visitor permit?
+    - I need visitor permits?
+    - What is the only option when you need visitor permits?
+- intent: nlu-faq-weho-parking-b1/How-long-does-it-take-for-a-PermitbyPlate-application-to-be-approved
+  examples: |
+    - How long does it take for a Permit-by-Plate application to be approved?
+    - How long does it take to approve a permit by plate?
+    - How long will it take to get a permit-by-plate application approved?
+    - How long does it take for the Permit By Plaque application to be approved?
+    - How long does it take for Permit-by-Plate Application to be approved?
+    - How long does it take a permit to be approved?
+    - How long does it take for a permit application to be approved?
+    - How long does it take for a Permit By Plate application to be approved?
+    - How long does it take for Permit By Plate Application approval?
+    - How long does it take to receive a Permit-by-Plate application approval?
+    - How long does it take for a Permit-by-Plate application to be approved?
+- intent: nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately
+  examples: |
+    - What if I need a Visitor permit immediately?
+    - What should I do if I need a visitor permit urgently?
+    - What if I need a visitor permit?
+    - What if I need a Visitor Permit instantly?
+    - What will happen if you need a visitor permit at the airport and not a visitor permit itself?
+    - How do you apply for a visitor permit immediately?
+    - What if I need Visitor permit from an airport immediately?
+    - What happens if I need a visitor permit in the US or other country to visit?
+    - What is the best way to obtain visitor permit?
+    - What should I do if I need a Visitor Permit immediately?
+    - What happens if I get a visitor permit?
+- intent: nlu-faq-weho-parking-b1/What-is-the-cost-to-request-Visitor-permits
+  examples: |
+    - What is the cost to request Visitor permits?
+    - What is the cost to obtain visitor permits?
+    - What is the cost to get Visitor Permit?
+    - How much will it cost to request visitor permits?
+    - What is the cost to request visitor permit?
+    - What are the costs of creating a visitor permit?
+    - How much does it cost to get visitor permits?
+    - What is the cost of requesting Visitor Permits?
+    - What are the fees to request Visitor permits?
+    - What are the costs of request visitor permit?
+- intent: nlu-faq-weho-parking-b1/How-many-vehicles-may-be-assigned-to-a-permit-at-a-single-time
+  examples: |
+    - How many vehicles may be assigned to a permit at a single time?
+    - How many vehicles is permitted on a permit?
+    - How many vehicles can a permit permit permit allow at a single time?
+    - How many vehicles can be assigned to a permit?
+    - How many vehicles may be assigned to a permit at a single time?
+    - How many vehicles may a permit permit permit permit permit permit at a single time?
+    - How many vehicles must be assigned to a permit at a single time?
+    - How many vehicles can be assigned to a permit at a single time?
+    - How many vehicles are allowed to have a permit?
+- intent: nlu-faq-weho-parking-b1/How-will-Parking-Enforcement-know-I-have-a-permit-if-I-dont-have-a-physical-permit-displayed
+  examples: |
+    - How will Parking Enforcement know I have a permit if I don’t have a physical permit displayed?
+    - How do parking enforcement know if I've been issued a permit?
+    - Can you tell if you have a parking permit if you don't have a physical permit displayed?
+    - How do Parking Enforcement and others know if a vehicle is registered?
+    - Will parking enforcement know I have a permit if I don’t have a physical permit displayed?
+    - How does Parking Enforcement know if I have a permit if I don’t have a physical permit displayed on the side of my vehicle?
+    - How will Parking Enforcement know I have a permit?
+    - How does parking enforcement know I have a permit?
+    - How does Parking Enforcement know I have a permit when I don't have a physical permit displayed?
+    - How can you determine if someone is driving a car if they don't have a physical permit?
+    - How does Parking Enforcement know I have a permit if I don’t have a physical permit displayed?
+- intent: nlu-faq-weho-parking-b1/How-do-I-resize-my-PDF-or-other-documents
+  examples: |
+    - How do I resize my PDF or other documents?
+    - I want to resize my PDF document?
+    - How can I resize PDF?
+    - How can I resize a PDF file?
+    - How do you resize a PDF document?
+    - How do I resize PDFs?
+    - How do I resize a PDF document?
+    - What is the best way to resize PDF documents?
+- intent: nlu-faq-weho-parking-b1/Who-decides-what-areas-become-permit-parking
+  examples: |
+    - Who decides what areas become permit parking?
+    - When should a permit issued for parking be issued?
+    - Who decides the boundaries for permit parking?
+    - Who decides on permit parking?
+    - Who decides which areas of the city become permit parking?
+    - Who decides which areas become permit parking?
+    - What is the code of limitations that decides what areas become permit parking?
+    - What zones are permit parking areas?
+    - Who decides where are permit parking zones?
+    - Who decides what areas become permit parking?
+    - Who decides which areas of the block become permit parking?
+- intent: nlu-faq-weho-parking-b1/How-do-I-request-permit-parking-for-my-area
+  examples: |
+    - How do I request permit parking for my area?
+    - How do I request permit parking for my area?
+    - How can I apply for permit parking to park in a neighborhood?
+    - How do I request permit parking for a location?
+    - How do I request permit parking in my neighborhood?
+    - How can I apply for permits for parking in my area?
+    - How can I request a permit parking for my area?
+    - How can I request permit parking from a county?
+    - How do I request parking permits for my area?
+- intent: nlu-faq-weho-parking-b1/Does-everyone-need-a-parking-permit
+  examples: |
+    - Does everyone need a parking permit?
+    - Does everyone have to have a parking permit?
+    - Is it necessary for parking to obtain a parking permit?
+    - Does everyone need a parking permit to park there?
+    - Is everyone required to be permitted to park in a car?
+    - Will people need parking permits?
+    - Does everyone need a parking permit?
+    - Does everyone need parking permit?
+    - Does everybody need a parking permit?
+- intent: nlu-faq-weho-parking-b1/How-do-I-obtain-a-parking-permit
+  examples: |
+    - How do I obtain a parking permit?
+    - How can I get a parking permit?
+    - How do I get a parking permit?
+    - How do I obtain a parking permit?
+    - How do you obtain a parking permit?
+    - What is the process to get a parking permit?
+    - What is the best way to obtain a parking permit?
+    - What is the easiest way to get parking permits?
+- intent: nlu-faq-weho-parking-b1/Can-I-use-my-permit-throughout-the-city
+  examples: |
+    - Can I use my permit throughout the city?
+    - Is it possible to use my permit all over the city without a permit?
+    - Is it legal to use a permit for traveling or traveling in a city?
+    - How do I use my permit at all locations in the city?
+    - Is it possible to use my permit without a permit in the same city?
+    - Can I use my permit at home or in any other city?
+    - Can I use my permit throughout a city?
+    - Is it possible to use my permit in different cities across the nation?
+    - Can I use my permit during tourist activities throughout the city?
+    - Can you use your permit through the City?
+    - I need to have a permit to travel throughout the city. Can I use it to make it work?
+- intent: nlu-faq-weho-parking-b1/Do-I-need-a-permit-if-I-have-a-disabled-persons-placard-issued-by-the-DMV
+  examples: |
+    - Do I need a permit if I have a disabled persons placard issued by the DMV?
+    - I've had disabled persons placard issued by the DMV. Do I need permit if I have a disabled persons placard issued by the DMV?
+    - What is the tenancy to need a permit if you have a disabled persons placard issued by the DMV?
+    - Do I need a permit if I have a disabled persons placard issued by the DMV?
+    - How can I get a valid disabled permit if I have a DMV approved placard?
+    - Can I change my disabled person placard or need a permit by the DMV?
+    - How do I get into DMV without a permit if I wear a disability persons placard?
+    - How does a permit work if you have a disabled persons placard issued by the DMV?
+- intent: nlu-faq-weho-parking-b1/Where-should-my-guests-park
+  examples: |
+    - Where should my guests park?
+    - Where do guests park?
+    - Where should guests park?
+    - Where should my guest park their cars?
+    - Where should my guests park?
+    - Where does a host/guest park?
+    - Where should my guests park their cars in the park?
+    - How should guests park their car?
+    - Where should guests park their vehicles?
+    - Where can I park my guest guests?
+- intent: nlu-faq-weho-parking-b1/What-should-my-guests-know-when-visiting-during-hours-in-which-permit-parking-regulations-are-enforced
+  examples: |
+    - What should my guests know when visiting during hours in which permit parking regulations are enforced?
+    - What should my guests know when visiting during hours in which permit parking regulations are enforced?
+    - What should my guests know when visiting during the hours in which permit parking regulations are enforced?
+    - What does a permit parking officer must know about?
+    - What should I tell my guests when visiting during hours in which permit parking regulations are enforced?
+    - What should my guest know when visiting during hours in which permit parking regulations are enforced?
+- intent: nlu-faq-weho-parking-b1/What-are-permit-fees-used-for
+  examples: |
+    - What are permit fees used for?
+    - What are permit fees used for?
+    - What is permit fee used for?
+    - What is permits fee?
+    - What do permits fees serve?
+    - What is a permit fee used for? What are the costs?
+- intent: nlu-faq-weho-parking-b1/May-I-get-more-than-one-permit-if-I-have-more-than-one-vehicle
+  examples: |
+    - May I get more than one permit if I have more than one vehicle?
+    - Can you get a permit if you have more than one vehicle?
+    - Can I get more than one permit for 2 vehicles?
+    - Can I have a more than one permit at the same time?
+    - Can I get multiple permits if I have one automobile?
+    - Can I get multiple permits for having multiple vehicles?
+    - Can I get two permits for different vehicles?
+    - Can I get more than one permit in one car?
+    - How do I get more than one permit for multiple vehicles?
+    - Can I get more than one permit if I have more than one vehicle?
+    - Can I get more than one permit for two vehicles?
+- intent: nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit
+  examples: |
+    - Where may I obtain a Visitor Permit?
+    - Where can I obtain visitor permits?
+    - How can I obtain a visitor's permit?
+    - How can I obtain a visitor permit online for the U.S.?
+    - How can I obtain visitor permits?
+    - What is the best way to obtain a visitor permit?
+    - How can I obtain a visitor permit?
+    - Where do I obtain visitor permit from the Tourist Board?
+    - Where do I obtain visitor permit?
+    - Where can I get visitors permit?
+    - How do I get visitor passes from the U.S. or Canadian government?
+- intent: nlu-faq-weho-parking-b1/I-have-a-permit-and-cant-find-a-parking-space
+  examples: |
+    - I have a permit and can’t find a parking space.
+    - I have a parking permit and I can't find a parking space. How would I get one?
+    - Where and how do I find a parking space?
+    - I have a permit but cannot find parking space. What should I do?
+    - What is a parking pass to find a parking space with no permit and no permit?
+    - I have a permit and a parking spot, how can I find that I can’t park in the parking lot?
+    - I've obtained my permit number, but can't find a parking space. What are my options?
+    - I have a parking permit and I can’t find a parking space. Can you tell me what I have to do?
+    - I have a permit, but I can’t find a parking space. How can I find a parking space?
+    - I have a parking permit and can’t find a parking space. Can I ask the city to find me a parking space?
+    - I have a permit, I don’t have a parking space and my permit is nonexistent. How can I get a parking spot?
+- intent: nlu-faq-weho-parking-b1/May-I-purchase-parking-permits-if-I-have-parking-tickets
+  examples: |
+    - May I purchase parking permits if I have parking tickets?
+    - Can I purchase parking permits if I have parking tickets?
+    - Can I purchase parking permits for my car if I have a parking ticket?
+    - Can I get a parking permit without a parking ticket?
+    - Can I get a parking permit if I have a parking ticket and parking tickets?
+    - How do I purchase parking permits?
+    - May I purchase parking permits if I have parking ticket?
+    - How can I purchase a parking permit if I've been given a parking ticket?
+    - How do I purchase parking permits if I have parking tickets?
+    - May I purchase parking permits if I have parking tickets?
+- intent: nlu-faq-weho-parking-b1/Where-does-the-Resident-Decal-Permit-get-placed
+  examples: |
+    - Where does the Resident Decal Permit get placed?
+    - Where is the Resident Decal Permit? How does it get installed in home offices?
+    - How can I get a resident decal permit on a vehicle?
+    - Where does the Resident Decal Permit get placed?
+    - Where do Resident Decal Permits get placed?
+    - Where do you get the resident decal permit?
+    - Where does resident decal permit get placed?
+    - Where do Resident Decal Permit get placed?
+    - Where do the Resident Decal Permit get placed?
+- intent: nlu-faq-weho-parking-b1/Who-decides-what-the-parking-regulations-will-be
+  examples: |
+    - Who decides what the parking regulations will be?
+    - Who decides the parking rules?
+    - Who decides the parking regulations?
+    - Who decides what parking regulations are enforced?
+    - Who decides what the parking regulations will be?
+    - Who decides parking regulations for the city?
+    - Who decides about parking regulation?
+    - What are parking rules and how do you enforce them?
+    - What is the parking authority?
+    - Who decides parking regulations and parking meters?
+- intent: nlu-faq-weho-parking-b1/What-if-I-get-a-ticket-even-though-I-had-a-valid-permit
+  examples: |
+    - What if I get a ticket even though I had a valid permit?
+    - What happens if you got a ticket even though you have a valid permit?
+    - What happens if you get ticket even though you had a valid permit?
+    - What if I get a ticket even though I had a valid permit?
+    - What would happen if I get a ticket while I have a valid permit?
+    - How can I get a ticket even though I had a valid permit and got no ticket at all?
+    - If I have a valid permit, what can I do if I am ticketed even though that permit is valid?
+    - How does it feel if you get a ticket despite having a valid permit?
+    - What if I got a ticket despite having a valid permit?
+    - What happens if you get ticket while you were having a valid permit?
+    - What if I get a ticket but have valid permit and no one can support me with ticket?
+- intent: nlu-faq-weho-parking-b1/Does-my-permit-exempt-me-from-street-sweeping-restrictions
+  examples: |
+    - Does my permit exempt me from street sweeping restrictions?
+    - Is my permit required to practice street sweeping?
+    - My permit exempt me from street sweeping restrictions?
+    - Is my permit exempt from street sweeping?
+    - Can a permit exempt from street sweeping restrictions?
+    - Does my permit exempt me from street sweeping restrictions?
+    - How can I exempt myself from street sweeping in California?
+    - Is my permit exempt from street sweeping restrictions?
+    - Is the permit of an Indian resident exempt from street sweeping restrictions?
+    - Is a citation issued through my permit exempt from sweeping or other restrictions?
+    - Does my license exempt me from street sweeping restrictions?
+- intent: nlu-faq-weho-parking-b1/Where-can-I-create-an-account-to-rent-an-escooter-or-ebike
+  examples: |
+    - Where can I create an account to rent an e-scooter or e-bike?
+    - Where can I create an account to rent an e-bike?
+    - Where can I create an account to rent a bicycle?
+    - How do I create an account to rent an e-bike?
+    - How do I create an account to rent an E-bike?
+    - Where can I create a new Account?
+    - Where can I create an account to rent e-scooter, e-bike, etc?
+    - How do I rent an e-bike?
+    - How do I get into a rental car and can I rent an e-bike?
+    - How can I create an account to rent a bike or an e scooter?
+    - How do I buy an e-bike?
+- intent: nlu-faq-weho-parking-b1/Where-will-I-be-able-to-pickup-or-park-an-escooter-or-ebike
+  examples: |
+    - Where will I be able to pick-up or park an e-scooter or e-bike? 
+    - Where can I park my e-bike?
+    - Where will you pick up or park a scooter?
+    - Where can I pick up my bike?
+    - Where will I be able to pick up or park my e-scooter or e-bike?
+    - How can I park my bike?
+    - Where can I park and pick up a bike?
+    - Where can I park an e-bike?
+    - Where will I be able to park an e-bike?
+    - Where will I find a lot of e-bike or scooter parking?
+- intent: nlu-faq-weho-parking-b1/What-types-of-ebikes-and-escooters-will-be-available
+  examples: |
+    - What types of e-bikes and e-scooters will be available?
+    - What type of e-bikes and e-scooters will be available in the next 10 years?
+    - What kinds of motorcycles will be available in 2016?
+    - What types of e-bikes and e-scooters will be available in 2016?
+    - Which type of e-bikes and e-scooters will be available in India in 2016?
+    - What e-bikes will be made available in 2019?
+    - What kinds of motorcycles are available on the market?
+    - Which types of e-bikes will be available in India?
+    - What types of e-bikes and e-scooters are available for rent?
+    - When will the new e-bikes and e-scooters be available?
+- intent: nlu-faq-weho-parking-b1/Are-there-any-rules-or-instructions-I-must-follow-on-roads-and-sidewalks
+  examples: |
+    - Are there any rules or instructions I must follow on roads and sidewalks?
+    - What are the rules for sidewalk and road maintenance?
+    - Are there any rules I must follow on roads and sidewalks?
+    - What are some rules you must follow on roadways and sidewalks?
+    - What laws must I follow to avoid accidents on paved roads and sidewalks?
+    - Are there any rules or instructions I must follow on roads and sidewalks?
+    - What are some rules and instructions you need to follow on a road?
+    - What are some rules I must follow on streets and sidewalks?
+    - What laws and procedures do I follow on sidewalks and roads?
+    - What are some rules or instructions I must follow on the road?
+    - What are the rules of roads and sidewalks?
+- intent: nlu-faq-weho-parking-b1/Will-I-be-required-to-wear-a-helmet
+  examples: |
+    - Will I be required to wear a helmet?
+    - Will I be required to wear a helmet?
+    - Can I wear a helmet?
+    - Will I be required to wear helmet?
+    - Will I be required to wear a helmet in public?
+    - Should I wear a helmet when I start school and should I wear a helmet or helmet in my school?
+    - Will I need a helmet?
+    - Does it impose the need for helmets on employees?
+    - Should I wear a helmet?
+- intent: nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike
+  examples: |
+    - Can anyone ride an e-scooter or e-bike?
+    - Can someone ride an e-scooter or e-bike?
+    - Can anyone ride an e-scooter?
+    - Can anyone ride an E-bike?
+    - Can people ride an e-bike?
+    - Can anyone ride an e-bike or e-scooter?
+    - Can anyone ride an e scooter or e-bike?
+    - What's the best way to ride an e-bike?
+    - Can I ride an e-scooter?
+    - What is it like to ride an e-scooter?
+    - Can anyone ride an e-bike?
+- intent: nlu-faq-weho-parking-b1/What-if-I-want-to-ride-on-the-sidewalk
+  examples: |
+    - What if I want to ride on the sidewalk?
+    - What should I do if I want to ride on the sidewalk?
+    - What if you want to ride on a sidewalk?
+    - Can someone ride on sidewalk?
+    - Can I ride on the sidewalk?
+    - If I want to be able to ride on the sidewalk?
+    - What if I want to ride on sidewalks?
+    - What if I want to ride on the sidewalk?
+    - How do I ride on a sidewalk?
+    - What should I do if I want to ride on sidewalks?
+    - What can I do if I want to ride on the sidewalk?
+- intent: nlu-faq-weho-parking-b1/Where-can-the-scooters-and-bikes-be-ridden
+  examples: |
+    - Where can the scooters and bikes be ridden?
+    - Where can the scooters and bikes be ridden?
+    - Where can the scooter or bike be ridden?
+    - Where can scooters and bikes be ridden?
+    - Where can you ride scooters and bikes?
+    - Where can scooters and bikes be used?
+    - How can scooters and bikes be ridden?
+- intent: nlu-faq-weho-parking-b1/May-I-ride-an-escooter-or-ebikes-in-a-bike-lane
+  examples: |
+    - May I ride an e-scooter or e-bikes in a bike lane?
+    - Can I use an e-bike or e-scooter in a bike lane?
+    - Do I need to carry an e-bike in a bike lane?
+    - May I ride e-bikes in a bike lane?
+    - Should I ride a bike in a bike lane?
+    - Should I ride my motorcycle in bike lane?
+    - How do I e-bike in bike lane?
+    - Should I be allowed to ride in a bike lane?
+    - What are some of the best ways to ride an e-scooter in a bike lane?
+    - Is it legal to ride an e-scooter on a bike in a bike lane?
+- intent: nlu-faq-weho-parking-b1/Contest-impound
+  examples: |
+    - Contest impound
+    - Contest impoundment contest impoundment impoundment impoundment Contest impoundment impoundment Contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest im
+    - Contest impoundment Contest impoundment Contest impoundment Contest impoundment Contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment Contest impoundment contest impoundment contest impoundment Contest impoundment contest impoundment contest impoundment contest impound
+    - Contest impoundment Contest impoundment contest impoundment Impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment Contest impoundment Contest impoundment contest impoundment
+    - Contest impoundment impoundment for contested impoundment impoundment Contest impoundment impoundment impoundment impoundment contest impoundment contest impoundment.
+    - Impoundment Contest impoundment Contest impoundment contest impoundment pte contest impoundment contest impoundment contest impoundment Contest impoundment Contest impoundment contest impoundment impoundment contest impoundment contest impoundment contest impoundment Contest impoundment contest
+    - Contest impoundment contest impoundment Contest impoundment Contest impoundment contest impoundment contest impoundment contest impoundment Contest impoundment contest impoundment contest impoundment Contest impoundment contest impoundment Contest impoundment Contest impoundment contest impoundment contest impound
+    - Contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment Contest impoundment Contest impoundment Contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impound
+    - Contest impoundment Contest impoundment contest impoundment contest impoundment Contest impoundment Contest impoundment contest impoundment Contest impoundment contest impoundment Contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment Contest impoundment contest impound
+    - Contest impoundment contest impoundment contest impoundment Contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment impoundment contest impoundment contest impoundment contest impoundment Contest impoundment contest impoundment contest impoundment Contest impoundment
+    - Contest impoundment contest impoundment contest contest impoundment Contest impoundment contest impoundment contest impoundment Contest impoundment contest impoundment impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impoundment contest impound
+- intent: nlu-faq-weho-parking-b1/Street-sweeping-schedule
+  examples: |
+    - Street sweeping schedule
+    - Street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping
+    - Street sweeping schedule street sweeping schedule street sweeping schedule Street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule Street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping
+    - Street sweeping schedule street sweep schedule street sweep schedule street sweep schedule Street sweep schedule street sweep schedule street sweep schedule street sweep schedule Street sweep schedule street sweep schedule street sweep schedule street sweep schedule street sweep schedule street sweeping schedule street sweep schedule street sweep schedule street sweeping schedule street sweep schedule street sweeping schedule street sweep
+    - Street sweeping schedule Street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule stop street 
+    - Street sweeping schedule Street sweeping schedule Street sweeping schedule Street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule Street sweeping schedule Street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping
+    - Streetsweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule
+    - Street Sweeping Schedule of the Street G.I.S. Schedule on the Street G.I. Schedule on the Street G.I. Schedule on the Street G.I. Schedule of the Street G.I. Schedule on the Street G.I. Schedule on the Street G.W.
+    - Street sweeping schedule. Street sweeping schedule schedule.
+    - Street sweep schedule is a street sweep schedule every day.
+    - Street sweeping schedule Street sweeping schedule Street sweeping schedule Street sweeping schedule Street sweeping schedule Street sweeping schedule street sweep schedule street sweeping schedule street sweeping schedule Street street sweeping schedule street street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street sweeping schedule street 
+- intent: nlu-faq-weho-parking-b1/Cost-to-park-at-meter
+  examples: |
+    - Cost to park at meter
+    - Cost to park at meter cost to park at meter
+    - Cost to park at meter meter Cost to park at meter meter
+    - If one hasn't paid for parking at meter or meter cost to park at the meter the fee will be incurred.
+    - Cost to park at meter to meter meter.
+    - Cost to park at meter
+    - Cost to park at meter cost to park at meter cost to park at meter cost to park at meter Cost to park at meter cost to park at meter cost to park at meter cost to park at meter Cost to park at meter rate.
+    - Cost to park at meter. Parking at meter.
+    - Cost to park at meter meter to parking cost to park at meter meter
+    - Cost to park at meter to park at meter.
+    - How much does it cost to park at meter?
+- intent: nlu-faq-weho-parking-b1/Parking-credits
+  examples: |
+    - Parking credits
+    - Parking credits for cars: Vehicle parking in a parking lot on the night of a crash.
+    - Parking credits for parking in parking lots are not valid.
+    - Parking credits and parking pass parking.
+    - Parking credits available for car parking.
+    - Parking credits are credited for parking in the parking lot. For parking in the parking lot there is a parking credit.
+    - Parking credit: Parking credit is issued with parking car charge.
+    - Parking credits, parking tickets and parking ticket redemption courtesy of Paytm.org. Parking credits are free for a parking card.
+    - Parking credits for car parking in the garage.
+    - Parking credits for certain cars are available.
+    - Parking credit is non-refundable if we have multiple parking passes.
+- intent: nlu-faq-weho-parking-b1/Parking-locations
+  examples: |
+    - Parking locations
+    - Parking locations for children in parking lots can be found easily online or offline.
+    - Parking lot parking locations. Location of parking lots. Parking/Parking location.
+    - Parking locations in Chicago for car parking sites. Parking location location.
+    - Parking lot parking locations will be available at the parking location.
+    - Parking parking locations : Parking location parking area parking location parking locations parking locations parking lot parking locations parking locations parking locations Parking locations parking locations
+    - Parking locations at parking lots. Locations of parking location.
+    - Parking lots. Locations for reserving cars.
+    - Parking locations and street parking. This parking location was discovered at a parking lot. Please ask prior to parking where the parking location is located.
+    - Parking location at corner park parking garages.
+    - Parking locations are located at the entrance to a parking garage. If you have any questions please feel free to ask. Parking locations are located at a parking lot.
+- intent: nlu-faq-weho-parking-b1/Permit-by-Plate
+  examples: |
+    - Permit by Plate
+    - Permit by plate Permit by Permit by Plate Permit By Plate Permits To Pass Porque Permit by Plate Permit by Plate Permit By Plate Permit Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit By Plate Permit by Plate Permit By
+    - Permit by plate Permit by plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit By Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit by
+    - Permit per plate permit. Permit by plate per permit.
+    - Permit by Plate - Permit by Plate - Permit by Plate. Permit by Plate and Permit by Permit for Use by Plate. Permit by Plate (PERMIT BY PLANTER).
+    - Permit by Plate Permit Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit By Plate Permit By Plate Permit by Plate Permit by Plate Permit By Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit By Plate Per
+    - Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit By Plate
+    - Permit by Plate Plate Permit.
+    - Permit per plate permit Permit per plate permits Permit by Plate Permit Permit Permit Permit by Plate Permit Permit by Plate Permit Permit by Plate Permit Per Permit By Plate Permit by Plate Permit by Plate Permit Permit By Plate Permit
+    - Permit by plate Permit by Plate Permit By Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit By Plate Permit By Plate Permit by Plate Permit by Plate Permit by Plate Permit by Plate Permit by
+    - Permit by plate. Permit by Plate. Permit by Permit. Permit by Plate
+- intent: nlu-faq-weho-parking-b1/PermitbyPlate
+  examples: |
+    - Permit-by-Plate
+    - Permit-by-Plate Permit-by-Plate Permit-by-Plate Permit-by-Plate Permit By-Plate Permit by Platee Permit-by-Plate Permit-by-Plate Permits: Permit-by-Plat
+    - Permit-by-Plate permit permits use Permit-by-Plate permits. Permits-by-Plate permits are valid at any address in the United States and can be used to generate permit.
+    - Permit-by-Plate. Permit-by-Plate. Permit-by-Plate. Permit-by-Plate. Permit-by-Plate.
+    - Permit-by-Plate is for permit processing with permit-by-plate.
+    - Permit-by-Plate permits per permit-by-Plate.
+    - Permit-by-Plate: Permit-by-Plate is not required to operate as permit-by-plate.
+    - Permit-by-Plate and Permit-by-Plate permit-by-platere permit permit-by-Plate permit, permit-by-Plate permit and permit-by-Plate per permit.
+    - Permit-by-Plate permits are issued for unauthorized habitation, a permit-by-Plate permit and a permit-by-Plate permit. Permit-by-Plate permit permits are issued to those who have a permit for any particular use or use. Permit
+    - Permit-by-Plate is allowed on a vehicle by permits.
+    - Permit-by-Plate Permit for Parking at Permit-by-Plate.
+- intent: nlu-faq-weho-parking-b1/City-Hall-Automated-Garage
+  examples: |
+    - City Hall Automated Garage
+    - City Hall Automated Garage Automated Garage City Hall Automated Garage automated garage automatic garage automatic Garage garage Automated Garage Automatic Garage Automatic Garage Automated Garage Automated Garage Automated Garage City Hall Automated Garage Automated Garage Automated Garage Automated Garage Automate
+    - City Hall Automated Garage Automated Garage City Hall Automated Garage Automated Garage City Hall Automated Garage City Hall Automated Garage Automated Garage City Hall Automated Garage City Hall Automated Garage Automated Garage City Hall Automated Garage Automated Garage City
+    - City Hall Automated Garage Automated Garage (Automatic garage) Automated Garage (Automatic Garage) Automated garage (Central Automated Garage) Automatic Garage (Automatic Garage) Automated Garage (Automatic Garage) Automated Garage (Automatic Garage) Automated
+    - City Hall Automated Garage. Automated Garages Automated Garages Automated Garage Automated Garages Automated Garages Automated Garages Automated Garages Automated Garage City Hall Automated Garages Automated Garages Automated Garages City
+    - City Hall Automated Garage Automated Parking Automation City Hall Garage Automated Parking Automated Garage City Hall Automated Parking Automated Parking Garage Automated Parking Automated Parking Automated Garage City Hall Automated Parking Automated Parking Automated Garage City Hall Automate
+    - City hall automated garage Automated Garage, Automated Garage City Hall Parking.
+    - How will City Hall Automated Garage service in the future?
+    - City Hall Automated Garage Automated Garage Automated Garage Automated Garage City Hall Automated Garage Automated Garage Automated Garage City Hall Automated Garage City Hall Automated Garage Automated Garage Automated Garage Automation City Hall Automated Garage Automated Garage
+    - Automated Garage of City Hall Automated Garage. Automated garage with automatic gate closing.
+    - City Hall Automated Garage Automated Garage, and City Hall Parking Garage.
+- intent: nlu-faq-weho-parking-b1/City-Hall-Garage
+  examples: |
+    - City Hall Garage
+    - City Hall Garage City Hall Garage City Hall Garage City Hall Garage Garage City Hall Garage City Hall Garage City Hall Garage Garage City Hall Garage City Hall Garage City Hall Garage City Hall Garage Garage City Hall Garage Garage City Hall Garage Garage City Hall Garage City Hall Garage Garage City Hall Garage City Hall Garage Garage City Hall Garage City Hall
+    - City Hall Garage has a concrete parking structure. The garage was built in late 1960s and incorporated in the City Hall Garage in 1975.
+    - City Hall Garage, City Hall Garage; Garage number 219; Garage number 435; Garage number 5; Garage number 6; Garage number 8; Garage number 9; Garage number 10; Garage number 16; Garage number 10; Garage number 20; Garage number 20; Garage number 30; Garage number 15; Garage
+    - City Hall garage, garage, garage parking: City Hall garage: City Hall Garage. Garage parking: City Hall Garage. Garage Parking: City Hall Garage. City Hall Garage. City Hall Garage. City Hall Garage. City Hall Garage.
+    - City Hall Garage, City Hall Garage, garage & Garage (Allowed Parking) Garage. City Hall Garage.
+    - City Hall Garage. City Hall Garage. Garage. City Hall Garage, City Hall Garage.
+    - City Hall Garage: Garage 1. The City Hall Garage is closed. If there is no parking inside City Hall, that parking space is free.
+    - City Hall Garage: City Hall garage parking lots are free to use. Parking lot: City Hall Garage Parking lot: City Hall Garage parking lot: City Hall Garage Parking Lot: City Hall Garage Parking Garage: City Hall Parking Garage: City Hall Parking Garage City Hall Garage Parking Garage: City Hall Parking Garage: City Hall
+    - City Hall Garage Garage Garage, City Hall Garage Garage.
+    - City Hall Garage, City Hall Garage, City Hall Garage, City Hall Parking Lot. Please park at City Hall Garage, no pets allowed, and no pets allowed.
+- intent: nlu-faq-weho-parking-b1/Automated-Garage
+  examples: |
+    - Automated Garage
+    - Automated Garage Door (ARA): The garage door generates the noise and starts automatically, with the car being parked.
+    - Automated garage (AGW): Automated garage (AGW): Automated Garage. Automated Garage Automation (AGW): Automated garage automation for automatized garage. Automated garage: Automated garage automation for automation. Automated garage: Automate
+    - Automated garages. How safe are they for you?
+    - Automated Garages – What are some examples?
+    - Automated garage automation automated garage. Automated garage automation. Automated garage automation.
+    - Automated Garage Door Injection Systems. Automated Garage Door Injection Systems. Automated Garage Door Injection System. Automated Garage Door Injection System. Automated Garage Door Injection System. Automated Garage Door Injection System. Automated Garage Door Injection System.
+    - Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated
+    - Automated garages. Automated garages. Automated Garages. Automated garages. Automated garages. Automated garages. Automated garages. Automated garages. Automated garages. Automated garages. Automated
+    - Automated Garage: Auto Garage: A garage automates garage. How do I use it?
+    - Automated Garages. Automated Garages. Automated Garages. Automated Garages. Automated Garages. Automated Garages. Automated Garages. Automated Garages.
+- intent: nlu-faq-weho-parking-b1/Sweetzer-Garage
+  examples: |
+    - Sweetzer Garage
+    - Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweet
+    - Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage
+    - Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage. Sweetzer Garage Garage Sweetzer Garage. Sweetzer Garage. Sweetzer Garage. Sweetzer Garage.
+    - Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer
+    - Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage
+    - Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer
+    - Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweet
+    - Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Garage Sweetzer Garage
+    - Sweetzer Garage (Launchfield) Sweetzer Garage (Kingston) Sweetzer Garage (Kingston) Garage (Madison) Sweetzer Garage (Wallace) Sweetzer Garage (Swetzer Garage) Sweetzer Garage (Swetzer Garage) Sweetzer
+    - Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage Sweetzer Garage Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Garage Sweetzer Garage Sweetzer Garage Garage
+- intent: nlu-faq-weho-parking-b1/Hart-Park
+  examples: |
+    - Hart Park
+    - Hart Park, Hart Park, Hart Park is a 210-acre park.
+    - Hart Park will be Hart Park's Hart Park if Hart Park's attractions appeal.
+    - Hart Park, Florida – Hart Park is a popular Hart Park neighborhood with plenty of good parking places to stay.
+    - Hart Park: Hart Park is a good place to live. Hart Park isn't a bad place to live.
+    - Hart Park, Hart Park Park, Hart Park. Hart Park Park, Hart Park Park, Hart Park, Hart Park. Hart Park, Hart Park. Hart Park. Hart Park. Hart Park. Hart Park. Hart Park. Hart Park. Hart Park, Hart Park, Hart Park. Hart Park. Hart Park.
+    - Hart Park Park is the Hart Park School District.
+    - Hart Park (Horse Park) -- Hart Park is a residential community.
+    - Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park, Hart Park,
+    - Hart Park is in Hart Park for the Hart Park Festival.
+    - Hart Park HART PARK Hart Park, SC. Hart Park, SC. Hart Park Hart Park, SC. Hart Park Hart Park, SC. Hart Park Hart Park, SC. Hart Park Hart Park, SC.
+- intent: nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot
+  examples: |
+    - Orange Grove Parking Lot
+    - Orange Grove Parking Lot: Parking Lot: Parking Lot: Orange Grove Parking Lot: Parking Lot: Parking Lot: Parking Lot: Parking Lot: Parking Lot: Parking Lot: Parking Lot: Parking Lot: Parking Lot: Orange Grove Parking Lot: Parking Lot: Parking Lot: Parking Lot: Parking Lot: Parking Lot:
+    - Parking lot Orange Grove Park Lot Lot Lot 900 Orange Grove Ave Car Park Lot 950 Orange Grove Parking Lot 900 Orange Grove Parking Lot 900 Orange Grove Parking Lot 900 Orange Grove Parking Lot 900 Orange Grove Parking Lot 900 Orange Grove Parking Lot 900 Orange Grove Parking Lot 900 Orange Grove Parking
+    - Parking Lot Orange Grove Parking Lot Parking Lot, Orange Grove, IN.
+    - Orange Grove Parking Lot Lot # 522 - Orange Grove Parking Lot Lot # 525 - Orange Grove Parking Lot # 523 - Orange Grove Parking Lot # 519 Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Parking Lot: Orange Grove Parking Lot
+    - Orange Grove Parking Lot Lots: Orange Grove Garage Lot Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot:
+    - Orange Grove Parking Lot Lot 315 Parking St, Orange Grove FL 32505 Orange Grove Parking Lot 3rd Floor Parking Lot 3rd Floor Parking Lot 3rd Floor Parking Lot 5th Floor Parking Lot 4th Floor Parking Lot 4th Floor Parking Lot 4th Floor Parking Lot 4th Floor Parking Lot
+    - Orange Grove Parking Lot Is Located on State Drive, Orange Grove.
+    - Orange Grove Parking Lot If there is a car in Orange Grove Parking Lot if it is parked there, please don't drive in.
+    - Orange Grove Parking Lot: Parking lots - Orange Grove Parking Lot Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking Lot: Orange Grove Parking
+    - Orange Grove Parking Lot is on the left side of the lot. Parking will be free!
+- intent: nlu-faq-weho-parking-b1/Queens-Parking-Lot
+  examples: |
+    - Queens Parking Lot
+    - Parking Lot for Queens parking for parking less than 1 meter.
+    - Parking lot for Queens Parking Lot. For parking lots for a car.
+    - Parking lots in Queens Parking Lot.
+    - Queens Parking Lot. 5 BRAND NEW Queens STEELING LOT
+    - Parking lot Queen's parking lot. Queen's parking lot is in Queen's parking lot.
+    - Where is the Queens parking lot?
+    - Parking Lots: Queens Parking Lot.
+    - Parking Lot: Queens Park, Queens Parking Lot | Queens Park, Queens Park
+    - Parking Lot: Queens Parking Lot. Queens Parking Lot.
+    - Parking lot for Queens car park.
+- intent: nlu-faq-weho-parking-b1/Sunset-Parking-Lot
+  examples: |
+    - Sunset Parking Lot
+    - Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot Parking: Sunset Parking Lot:
+    - Sunset parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot
+    - Sunset Parking Lot Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot
+    - Sunset Parking Lot has a parking lot in Sunset Park lot. Parking lot is at Sunset parking Lot.
+    - Sunset Parking Lot - Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset
+    - Sunset Park Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot. Sunset Parking Lot.
+    - Sunset Parking Lot Is the place for parking?
+    - Sunset Parking Lot, Sunset Park Lot. Sunset Parking Lot, Sunset Parking Lot. Sunset Parking Lot. Parking Lot, Sunset Parking Lot. Parking Lot.
+    - Parking Lot Sunset: Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Sunset
+    - Sunset Parking Lot, Sanctuary, 10 ft. Sunset Parking Lot, 287 L. Sunset Parking Lot, 175 L. Sunset Parking Lot. (Parking: $1,454) Sunset Parking Lot, 816 S. Sunset View Road, Sunset Square, New York, N.
+- intent: nlu-faq-weho-parking-b1/WeHo-Park-Garage
+  examples: |
+    - WeHo Park Garage
+    - WeHo Park Garage can park up for a rental on the drive to WeHo Park.
+    - How do weHo Park garages work?
+    - WeHo Park Garage is located in a very clean garage.
+    - WeHo Park Garage weHo Park garage garage weHo Park garage weHo Park Garage weHo Park Garage weHo Park Garage WeHo Park Garage WeHo Park Garage WeHo Park Garage WeHo Park Garage WeHo Park Garage WeHo Park Garage WeHo Park Garage WeHo Park Garage WeHo Park Garage WeHo
+    - Where WeHo Park garage is located?
+    - WeHo Park Garage weHopark garage weHopark garage garage weHopark garage garage weHopark garage garage weHo park garage WeHo Park garage weHopark Garage weHopark garage weHopark garage weHopark garage weHopark Garage WeHopark Garage weHopark Garage WeHopark garage
+    - WeHo park garage and parking WeHo Park Garage have everything in a parking garage, with great access to WeHo park. Our garage has a huge driveway, TheHo park Garage has a great driveway and WeHo Park Garage has everything in it.
+    - If WeHo Park Garage, WeHo Park Garage also has a weHo Park Garage Garage, but weHo Park Garage still have this same garage so can you park in it?
+    - Our parking lot is inside The WeHo Park garage. It’s the easiest parking location.
+    - WeHo Park Garage WeHo Park Garage WeHo Park Garage WeHo Park Garage OurHo Park Garage WeHo Park Garage WeHo Park Garage Garage weHo Park Garage. WeHo Park Garage weHo Park Garage, weHo Park Garage Garage, WeHo Park garage, weHo Park Garage Garage.
+- intent: nlu-faq-weho-parking-b1/Hancock-Parking-Garage
+  examples: |
+    - Hancock Parking Garage
+    - Hancock Parking Garage Parking Lot Hancock Hancock (Hancock) Parking Garage Parking Garage Hancock Hancock Garage
+    - Parking Garage - Hancock Parking Garage - Hancock Hancock Parking Garage - Hancock Parking Garage - Hancock Parking Garage - Hancock Parking Garage - Hancock Parking Garage - Hancock Hancock Parking Garage - Hancock Parking Garage - Hancock Parking Garage - Han
+    - Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking
+    - Hancock Parking Garage: Hancock Parking Garage: Hancock Parking Garage: Hancock Parking Garage: Hancock Parking Garage: Hancock Parking Garage: Hancock Parking Garage: Hancock Parking Garage: Hancock Parking Garage: Hancock Parking Garage: Hancock Parking Garage, Hancock Parking Garage. Hancock Parking
+    - Hancock Park Garage & Garage. Hancock Parking Garage & Garage.
+    - Hancock Parking Garage is at Hancock Hancock parking garage. There is a handicap access gate.
+    - Parking Garage Hancock Hancock Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock parking garage Hancock Parking Garage Hancock Parking Garage Hancock Hancock Parking Garage Hancock Hancock Parking Garage Hancock Hancock Parking Garage Hancock Parking Garage Hancock Parking Garage Hancock Parking
+    - Hancock Parking Garage. Hancock Parking Garage, Hancock parking garage (Standard Garage) Hancock, GA 45046 Hancock, GA 45044 Hancock (Hanscock) Hancock Parking Garage, Hancock, GA 45044 Hancock Park Garage. Hancock Parking Garage
+    - Parking Garage Hancock Hancock, VA 21048 Hancock Parking Garage, Hancock / Hancock OH 1A0 / Hancock H1 / Hancock H1 / Hancock H1 / Hancock H1 parking garage / Hancock H1 Garage.
+    - Hancock Park Garage, Hancock HAcock parking garage.
+- intent: nlu-faq-weho-parking-b1/Hancock-Garage
+  examples: |
+    - Hancock Garage
+    - Hancock garage (Hancock) garage. Hancock garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock garage.
+    - Hancock garage, Hancock, KS: Hancock. Garage. Hancock Garage. Hancock.
+    - Hancock Garage is a Hancock garage.
+    - Hancock Garage: Hancock garage, Hancock, NH. Hancock garage, Hancock garage, Hancock garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Han
+    - Hancock-Hancock Garage has a large Hancock garage with a lot of bay window and a front porch to keep it dry. Garage is located at 7150 Hancock Street.
+    - Hancock Garage Garage has been in the business since 1968.
+    - Hancock Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Han
+    - Hancock garage has some of the best garage doors and accessories in the world.
+    - Hancock Garage (Cambridge, Pennsylvania) Hancock Garage, Hancock, PA, USA Hancock Garage, Hancock, PA, United States Hancock Garage, Hancock Garage, Hancock, PA, USA Hancock garage, Hancock garage, Hancock Garage, Pennsylvania Hancock Garage, PA
+    - Hancock Garage. Hancock Garage. Hancock Garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock Garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage

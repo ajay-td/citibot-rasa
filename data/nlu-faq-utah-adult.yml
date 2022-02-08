@@ -1,0 +1,474 @@
+version: "3.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: nlu-faq-utah-adult/How-old-do-I-have-to-be-to-enroll-in-Adult-Education?
+  examples: |
+    - How old do I need to be to enroll for adult education?
+    - How old do I have to be to enroll in adult education?
+    - How old should I have to be to attend adult education?
+    - How old do I have to be to get into adult education?
+    - How old do I have to be to attend Adult Education?
+
+- intent: nlu-faq-utah-adult/Do-I-have-to-live-in-Utah?
+  examples: |
+    - Is it necessary to live in Utah?
+    - Why can't I live in Utah?
+    - Will I ever have to live in Utah?
+    - How long must I live in Utah?
+    - How do I live in Utah?
+
+- intent: nlu-faq-utah-adult/Where-can-I-take-a-class?
+  examples: |
+    - Where can I take a class?
+    - How should I take classes?
+    - How do I study?
+    - How can I take class?
+    - How do I take a class?
+
+- intent: nlu-faq-utah-adult/Where-can-I-take-the-GED-test?
+  examples: |
+    - What is the best site for a GED test?
+    - What are the best ways to take the GED test?
+    - What is a good college for preparing for the GED?
+    - Where can I get a GED test?
+    - Where can I take GED test?
+
+- intent: nlu-faq-utah-adult/How-much-do-classes-cost?
+  examples: |
+    - How much do classes cost?
+    - What is the cost of a class?
+    - How much do classes cost?
+    - How much do classes cost?
+    - How much does a class cost?
+
+- intent: nlu-faq-utah-adult/Is-it-free?
+  examples: |
+    - Is internet not free?
+    - Is mashup free?
+    - Is it free?
+    - Is it free?
+    - Is it free to use?
+
+- intent: nlu-faq-utah-adult/How-much-is-the-tuition?
+  examples: |
+    - How much is tuition?
+    - How much is the tuition?
+    - What is tuition? How much is it?
+    - How much does tuition cost?
+    - How much is tuition?
+
+- intent: nlu-faq-utah-adult/Why-do-I-have-to-take-a-test?
+  examples: |
+    - What are the different tests?
+    - Why do I have to take tests?
+    - Why do I have to take a test?
+    - Why do we need a test?
+    - Why do we need to take a test?
+
+- intent: nlu-faq-utah-adult/What-am-I-going-to-be-tested-on?
+  examples: |
+    - What am I going to be tested on?
+    - What am I going to be tested on?
+    - Where am I going to be tested on?
+    - What do I go to be tested on?
+    - What will I be tested on?
+
+- intent: nlu-faq-utah-adult/Is-there-a-set-schedule?
+  examples: |
+    - Are there any set schedule?
+    - What is the use of a set schedule?
+    - What are the rules of an organized schedule?
+    - Is there a fixed schedule?
+    - Is there a fixed timetable?
+
+- intent: nlu-faq-utah-adult/Are-there-evening-classes?
+  examples: |
+    - Are there evening classes?
+    - Are there any evening class?
+    - What are some evening classes?
+    - Are there evening classes?
+    - Are evening classes offered at the library?
+
+- intent: nlu-faq-utah-adult/Do-I-have-to-come-at-the-same-time-every-day?
+  examples: |
+    - Can I come and go every day at the same time as my wife?
+    - Do I have to come at the same time every day?
+    - Is it okay to go to the same time every day?
+    - How do I come at the same time every day?
+    - Is it possible to come to work as one on the same time every day?
+
+- intent: nlu-faq-utah-adult/How-soon-could-I-graduate?
+  examples: |
+    - How soon can I get into a career?
+    - How soon could I graduate?
+    - How soon can one graduate?
+    - How soon could I finish?
+    - How soon can I graduate?
+
+- intent: nlu-faq-utah-adult/How-long-are-the-classes?
+  examples: |
+    - How long is the course?
+    - How long are the classes?
+    - How long are a class?
+    - How long do the classes take?
+    - How many class are there?
+
+- intent: nlu-faq-utah-adult/Can-I-take-classes-from-home?
+  examples: |
+    - Can I take classes online?
+    - How do I take my classes from home?
+    - Can I take classes from home?
+    - Is it possible to take classes from home?
+    - How can I take classes online?
+
+- intent: nlu-faq-utah-adult/Can-I-take-classes-online?
+  examples: |
+    - Is online schooling worth it?
+    - Can I take online courses?
+    - Can I take a class online?
+    - Can I study online?
+    - Can you take online classes?
+
+- intent: nlu-faq-utah-adult/Can-I-do-packets?
+  examples: |
+    - Can I do packets?
+    - Can I do packets?
+    - How can I make packets?
+    - Is it okay to just write a few packets?
+    - How do I prepare packets?
+
+- intent: nlu-faq-utah-adult/How-do-I-get-my-GED-transcript?
+  examples: |
+    - How can I obtain transcript for GED?
+    - How do I get transcripts for GED exam?
+    - How can I get my transcript for GED?
+    - How can I get transcript for GED?
+    - How do I get a transcript for my GED?
+
+- intent: nlu-faq-utah-adult/How-do-I-verify-a-GED-for-an-employee?
+  examples: |
+    - How can I verify my GED?
+    - How can I verify the GED for an individual?
+    - How do I verify my GED score?
+    - What are some ways to verify GED eligibility for an employee?
+    - How do I verify a GED certificate?
+
+- intent: nlu-faq-utah-adult/GED-Verification
+  examples: |
+    - GED Verification Verification: Do I need GED verification?
+    - GED Verification Verification – GED Verification (PDF).
+    - GED Verification: GED Verification is an important exam for GED verification. How can I start GED Verification if I don't know who I am?
+    - GED Verification: GED Verification...
+    - GED Verification Verification.
+
+- intent: nlu-faq-utah-adult/How-long-is-the-GED-test?
+  examples: |
+    - How long is the GED test?
+    - How long does the GED take to answer?
+    - How long does it take to get a GED test?
+    - How long is the GED test?
+
+- intent: nlu-faq-utah-adult/Do-I-have-to-take-the-GED-Ready-(a-practice-test)-before-I-can-test-for-real?
+  examples: |
+    - I am 16 years old. Do I have to take GED Preparation Test if I want to take it?
+    - Do I have to take the GED Ready Practice Test or is there a way to test for real?
+    - Is it true that you have to take a GED exam to test for real?
+    - I'm 18 now, should I take GED Ready before I can test in real world?
+    - Do I have to take the GED Ready (Practice Test) before I can test for real?
+
+- intent: nlu-faq-utah-adult/Can-I-take-the-GED-if-I’m-still-in-high-school?
+  examples: |
+    - I want to take GED in high school, can I still take the GED?
+    - Can I take GED if I'm still in high school?
+    - Can I take the GED while still in high school?
+    - Is there any possibility that I should be able to take the GED while still in high school?
+    - Can I take GED before I'm graduating high school?
+
+- intent: nlu-faq-utah-adult/How-old-do-you-have-to-be-to-take-the-GED?
+  examples: |
+    - How old do you have to be to get the GED?
+    - When should I take the GED?
+    - How old must a teenager be to take a GED exam?
+    - How old do I need to be to take the GED?
+    - How old must I be to take the GED?
+
+- intent: nlu-faq-utah-adult/If-I-get-my-GED,-can-I-go-back-to-walk-with-my-class?
+  examples: |
+    - Can I get back to classes after my GED to go to my class?
+    - If I got my GED can I go back to walk with my class?
+    - If I get my GED, I'm going back to walk with my class. Can I go back to walk?
+    - Can I go back to my GED class and walk in it?
+    - Can I go back to class after my GED?
+
+- intent: nlu-faq-utah-adult/Can-I-get-into-college-with-a-GED?
+  examples: |
+    - I got my first GED last year. How can I get into college?
+    - Can I get into college with GED?
+    - How can I get into college with a GED?
+    - Can you get into college for a GED?
+    - I have a GED and how many options there are for preparing for college?
+
+- intent: nlu-faq-utah-adult/Can-I-go-into-the-military-with-a-GED?
+  examples: |
+    - Can I get into military with a GED?
+    - How do I get into the military and go into the military with a GED?
+    - If I have a GED can I enter military service?
+    - How do I go into the military with GED?
+    - Can I go into the military with a GED?
+
+- intent: nlu-faq-utah-adult/Do-I-get-a-diploma-when-I-pass-the-GED?
+  examples: |
+    - Is it possible to get a diploma after completing the GED?
+    - How do I get a diploma after my GED?
+    - Do I get a diploma after passing the GED?
+    - How can we get diploma for the GED?
+    - Is it possible to get diploma after pass the GED?
+
+- intent: nlu-faq-utah-adult/How-many-retakes-do-you-get?
+  examples: |
+    - How many retakes do you take?
+    - How many retakes do you get every day?
+    - How many retakes do you get?
+    - How many retakes do you get?
+    - How many repeats retakes do you get?
+
+- intent: nlu-faq-utah-adult/I-took-my-GED-prior-to-2014.-Do-I-have-to-start-over?
+  examples: |
+    - I took my GED prior to 2014. I started over. Is there still a requirement I should start over?
+    - How do I finish my GED prelims 2014?
+    - I started my GED ten years ago, but I did not pass. I take the GED ten months ago, but still have the GED. Does it need to start from scratch?
+    - I took my GED in June, 2014, I just finished, what do I have to start over?
+    - Should I start my GED again after it passed?
+
+- intent: nlu-faq-utah-adult/Do-GED-tests-expire?
+  examples: |
+    - Does the GED test expire or is it a test?
+    - Do GED tests expire after GED?
+    - Do GED tests expire?
+    - Do GED tests expire?
+    - Can you post my GED test results?
+
+- intent: nlu-faq-utah-adult/How-many-credits-do-you-need-to-graduate-in-adult-ed?
+  examples: |
+    - How many credits do I need to graduate in adult ed?
+    - How many credits do you need to graduate in adult ed?
+    - How many credits do you need to graduate in adult ed?
+    - How many credits should I have to graduate in adult ed?
+    - How many credits do you need for adult ed to graduate?
+
+- intent: nlu-faq-utah-adult/Can-you-use-my-oldprevious-credits?
+  examples: |
+    - How do I use my old credits?
+    - Can you use old/previous credits?
+    - Can I use my old credits?
+    - Can you use your old credits?
+    - Can I use my old credits?
+
+- intent: nlu-faq-utah-adult/Can-I-get-credit-for-work-experience?
+  examples: |
+    - How can you get credit for work experience?
+    - Can we get credit for work experience?
+    - Can we get credit for work experience?
+    - How do you get credit for work experience?
+    - Can I get credit for work experience?
+
+- intent: nlu-faq-utah-adult/Can-I-use-college-military-experience-toward-my-diploma?
+  examples: |
+    - Can I use college military experience towards my diploma?
+    - Can I use my college military service experiences toward my diploma?
+    - How do you apply college military experience for a diploma?
+    - Can I use military experience in my military career for my college diploma?
+    - Can I use college military experience towards diploma?
+
+- intent: nlu-faq-utah-adult/Can-I-use-college-credit-experience-toward-my-diploma?
+  examples: |
+    - Can college credit be used toward a diploma?
+    - Can I use college credit experience toward my diploma?
+    - Can you use college credit experience toward your diploma?
+    - Will I be accepted for credit from college with my diploma?
+    - Can I use college credit toward my diploma?
+
+- intent: nlu-faq-utah-adult/Do-I-need-to-bring-my-transcript?
+  examples: |
+    - Should I bring transcript with me?
+    - Do I need a transcript to be eligible for the final exam?
+    - Do I need to bring my transcript or transcript to get a transcript?
+    - Do you need transcripts?
+    - Do you need to bring transcript?
+
+- intent: nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-transcript?
+  examples: |
+    - How can I get a copy of my transcript?
+    - How do I get a copy of my transcript?
+    - How do I get a transcript?
+    - How do I get the transcripts for the transcript?
+    - How do you get a copy of a transcript?
+
+- intent: nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-diploma?
+  examples: |
+    - How do I get a copy of my diploma in a few days?
+    - How do I get a copy of my diploma?
+    - How can I get a copy of my diploma from home?
+    - How do I get a copy of my diploma?
+    - How do I get a copy of diploma?
+
+- intent: nlu-faq-utah-adult/Can-you-authenticate-my-foreign-diploma?
+  examples: |
+    - Is it possible to authenticate a foreign diploma?
+    - Can I authenticate my foreign diploma?
+    - Can you authenticate a foreign diploma?
+    - How do I authenticate foreign diploma?
+    - Can you authenticate my foreign diploma?
+
+- intent: nlu-faq-utah-adult/Can-you-verify-my-foreign-diploma?
+  examples: |
+    - I want to get a foreign diploma, can you verify if I have it?
+    - How can I verify my foreign diploma?
+    - I have a foreign diploma, how do I find a foreigner's foreigner certificate?
+    - How do I verify my foreign diploma (foreign)?
+    - I am a foreigner. Can you prove my foreign diploma?
+
+- intent: nlu-faq-utah-adult/Will-these-classes-work-for-my-visa?-Am-I-enrolled-in-school-for-my-F-1?
+  examples: |
+    - How would this classes work for my visa? Am I enrolled in school for my F-1?
+    - How can I enrol in school for my F-1 visa?
+    - Do these classes work for my visa? Am I enrolled in school for my F-1 Visa?
+    - Which classes work for my visa? Am I enrolled in school for my F-1 visa?
+    - Are there any classes that are not working in visa?
+
+- intent: nlu-faq-utah-adult/Can-DACA-students-get-a-letter-showing-I’m-enrolled-in-classes?
+  examples: |
+    - Can DACA students get a letter showing that they are enrolled in class?
+    - Is there a way to get a letter from DACA student confirming enrollment?
+    - Can I get a DACA student status letter from college showing my attendance?
+    - Can I get a letter from DACA student for a letter?
+    - How do I get a copy of the DACA letter showing I’m enrolled in class if I don’t show the letter?
+
+- intent: nlu-faq-utah-adult/Can-Parolees-get-a-letter-showing-I’m-enrolled-in-classes?
+  examples: |
+    - How do parolees get a letter showing that they have classes?
+    - How can a parolee get a letter showing my enrolled in class?
+    - Is it possible for a parolee to get a letter showing he’s in classes?
+    - Can a parole officer get a letter showing I’m in class?
+    - Can any parolee receive a letter showing if I’m enrolled in classes?
+
+- intent: nlu-faq-utah-adult/Do-I-have-to-give-my-social-security-number-(SSN)?
+  examples: |
+    - Do I have to give me a social security number?
+    - Do I need to give my social security number?
+    - Do I have to give my name or social security number to people who haven't already given me that information?
+    - Should I give the Social Security Number (SSN)?
+    - Do I have to give my social security number?
+
+- intent: nlu-faq-utah-adult/How-is-my-SSN-used?
+  examples: |
+    - What is my SSN and how is it used?
+    - How is my SSN used?
+    - How is my SSN used and processed?
+    - How is my SSN used?
+    - How is my SSN used?
+
+- intent: nlu-faq-utah-adult/Why-do-you-want-my-SSN?
+  examples: |
+    - Why do some people ask about their SSN and why do they want to ask for one?
+    - Why do you want your SSN?
+    - Why do you want your SSN?
+    - Why do I want to get my SSN?
+    - Why do you want my SSN?
+
+- intent: nlu-faq-utah-adult/What’s-the-difference-between-a-GED-and-a-high-school-diploma?
+  examples: |
+    - What's the difference between a high school diploma and a GED?
+    - What's the difference between a GED and a high school diploma?
+    - What is the difference between a high school diploma and a GED?
+    - What is the difference between a high school diploma and a GED?
+    - What's the difference between GED and high school diploma?

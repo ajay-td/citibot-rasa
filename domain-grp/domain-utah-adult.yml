@@ -1,0 +1,179 @@
+version: "3.0"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - nlu-faq-utah-adult
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_nlu-faq-utah-adult/How-old-do-I-have-to-be-to-enroll-in-Adult-Education?:
+  - text: You must be 16 years old or older to enroll in adult education.
+
+  utter_nlu-faq-utah-adult/Do-I-have-to-live-in-Utah?:
+  - text: You must live in Utah, but we can make exceptions for individuals who live in communities near the Utah border.
+
+  utter_nlu-faq-utah-adult/Where-can-I-take-a-class?:
+  - text: Classes can be taken throughout the state. Find the Adult Education program offered closest to you at https://schools.utah.gov/file/0a78acbf-9c40-41fa-a53a-44d52ddff060
+
+  utter_nlu-faq-utah-adult/Where-can-I-take-the-GED-test?:
+  - text: The GED test can be taken at one of the state's testing sites. Find the site nearest you at https://www.passged.com/state/utah
+
+  utter_nlu-faq-utah-adult/How-much-do-classes-cost?:
+  - text: Fees and tuition vary by program. The most you will ever be charged is $100 per year. If you have a concern about the cost of the program, you can request a fee waiver.
+
+  utter_nlu-faq-utah-adult/Is-it-free?:
+  - text: Fees and tuition vary by program. The most you will ever be charged is $100 per year. If you have a concern about the cost of the program, you can request a fee waiver.
+
+  utter_nlu-faq-utah-adult/How-much-is-the-tuition?:
+  - text: Fees and tuition vary by program. The most you will ever be charged is $100 per year. If you have a concern about the cost of the program, you can request a fee waiver.
+
+  utter_nlu-faq-utah-adult/Why-do-I-have-to-take-a-test?:
+  - text: Students have to take a test at the beginning of the program to help us understand your needs and design the best plan for you. We test periodically throughout your enrollment to measure your progress and make sure the plan is effective.
+
+  utter_nlu-faq-utah-adult/What-am-I-going-to-be-tested-on?:
+  - text: What you are tested on depends on your program. Students working toward a high school diploma or GED are tested in math and language arts. Students in English language classes are tested on their skills in speaking, listening, reading, and writing in English.
+
+  utter_nlu-faq-utah-adult/Is-there-a-set-schedule?:
+  - text: For class schedules and times, reach out to the site nearest you for more information about their hours- https://schools.utah.gov/file/0a78acbf-9c40-41fa-a53a-44d52ddff060 . Hours vary, but all programs have flexible scheduling options designed for busy adults.
+
+  utter_nlu-faq-utah-adult/Are-there-evening-classes?:
+  - text: For class schedules and times, reach out to the site nearest you for more information about their hours- https://schools.utah.gov/file/0a78acbf-9c40-41fa-a53a-44d52ddff060 . Hours vary, but all programs have flexible scheduling options designed for busy adults.
+
+  utter_nlu-faq-utah-adult/Do-I-have-to-come-at-the-same-time-every-day?:
+  - text: For class schedules and times, reach out to the site nearest you for more information about their hours- https://schools.utah.gov/file/0a78acbf-9c40-41fa-a53a-44d52ddff060 . Hours vary, but all programs have flexible scheduling options designed for busy adults.
+
+  utter_nlu-faq-utah-adult/How-soon-could-I-graduate?:
+  - text: Your graduation date depends on your goals and individual plan. Everyone’s needs are different. Please reach out to a program in your area for an appointment with a counselor who can review your transcripts and help you develop a graduation plan- https://schools.utah.gov/file/0a78acbf-9c40-41fa-a53a-44d52ddff060
+
+  utter_nlu-faq-utah-adult/How-long-are-the-classes?:
+  - text: The length of classes varies by program site. Please reach out to a program in your area for an appointment with a counselor who can review your transcripts and help you develop a graduation plan- https://schools.utah.gov/file/0a78acbf-9c40-41fa-a53a-44d52ddff060
+
+  utter_nlu-faq-utah-adult/Can-I-take-classes-from-home?:
+  - text: Online classes and home learning are options in some cases. We do our best to offer a variety of options, including some independent study options. You would need to participate in an orientation on-site while we get to know you, including your needs and goals, and set up a learning plan for you before starting distance learning.
+
+  utter_nlu-faq-utah-adult/Can-I-take-classes-online?:
+  - text: Online classes and home learning are options in some cases. We do our best to offer a variety of options, including some independent study options. You would need to participate in an orientation on-site while we get to know you, including your needs and goals, and set up a learning plan for you before starting distance learning.
+
+  utter_nlu-faq-utah-adult/Can-I-do-packets?:
+  - text: Online classes and home learning are options in some cases. We do our best to offer a variety of options, including some independent study options. You would need to participate in an orientation on-site while we get to know you, including your needs and goals, and set up a learning plan for you before starting distance learning.
+
+  utter_nlu-faq-utah-adult/How-do-I-get-my-GED-transcript?:
+  - text: You can obtain your GED transcript by going to https://ged.com/life_after_ged/. Most orders take approximately 1-2 days but may take up to 2 weeks to process and mail out. Please allow sufficient time for processing and shipping. Prior to placing an order, you should confirm that you have the correct recipient/administrator and school address if you are sending the transcript directly to a school.
+
+  utter_nlu-faq-utah-adult/How-do-I-verify-a-GED-for-an-employee?:
+  - text: To verify a GED for an employee, visit https://ged.com/life_after_ged/ and select the “Third Parties” option.
+
+  utter_nlu-faq-utah-adult/GED-Verification:
+  - text: GED verifications can be obtained by going to https://ged.com/life_after_ged/
+
+  utter_nlu-faq-utah-adult/How-long-is-the-GED-test?:
+  - text: The total time to take the GED test is 7 hours and 5 minutes.There are four subject tests on the GED. Mathematical Reasoning takes 115 minutes. Reasoning Through Language Arts takes 150 minutes. Social Studies takes 90 minutes. Science takes 90 minutes. It is possible to take all of the tests in one day, but but. students usually break the tests up into one or two tests at a time.
+
+  utter_nlu-faq-utah-adult/Do-I-have-to-take-the-GED-Ready-(a-practice-test)-before-I-can-test-for-real?:
+  - text: You will be have to take and pass the GED Ready test if you plan to take the GED online. The GED Ready is not required if you take the GED test in-person at a testing site.
+
+  utter_nlu-faq-utah-adult/Can-I-take-the-GED-if-I’m-still-in-high-school?:
+  - text: You can take the GED as long as you are not currently enrolled in a K-12 school.
+
+  utter_nlu-faq-utah-adult/How-old-do-you-have-to-be-to-take-the-GED?:
+  - text: You have to be at least 16 years old to take the GED.
+
+  utter_nlu-faq-utah-adult/If-I-get-my-GED,-can-I-go-back-to-walk-with-my-class?:
+  - text: If you complete your GED, your high school will decide if you can go back to walk with your class at graduation.
+
+  utter_nlu-faq-utah-adult/Can-I-get-into-college-with-a-GED?:
+  - text: You can get into college with a GED as most schools in the U.S. accept the GED. You should aim for a score of 165, which is considered college ready.
+
+  utter_nlu-faq-utah-adult/Can-I-go-into-the-military-with-a-GED?:
+  - text: You may be able enter the military with a GED, but talk to a recruiter to find out the current requirements of the branch of military you want to enlist in.
+
+  utter_nlu-faq-utah-adult/Do-I-get-a-diploma-when-I-pass-the-GED?:
+  - text: You will receive a Utah High School Completion diploma when you pass the GED.
+
+  utter_nlu-faq-utah-adult/How-many-retakes-do-you-get?:
+  - text: You can retake the GED 2-3 times depending on which form of the test you take. You can take the test three times with no restrictions between retakes for in-person testing at a testing center. You can take the test two times with no restrictions between retakes for online testing. After that you must wait 60 days between each attempt.
+
+  utter_nlu-faq-utah-adult/I-took-my-GED-prior-to-2014.-Do-I-have-to-start-over?:
+  - text: If you took the GED prior to 2014, the results do not carry over to the current version. You will need to pass all four subject tests of the 2014 version in order to complete the GED.
+
+  utter_nlu-faq-utah-adult/Do-GED-tests-expire?:
+  - text: GED tests do not expire if scores are from the 2014 version of the GED test.
+
+  utter_nlu-faq-utah-adult/How-many-credits-do-you-need-to-graduate-in-adult-ed?:
+  - text: Students need a minimum of 24 credits to graduate adult ed as established by the Utah State Board of Education. For a list of required credits, please visit https://www.schools.utah.gov/curr/graduationrequirements?mid=1014&tid=2 
+
+  utter_nlu-faq-utah-adult/Can-you-use-my-oldprevious-credits?:
+  - text: Old or previous credits can be used. However depending when you attended high school, some credit requirements may have changed. Contact an adult ed program near you to set up a meeting with a counselor.
+
+  utter_nlu-faq-utah-adult/Can-I-get-credit-for-work-experience?:
+  - text: You can get credit for work experience. You can earn up to 4 credits in your elective or CTE credit requirements. You’ll earn 1 credit for every 180 hours of continuous, professional employment.
+
+  utter_nlu-faq-utah-adult/Can-I-use-college-military-experience-toward-my-diploma?:
+  - text: You can use college military experience toward your diploma. You can earn a maximum 1.50 credit towards Individualized Fitness for Life or Elective credit from basic training or 1.00 credit for each 180 hours of other verified military training.
+
+  utter_nlu-faq-utah-adult/Can-I-use-college-credit-experience-toward-my-diploma?:
+  - text: You can use college credit experience toward your diploma. You can earn 1.00 credit for each 5 quarter-hours or 1.00 credit for each 3 semester hours in the appropriate subject area of analysis.
+
+  utter_nlu-faq-utah-adult/Do-I-need-to-bring-my-transcript?:
+  - text: If you bring an official copy of your transcript, the intake process will go quicker. Most adult ed programs can request your transcript for you.
+
+  utter_nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-transcript?:
+  - text: To get an official copy of your transcript or diploma, contact your last attended school. Some schools may have you go through Parchment and may require a small fee.
+
+  utter_nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-diploma?:
+  - text: To get an official copy of your transcript or diploma, contact your last attended school. Some schools may have you go through Parchment and may require a small fee.
+
+  utter_nlu-faq-utah-adult/Can-you-authenticate-my-foreign-diploma?:
+  - text: Foreign diplomas or credentials can not be verified or authenticated by us. You need to go through the United States Apostille Service.
+
+  utter_nlu-faq-utah-adult/Can-you-verify-my-foreign-diploma?:
+  - text: Foreign diplomas or credentials can not be verified or authenticated by us. You need to go through the United States Apostille Service.
+
+  utter_nlu-faq-utah-adult/Will-these-classes-work-for-my-visa?-Am-I-enrolled-in-school-for-my-F-1?:
+  - text: Our programs cannot be your sponsoring school for Visas, however you may attend adult education courses for extra help if you wish to do so.
+
+  utter_nlu-faq-utah-adult/Can-DACA-students-get-a-letter-showing-I’m-enrolled-in-classes?:
+  - text: DACA students and parolees can be provided letters or reports of class enrollment and attendance for adult education programs. Proof of attendance will need to be verified within the program.
+
+  utter_nlu-faq-utah-adult/Can-Parolees-get-a-letter-showing-I’m-enrolled-in-classes?:
+  - text: DACA students and parolees can be provided letters or reports of class enrollment and attendance for adult education programs. Proof of attendance will need to be verified within the program.
+
+  utter_nlu-faq-utah-adult/Do-I-have-to-give-my-social-security-number-(SSN)?:
+  - text: Unsure if we can add this. I do not know how to word the reply back to the question
+
+  utter_nlu-faq-utah-adult/How-is-my-SSN-used?:
+  - text: Unsure if we can add this. I do not know how to word the reply back to the question
+
+  utter_nlu-faq-utah-adult/Why-do-you-want-my-SSN?:
+  - text: Unsure if we can add this. I do not know how to word the reply back to the question
+
+  utter_nlu-faq-utah-adult/What’s-the-difference-between-a-GED-and-a-high-school-diploma?:
+  - text: Unsure if we can add this. I do not know how to word the reply back to the question
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

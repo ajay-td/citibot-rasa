@@ -1,0 +1,3146 @@
+[
+  {
+    "text": "How do I file a claim with the VA?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-paperwork-do-I-need-to-file-a-claim-with-the-VA",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-do-I-go-to-file-a-claim-with-the-VA",
+      "confidence": 0.3366333842277527
+    }
+  },
+  {
+    "text": "Where is camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-is-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+      "confidence": 0.12618829309940338
+    }
+  },
+  {
+    "text": "Which is Camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-is-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer",
+      "confidence": 0.12517859041690826
+    }
+  },
+  {
+    "text": "What is Camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-is-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer",
+      "confidence": 0.1480417549610138
+    }
+  },
+  {
+    "text": "How can I stop my home from flooding?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-can-I-do-to-my-home-to-prevent-flooding",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-protect-my-home-from-flooding",
+      "confidence": 0.3228084444999695
+    }
+  },
+  {
+    "text": "What are the most common landscaping questions asked?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-get-landscaping-questions-such-as-plant-pests-and-diseases-identification-and-advice-for-solutions-to-these-issues",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-find-more-information-on-flood-insurance",
+      "confidence": 0.04868307709693909
+    }
+  },
+  {
+    "text": "What is Camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer",
+      "confidence": 0.1480417549610138
+    }
+  },
+  {
+    "text": "What is Camp Chowenwaw? What are the facilities there?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+      "confidence": 0.20275172591209412
+    }
+  },
+  {
+    "text": "How can I get a road map to Camp Chowenwaw Park?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-get-a-map-of-Camp-Chowenwaw-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park",
+      "confidence": 0.12537921965122223
+    }
+  },
+  {
+    "text": "Fairfield by Marriott",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Fairfield-by-Marriott",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-events-can-I-host-at-the-fairgrounds",
+      "confidence": 0.04077542945742607
+    }
+  },
+  {
+    "text": "Camping Treehouse Camping & Cabins-The Treehouse Camping & Cabins-The Treehouse Camping & Cabins Camping Treehouse Camping & Cabins Camping for two weeks 10 days/week and 1 day.",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Treehouse-Camping",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-events-can-I-host-at-the-fairgrounds",
+      "confidence": 0.018524957820773125
+    }
+  },
+  {
+    "text": "Treehouse Camping Treehouse Camping Campground Camping.",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Treehouse-Camping",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-place-holds-at-the-library-online",
+      "confidence": 0.011666099540889263
+    }
+  },
+  {
+    "text": "How can I get my VA claim revoked?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-find-out-the-status-of-my-VA-claim",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/where-can-I-watch-county-meetings",
+      "confidence": 0.09940982609987259
+    }
+  },
+  {
+    "text": "Where do I go to file a claim with the VA?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-do-I-go-to-file-a-claim-with-the-VA",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-paperwork-do-I-need-to-file-a-claim-with-the-VA",
+      "confidence": 0.3298826515674591
+    }
+  },
+  {
+    "text": "Where do I get a VA claim?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-do-I-go-to-file-a-claim-with-the-VA",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-do-I-get-a-VA-ID-card",
+      "confidence": 0.1675511747598648
+    }
+  },
+  {
+    "text": "Can pets stay at Camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Are-pets-allowed-at-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-get-a-map-of-Camp-Chowenwaw-Park",
+      "confidence": 0.09166990220546722
+    }
+  },
+  {
+    "text": "How do I park a 4x4 in Camp Chowenwaw park?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/does-camp-chowenwaw-park-have-rv-parking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park",
+      "confidence": 0.10548020899295807
+    }
+  },
+  {
+    "text": "How do we set up our meeting rooms in the Chowenwaw campsite?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/When-are-dayuse-meeting-rooms-available-at-camp-chowenwaw-park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-get-a-map-of-Camp-Chowenwaw-Park",
+      "confidence": 0.08119776844978333
+    }
+  },
+  {
+    "text": "What is Camp Chowenwaw/Camp CW?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+      "confidence": 0.15838146209716797
+    }
+  },
+  {
+    "text": "what is camp chow",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/what-is-camp-chow",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer",
+      "confidence": 0.05483166128396988
+    }
+  },
+  {
+    "text": "What is camp chow?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/what-is-camp-chow",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer",
+      "confidence": 0.05483166128396988
+    }
+  },
+  {
+    "text": "What is required for a building permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-projects-require-a-building-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+      "confidence": 0.03945351392030716
+    }
+  },
+  {
+    "text": "Where can I get a marriage certificate",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-marriage-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.26747021079063416
+    }
+  },
+  {
+    "text": "Where can I get marriage certificate for our daughter?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-marriage-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.27111709117889404
+    }
+  },
+  {
+    "text": "Where can I get marriage certificate?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-marriage-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.26060524582862854
+    }
+  },
+  {
+    "text": "Where can I get married certificate in my hometown of Tulsa, India?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-marriage-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.17303529381752014
+    }
+  },
+  {
+    "text": "Where can I camp",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-camp",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-flood-insurance",
+      "confidence": 0.10077331960201263
+    }
+  },
+  {
+    "text": "Where can you camp?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-camp",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-flood-insurance",
+      "confidence": 0.09105870127677917
+    }
+  },
+  {
+    "text": "Where do I camp?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-camp",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-flood-insurance",
+      "confidence": 0.08672590553760529
+    }
+  },
+  {
+    "text": "What are the park hours?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-are-the-park-hours",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-are-the-Clay-county-human-resources-office-hours",
+      "confidence": 0.15568792819976807
+    }
+  },
+  {
+    "text": "What is park hours?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-are-the-park-hours",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-are-the-Clay-county-human-resources-office-hours",
+      "confidence": 0.1383795142173767
+    }
+  },
+  {
+    "text": "How do I apply for a job?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-apply-for-a-job",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-apply-for-a-culvert",
+      "confidence": 0.059292420744895935
+    }
+  },
+  {
+    "text": "How can I apply for job?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-apply-for-a-job",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-apply-for-a-culvert",
+      "confidence": 0.06417716294527054
+    }
+  },
+  {
+    "text": "What are the advantages of County Commissioners?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-are-the-benefits-offered-by-the-Board-of-County-Commissioners",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-is-the-address-of-the-clay-county-fairgrounds",
+      "confidence": 0.061466436833143234
+    }
+  },
+  {
+    "text": "What are the advantages of a Board of County Commissioners?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-are-the-benefits-offered-by-the-Board-of-County-Commissioners",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-frequently-are-Board-of-County-Commissioners-employees-paid",
+      "confidence": 0.09930211305618286
+    }
+  },
+  {
+    "text": "How do I verify the identity of an employee?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-verify-information-about-a-current-or-past-employee",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-rent-a-field",
+      "confidence": 0.055660709738731384
+    }
+  },
+  {
+    "text": "How do I ensure my home is safe from flood and landslide?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-you-have-any-information-on-flood-safety",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-find-more-information-on-flood-insurance",
+      "confidence": 0.07697083801031113
+    }
+  },
+  {
+    "text": "What is the best way to prepare for floods?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-you-have-any-information-on-flood-safety",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Why-did-I-get-a-code-violation",
+      "confidence": 0.06072978302836418
+    }
+  },
+  {
+    "text": "How can you map to a different area?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-you-have-an-interactive-map-viewer",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-rent-a-field",
+      "confidence": 0.0574168786406517
+    }
+  },
+  {
+    "text": "How long do I have to wait for a response from a code enforcement officer?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-long-will-it-take-for-the-Code-Enforcement-officer-to-respond-to-my-complaint",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-long-will-it-take-to-resolve-the-code-enforcementviolation",
+      "confidence": 0.11966334283351898
+    }
+  },
+  {
+    "text": "How long can I wait for my complaint to be processed by Code Enforcement?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-long-will-it-take-for-the-Code-Enforcement-officer-to-respond-to-my-complaint",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-do-I-do-about-a-violation-letter-I-received-from-code-enforcement",
+      "confidence": 0.07623227685689926
+    }
+  },
+  {
+    "text": "What can I bring to camp at camp chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-can-I-bring-to-camp-at-camp-chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park",
+      "confidence": 0.145215705037117
+    }
+  },
+  {
+    "text": "How do I bring your own children to camp at camp chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-can-I-bring-to-camp-at-camp-chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park",
+      "confidence": 0.12833140790462494
+    }
+  },
+  {
+    "text": "What are some ways to camp in camp Chowenwaw Park?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+      "confidence": 0.17481522262096405
+    }
+  },
+  {
+    "text": "Is camp chowenwaw a camp in the park?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+      "confidence": 0.10539913922548294
+    }
+  },
+  {
+    "text": "What is the best camping spot at Camp Changiwakaw Park in Camp Changiwakawa?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-much-is-it-to-rent-a-cabin-at-camp-chownewaw-park",
+      "confidence": 0.11313128471374512
+    }
+  },
+  {
+    "text": "What is camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-find-out-more-about-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer",
+      "confidence": 0.1480417549610138
+    }
+  },
+  {
+    "text": "Can mosquitoes be kept away from the affected area?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/When-does-mosquito-spraying-occur",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-all-mosquitoes-bite",
+      "confidence": 0.13962112367153168
+    }
+  },
+  {
+    "text": "What is land use? What do you think is the definition?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-the-Land-Use",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-to-make-a-Land-Use-change",
+      "confidence": 0.1654147356748581
+    }
+  },
+  {
+    "text": "how do i pull a permit on my home",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/can-an-owner-pull-permits-on-their-rental-property",
+      "confidence": 0.5704036951065063
+    }
+  },
+  {
+    "text": "How do I pull a permit for my home?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/can-an-owner-pull-permits-on-their-rental-property",
+      "confidence": 0.526513934135437
+    }
+  },
+  {
+    "text": "Will I need a building permit to put up a garage?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Will-I-need-a-building-permit-for-my-garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-permits-do-I-need-to-build-a-garage",
+      "confidence": 0.19989970326423645
+    }
+  },
+  {
+    "text": "Do I need a permit to open my garage?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Will-I-need-a-building-permit-for-my-garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-permits-do-I-need-to-build-a-garage",
+      "confidence": 0.2570697069168091
+    }
+  },
+  {
+    "text": "Will you need to get a building permit for a garage?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Will-I-need-a-building-permit-for-my-garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-permits-do-I-need-to-build-a-garage",
+      "confidence": 0.23481513559818268
+    }
+  },
+  {
+    "text": "Do veterans find the need for assistance with their rent and utilities?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-you-help-Veterans-with-rent-or-utility-bills",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-Hotels-are-in-Orange-Park",
+      "confidence": 0.05047536641359329
+    }
+  },
+  {
+    "text": "How do I get to VA Medical Center?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-you-provide-transportation-to-the-VA-Medical-Center-in-Gainesville-or-Lake-City",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/where-can-I-watch-county-meetings",
+      "confidence": 0.06541787087917328
+    }
+  },
+  {
+    "text": "Where are the bids for bids listed?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-are-awarded-bids-listed",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/where-can-i-find-bccs-recent-bids",
+      "confidence": 0.500950276851654
+    }
+  },
+  {
+    "text": "Does Clay County require cats to be allowed to walk on leash?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Is-there-a-leash-law-for-cats-in-Clay-County",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-many-types-of-mosquitoes-are-there",
+      "confidence": 0.04907567799091339
+    }
+  },
+  {
+    "text": "Can you offer a horse to meet your criteria?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-you-have-horses-available-for-adoption",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-are-all-the-mosquitoes-coming-from",
+      "confidence": 0.02353515475988388
+    }
+  },
+  {
+    "text": "Is there a problem with water in the sewer system?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/I-am-having-a-sewage-problem",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-Hotels-are-in-Clay-County",
+      "confidence": 0.03135170042514801
+    }
+  },
+  {
+    "text": "Where can I get flood insurance?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-flood-insurance",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-find-more-information-on-flood-insurance",
+      "confidence": 0.2416583150625229
+    }
+  },
+  {
+    "text": "How do I get flood insurance?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-flood-insurance",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-find-more-information-on-flood-insurance",
+      "confidence": 0.25034216046333313
+    }
+  },
+  {
+    "text": "What are some things to bring to camp in chowenwaw park?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/what-to-bring-to-camp-chowenwaw-park-for-camping",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park",
+      "confidence": 0.11415747553110123
+    }
+  },
+  {
+    "text": "What do you pack camping chowenwaw park for camping?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/what-to-bring-to-camp-chowenwaw-park-for-camping",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-are-the-park-rules-for-Camp-Chowenwaw-Park",
+      "confidence": 0.1021026074886322
+    }
+  },
+  {
+    "text": "Fairground Event Booking. Book today – Fairground Event Booking.",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/fairground-event-booking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-events-can-I-host-at-the-fairgrounds",
+      "confidence": 0.031016726046800613
+    }
+  },
+  {
+    "text": "I'm in Alaska so I'll be able to download a FEMA map for my area. Where can I get it?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-copy-or-view-the-FEMA-map-for-my-area",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-find-out-what-the-current-water-levels-are-in-my-area",
+      "confidence": 0.06478194147348404
+    }
+  },
+  {
+    "text": "I have a lot of zoning fees, how can I pay through Paypal?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-make-zoning-payment-fees-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Who-do-I-call-for-permitting-and-zoning-questions",
+      "confidence": 0.056389860808849335
+    }
+  },
+  {
+    "text": "How do I schedule online inspections?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online",
+      "confidence": 0.35861971974372864
+    }
+  },
+  {
+    "text": "How can I schedule an inspection online?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection",
+      "confidence": 0.34480440616607666
+    }
+  },
+  {
+    "text": "How do I schedule inspection online?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection",
+      "confidence": 0.3658619225025177
+    }
+  },
+  {
+    "text": "What are the permits for building a garage?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-permits-do-I-need-to-build-a-garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-much-is-a-building-permit-fee",
+      "confidence": 0.16890273988246918
+    }
+  },
+  {
+    "text": "How do I get a pool permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.14272139966487885
+    }
+  },
+  {
+    "text": "How do you get a pool permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+      "confidence": 0.1610988825559616
+    }
+  },
+  {
+    "text": "What are the different ways to apply for pool permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.08864067494869232
+    }
+  },
+  {
+    "text": "How do I obtain a residential addition permit for a residential dwelling?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-residential-addition-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/residential-addition-permit-information",
+      "confidence": 0.2948707938194275
+    }
+  },
+  {
+    "text": "How do I obtain sign permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit",
+      "confidence": 0.13931824266910553
+    }
+  },
+  {
+    "text": "How do I obtain a permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.14960633218288422
+    }
+  },
+  {
+    "text": "How do I obtain my first sign permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit",
+      "confidence": 0.13270269334316254
+    }
+  },
+  {
+    "text": "How much does a building permit fee?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-much-is-a-building-permit-fee",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-much-does-my-building-permit-cost",
+      "confidence": 0.2649317681789398
+    }
+  },
+  {
+    "text": "Where can I get valuation info?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-find-information-on-the-value-of-my-property",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/where-can-I-get-my-property-value",
+      "confidence": 0.06360835582017899
+    }
+  },
+  {
+    "text": "Where can I get all the facts on the value of my property?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-find-information-on-the-value-of-my-property",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/where-can-I-get-my-property-value",
+      "confidence": 0.24896568059921265
+    }
+  },
+  {
+    "text": "Are there any RV camping in Clay County?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Are-there-any-RV-campgrounds-in-Clay-County",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/When-does-Clay-County-Animal-Shelter-Open",
+      "confidence": 0.048603594303131104
+    }
+  },
+  {
+    "text": "What is a good college for preparing for the GED?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Where-can-I-take-the-GED-test?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-I-get-into-college-with-a-GED?",
+      "confidence": 0.5157389640808105
+    }
+  },
+  {
+    "text": "What is the cost of a class?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-much-do-classes-cost?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Where-can-I-take-a-class?",
+      "confidence": 0.2504850924015045
+    }
+  },
+  {
+    "text": "Why do we need a test?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Why-do-I-have-to-take-a-test?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-much-is-the-tuition?",
+      "confidence": 0.1710178256034851
+    }
+  },
+  {
+    "text": "Is there a fixed timetable?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Is-there-a-set-schedule?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Where-can-I-take-a-class?",
+      "confidence": 0.17818742990493774
+    }
+  },
+  {
+    "text": "How soon can I get into a career?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-soon-could-I-graduate?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-verify-a-GED-for-an-employee?",
+      "confidence": 0.367773175239563
+    }
+  },
+  {
+    "text": "How soon could I finish?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-soon-could-I-graduate?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-verify-a-GED-for-an-employee?",
+      "confidence": 0.329953134059906
+    }
+  },
+  {
+    "text": "How do I take my classes from home?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Can-I-take-classes-from-home?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-long-are-the-classes?",
+      "confidence": 0.38665035367012024
+    }
+  },
+  {
+    "text": "Can I take online courses?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Can-I-take-classes-online?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-I-take-classes-from-home?",
+      "confidence": 0.3821846842765808
+    }
+  },
+  {
+    "text": "Can I take a class online?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Can-I-take-classes-online?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-I-take-classes-from-home?",
+      "confidence": 0.43819478154182434
+    }
+  },
+  {
+    "text": "Can you take online classes?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Can-I-take-classes-online?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-I-take-classes-from-home?",
+      "confidence": 0.5794511437416077
+    }
+  },
+  {
+    "text": "How long does it take to get a GED test?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-long-is-the-GED-test?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Where-can-I-take-the-GED-test?",
+      "confidence": 0.3231821656227112
+    }
+  },
+  {
+    "text": "How do I get a diploma after my GED?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Do-I-get-a-diploma-when-I-pass-the-GED?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-I-get-into-college-with-a-GED?",
+      "confidence": 0.20058752596378326
+    }
+  },
+  {
+    "text": "How can we get diploma for the GED?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Do-I-get-a-diploma-when-I-pass-the-GED?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-verify-a-GED-for-an-employee?",
+      "confidence": 0.347738653421402
+    }
+  },
+  {
+    "text": "I started my GED ten years ago, but I did not pass. I take the GED ten months ago, but still have the GED. Does it need to start from scratch?",
+    "intent_response_key_target": "nlu-faq-utah-adult/I-took-my-GED-prior-to-2014.-Do-I-have-to-start-over?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-I-take-the-GED-if-I’m-still-in-high-school?",
+      "confidence": 0.32089653611183167
+    }
+  },
+  {
+    "text": "Should I start my GED again after it passed?",
+    "intent_response_key_target": "nlu-faq-utah-adult/I-took-my-GED-prior-to-2014.-Do-I-have-to-start-over?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Where-can-I-take-the-GED-test?",
+      "confidence": 0.19979223608970642
+    }
+  },
+  {
+    "text": "Can you post my GED test results?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Do-GED-tests-expire?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Where-can-I-take-the-GED-test?",
+      "confidence": 0.16578175127506256
+    }
+  },
+  {
+    "text": "Should I bring transcript with me?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Do-I-need-to-bring-my-transcript?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-get-my-GED-transcript?",
+      "confidence": 0.2807292640209198
+    }
+  },
+  {
+    "text": "Do you need transcripts?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Do-I-need-to-bring-my-transcript?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-get-my-GED-transcript?",
+      "confidence": 0.42249777913093567
+    }
+  },
+  {
+    "text": "How do I get a transcript?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-transcript?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-get-my-GED-transcript?",
+      "confidence": 0.7273923754692078
+    }
+  },
+  {
+    "text": "How do I get the transcripts for the transcript?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-transcript?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-get-my-GED-transcript?",
+      "confidence": 0.811050295829773
+    }
+  },
+  {
+    "text": "How do I get a copy of the DACA letter showing I’m enrolled in class if I don’t show the letter?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Can-DACA-students-get-a-letter-showing-I’m-enrolled-in-classes?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-Parolees-get-a-letter-showing-I’m-enrolled-in-classes?",
+      "confidence": 0.44449281692504883
+    }
+  },
+  {
+    "text": "How do I request a Visitor Permit through the Permit-by-Plate website?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-register-for-a-Residential-Parking-Permit-account-in-order-to-obtain-Visitor-Permits-through-the-PermitbyPlate-system",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit",
+      "confidence": 0.12737135589122772
+    }
+  },
+  {
+    "text": "How many permits can a person request?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-many-permits-may-be-requested",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-obtain-a-parking-permit",
+      "confidence": 0.12937285006046295
+    }
+  },
+  {
+    "text": "How long do permit work for?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-long-is-a-permit-valid",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-many-permits-may-be-requested",
+      "confidence": 0.09415078163146973
+    }
+  },
+  {
+    "text": "How do you request visitor permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-request-visitor-permits-if-I-already-have-an-active-Residential-Parking-Permit-account",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit",
+      "confidence": 0.23804433643817902
+    }
+  },
+  {
+    "text": "what other alternate options i have if I don't want the Permit-by-Plate option?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-are-my-options-if-I-would-rather-not-use-PermitbyPlate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/I-have-a-permit-and-cant-find-a-parking-space",
+      "confidence": 0.11293239891529083
+    }
+  },
+  {
+    "text": "How do I pay online for a parking ticket?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.20211729407310486
+    }
+  },
+  {
+    "text": "How do I pay for a ticket on line?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.23415592312812805
+    }
+  },
+  {
+    "text": "May I share my permit with another motorist? What about between vehicles?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-share-my-permit-with-another-motorist-What-about-between-vehicles",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-I-get-more-than-one-permit-if-I-have-more-than-one-vehicle",
+      "confidence": 0.04919612780213356
+    }
+  },
+  {
+    "text": "What are the different types of permissions used by drivers? May I share my permit with another motorist?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-share-my-permit-with-another-motorist-What-about-between-vehicles",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-I-purchase-parking-permits-if-I-have-parking-tickets",
+      "confidence": 0.06716324388980865
+    }
+  },
+  {
+    "text": "Can I share my permit with another motorist? What about between vehicles?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-share-my-permit-with-another-motorist-What-about-between-vehicles",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-I-get-more-than-one-permit-if-I-have-more-than-one-vehicle",
+      "confidence": 0.08048081398010254
+    }
+  },
+  {
+    "text": "How do I contest a ticket on Ms.Davies?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-contest-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.12267095595598221
+    }
+  },
+  {
+    "text": "How can I contest a ticket?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-contest-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.1356024593114853
+    }
+  },
+  {
+    "text": "How do I contest tickets?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-contest-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.1451462060213089
+    }
+  },
+  {
+    "text": "How do I fight a ticket?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.2399410605430603
+    }
+  },
+  {
+    "text": "How do I fight ticket to fight?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.26644885540008545
+    }
+  },
+  {
+    "text": "What is the fastest way to fight a ticket?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.23821130394935608
+    }
+  },
+  {
+    "text": "Can I still get visitor permits?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit",
+      "confidence": 0.25997528433799744
+    }
+  },
+  {
+    "text": "What if you have visitor permit in place of visitor permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately",
+      "confidence": 0.34605520963668823
+    }
+  },
+  {
+    "text": "What is the only option when you need visitor permits?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately",
+      "confidence": 0.24375244975090027
+    }
+  },
+  {
+    "text": "What is the best way to obtain visitor permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit",
+      "confidence": 0.19431261718273163
+    }
+  },
+  {
+    "text": "What are the fees to request Visitor permits?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-is-the-cost-to-request-Visitor-permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+      "confidence": 0.1329823136329651
+    }
+  },
+  {
+    "text": "Can you tell if you have a parking permit if you don't have a physical permit displayed?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-will-Parking-Enforcement-know-I-have-a-permit-if-I-dont-have-a-physical-permit-displayed",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/I-have-a-permit-and-cant-find-a-parking-space",
+      "confidence": 0.20873244106769562
+    }
+  },
+  {
+    "text": "How can you determine if someone is driving a car if they don't have a physical permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-will-Parking-Enforcement-know-I-have-a-permit-if-I-dont-have-a-physical-permit-displayed",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/I-have-a-permit-and-cant-find-a-parking-space",
+      "confidence": 0.1203266903758049
+    }
+  },
+  {
+    "text": "What zones are permit parking areas?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Who-decides-what-areas-become-permit-parking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Does-everyone-need-a-parking-permit",
+      "confidence": 0.08574582636356354
+    }
+  },
+  {
+    "text": "Is everyone required to be permitted to park in a car?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Does-everyone-need-a-parking-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.10383499413728714
+    }
+  },
+  {
+    "text": "Is it possible to use my permit all over the city without a permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Can-I-use-my-permit-throughout-the-city",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/I-have-a-permit-and-cant-find-a-parking-space",
+      "confidence": 0.20199067890644073
+    }
+  },
+  {
+    "text": "Can I use my permit at home or in any other city?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Can-I-use-my-permit-throughout-the-city",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Does-everyone-need-a-parking-permit",
+      "confidence": 0.047934725880622864
+    }
+  },
+  {
+    "text": "Can you use your permit through the City?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Can-I-use-my-permit-throughout-the-city",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.06545810401439667
+    }
+  },
+  {
+    "text": "I need to have a permit to travel throughout the city. Can I use it to make it work?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Can-I-use-my-permit-throughout-the-city",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/I-have-a-permit-and-cant-find-a-parking-space",
+      "confidence": 0.13760094344615936
+    }
+  },
+  {
+    "text": "How can I get a valid disabled permit if I have a DMV approved placard?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Do-I-need-a-permit-if-I-have-a-disabled-persons-placard-issued-by-the-DMV",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-I-purchase-parking-permits-if-I-have-parking-tickets",
+      "confidence": 0.13981369137763977
+    }
+  },
+  {
+    "text": "What is permit fee used for?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-are-permit-fees-used-for",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.22001522779464722
+    }
+  },
+  {
+    "text": "What do permits fees serve?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-are-permit-fees-used-for",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.19287215173244476
+    }
+  },
+  {
+    "text": "What is a permit fee used for? What are the costs?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-are-permit-fees-used-for",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+      "confidence": 0.04192814230918884
+    }
+  },
+  {
+    "text": "How can I get a resident decal permit on a vehicle?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Where-does-the-Resident-Decal-Permit-get-placed",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-much-does-a-parking-permit-cost",
+      "confidence": 0.10983173549175262
+    }
+  },
+  {
+    "text": "What are parking rules and how do you enforce them?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Who-decides-what-the-parking-regulations-will-be",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-should-my-guests-know-when-visiting-during-hours-in-which-permit-parking-regulations-are-enforced",
+      "confidence": 0.05143871158361435
+    }
+  },
+  {
+    "text": "What is the parking authority?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Who-decides-what-the-parking-regulations-will-be",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.07252737134695053
+    }
+  },
+  {
+    "text": "How do I rent an e-bike?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Where-can-I-create-an-account-to-rent-an-escooter-or-ebike",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+      "confidence": 0.2840416133403778
+    }
+  },
+  {
+    "text": "How do I buy an e-bike?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Where-can-I-create-an-account-to-rent-an-escooter-or-ebike",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+      "confidence": 0.3306434750556946
+    }
+  },
+  {
+    "text": "Does it impose the need for helmets on employees?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Will-I-be-required-to-wear-a-helmet",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.04638151824474335
+    }
+  },
+  {
+    "text": "Where can the scooter or bike be ridden?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Where-can-the-scooters-and-bikes-be-ridden",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+      "confidence": 0.38658347725868225
+    }
+  },
+  {
+    "text": "Where can you ride scooters and bikes?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Where-can-the-scooters-and-bikes-be-ridden",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+      "confidence": 0.3678310215473175
+    }
+  },
+  {
+    "text": "May I ride an e-scooter or e-bikes in a bike lane?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-ride-an-escooter-or-ebikes-in-a-bike-lane",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+      "confidence": 0.7642413973808289
+    }
+  },
+  {
+    "text": "Can I use an e-bike or e-scooter in a bike lane?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-ride-an-escooter-or-ebikes-in-a-bike-lane",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+      "confidence": 0.6214252710342407
+    }
+  },
+  {
+    "text": "May I ride e-bikes in a bike lane?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-ride-an-escooter-or-ebikes-in-a-bike-lane",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+      "confidence": 0.4697640836238861
+    }
+  },
+  {
+    "text": "Contest impound",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Contest-impound",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.159052774310112
+    }
+  },
+  {
+    "text": "Street sweeping schedule",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Street-sweeping-schedule",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.08607642352581024
+    }
+  },
+  {
+    "text": "Street Sweeping Schedule of the Street G.I.S. Schedule on the Street G.I. Schedule on the Street G.I. Schedule on the Street G.I. Schedule of the Street G.I. Schedule on the Street G.I. Schedule on the Street G.W.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Street-sweeping-schedule",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-want-to-ride-on-the-sidewalk",
+      "confidence": 0.12853017449378967
+    }
+  },
+  {
+    "text": "Street sweeping schedule. Street sweeping schedule schedule.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Street-sweeping-schedule",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-credits",
+      "confidence": 0.0352652408182621
+    }
+  },
+  {
+    "text": "Parking credits",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-credits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.10592621564865112
+    }
+  },
+  {
+    "text": "Parking credits for parking in parking lots are not valid.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-credits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.1706794947385788
+    }
+  },
+  {
+    "text": "Parking credits are credited for parking in the parking lot. For parking in the parking lot there is a parking credit.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-credits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.1988924890756607
+    }
+  },
+  {
+    "text": "Parking credit: Parking credit is issued with parking car charge.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-credits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.19367651641368866
+    }
+  },
+  {
+    "text": "Parking location at corner park parking garages.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-locations",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-credits",
+      "confidence": 0.09175209701061249
+    }
+  },
+  {
+    "text": "Permit-by-Plate permits per permit-by-Plate.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/PermitbyPlate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.0949510708451271
+    }
+  },
+  {
+    "text": "Permit-by-Plate: Permit-by-Plate is not required to operate as permit-by-plate.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/PermitbyPlate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-permits-are-offered-as-PermitbyPlate",
+      "confidence": 0.08211097866296768
+    }
+  },
+  {
+    "text": "Permit-by-Plate is allowed on a vehicle by permits.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/PermitbyPlate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit",
+      "confidence": 0.09174879640340805
+    }
+  },
+  {
+    "text": "City Hall Automated Garage",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.09816637635231018
+    }
+  },
+  {
+    "text": "City Hall Garage has a concrete parking structure. The garage was built in late 1960s and incorporated in the City Hall Garage in 1975.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.13191233575344086
+    }
+  },
+  {
+    "text": "City Hall Garage, City Hall Garage; Garage number 219; Garage number 435; Garage number 5; Garage number 6; Garage number 8; Garage number 9; Garage number 10; Garage number 16; Garage number 10; Garage number 20; Garage number 20; Garage number 30; Garage number 15; Garage",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Contest-impound",
+      "confidence": 0.26748940348625183
+    }
+  },
+  {
+    "text": "City Hall Garage: City Hall garage parking lots are free to use. Parking lot: City Hall Garage Parking lot: City Hall Garage parking lot: City Hall Garage Parking Lot: City Hall Garage Parking Garage: City Hall Parking Garage: City Hall Parking Garage City Hall Garage Parking Garage: City Hall Parking Garage: City Hall",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.5701587796211243
+    }
+  },
+  {
+    "text": "City Hall Garage Garage Garage, City Hall Garage Garage.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.0620047003030777
+    }
+  },
+  {
+    "text": "City Hall Garage, City Hall Garage, City Hall Garage, City Hall Parking Lot. Please park at City Hall Garage, no pets allowed, and no pets allowed.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.23378828167915344
+    }
+  },
+  {
+    "text": "Automated Garage",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.1338881254196167
+    }
+  },
+  {
+    "text": "Automated garages. How safe are they for you?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.05437881872057915
+    }
+  },
+  {
+    "text": "Automated garage automation automated garage. Automated garage automation. Automated garage automation.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.157194122672081
+    }
+  },
+  {
+    "text": "Automated Garage Door Injection Systems. Automated Garage Door Injection Systems. Automated Garage Door Injection System. Automated Garage Door Injection System. Automated Garage Door Injection System. Automated Garage Door Injection System. Automated Garage Door Injection System.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.3382394015789032
+    }
+  },
+  {
+    "text": "Automated Garage: Auto Garage: A garage automates garage. How do I use it?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.048040661960840225
+    }
+  },
+  {
+    "text": "Automated Garages. Automated Garages. Automated Garages. Automated Garages. Automated Garages. Automated Garages. Automated Garages. Automated Garages.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.22705669701099396
+    }
+  },
+  {
+    "text": "Hart Park",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hart-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.1077587753534317
+    }
+  },
+  {
+    "text": "Hart Park will be Hart Park's Hart Park if Hart Park's attractions appeal.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hart-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-should-my-guests-park",
+      "confidence": 0.052723418921232224
+    }
+  },
+  {
+    "text": "Hart Park, Florida – Hart Park is a popular Hart Park neighborhood with plenty of good parking places to stay.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hart-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit",
+      "confidence": 0.053441669791936874
+    }
+  },
+  {
+    "text": "Hart Park (Horse Park) -- Hart Park is a residential community.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hart-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.04909871891140938
+    }
+  },
+  {
+    "text": "Parking Lot Orange Grove Parking Lot Parking Lot, Orange Grove, IN.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.0656508132815361
+    }
+  },
+  {
+    "text": "Orange Grove Parking Lot Is Located on State Drive, Orange Grove.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-credits",
+      "confidence": 0.07630696892738342
+    }
+  },
+  {
+    "text": "Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot: Sunset Parking Lot Parking: Sunset Parking Lot:",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Sunset-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot",
+      "confidence": 0.4891008138656616
+    }
+  },
+  {
+    "text": "Sunset parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot Sunset Parking Lot",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Sunset-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot",
+      "confidence": 0.6315158605575562
+    }
+  },
+  {
+    "text": "Sunset Parking Lot Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot Parking Lot Parking Lot Sunset Parking Lot Parking Lot Parking Lot",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Sunset-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot",
+      "confidence": 0.670012354850769
+    }
+  },
+  {
+    "text": "Sunset Parking Lot has a parking lot in Sunset Park lot. Parking lot is at Sunset parking Lot.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Sunset-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Queens-Parking-Lot",
+      "confidence": 0.1241733506321907
+    }
+  },
+  {
+    "text": "WeHo Park Garage can park up for a rental on the drive to WeHo Park.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/WeHo-Park-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-will-I-be-able-to-pickup-or-park-an-escooter-or-ebike",
+      "confidence": 0.10514102876186371
+    }
+  },
+  {
+    "text": "Our parking lot is inside The WeHo Park garage. It’s the easiest parking location.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/WeHo-Park-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.1266859918832779
+    }
+  },
+  {
+    "text": "Hancock Parking Garage",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Sweetzer-Garage",
+      "confidence": 0.07335413992404938
+    }
+  },
+  {
+    "text": "Hancock garage (Hancock) garage. Hancock garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock garage.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+      "confidence": 0.5026036500930786
+    }
+  },
+  {
+    "text": "Hancock-Hancock Garage has a large Hancock garage with a lot of bay window and a front porch to keep it dry. Garage is located at 7150 Hancock Street.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+      "confidence": 0.04540727287530899
+    }
+  },
+  {
+    "text": "Hancock Garage Garage has been in the business since 1968.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-credits",
+      "confidence": 0.05191300809383392
+    }
+  },
+  {
+    "text": "Hancock Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Hancock Garage. Han",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+      "confidence": 0.5277837514877319
+    }
+  },
+  {
+    "text": "Hancock Garage (Cambridge, Pennsylvania) Hancock Garage, Hancock, PA, USA Hancock Garage, Hancock, PA, United States Hancock Garage, Hancock Garage, Hancock, PA, USA Hancock garage, Hancock garage, Hancock Garage, Pennsylvania Hancock Garage, PA",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+      "confidence": 0.3279717266559601
+    }
+  },
+  {
+    "text": "Hancock Garage. Hancock Garage. Hancock Garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock Garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage. Hancock garage",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+      "confidence": 0.5290987491607666
+    }
+  },
+  {
+    "text": "What are some papers to file an appeal against the VA?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-paperwork-do-I-need-to-file-a-claim-with-the-VA",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-do-I-do-about-a-lien-on-my-property",
+      "confidence": 0.04982404783368111
+    }
+  },
+  {
+    "text": "Will you be obligated to pay in full for an event at the clay county fairgrounds?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-I-have-to-pay-in-full-before-my-event-at-the-clay-county-fairground",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Who-is-responsible-for-cleaning-after-an-event-at-the-clay-county-fairground",
+      "confidence": 0.11063814163208008
+    }
+  },
+  {
+    "text": "How is Camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-is-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-find-out-more-about-Camp-Chowenwaw",
+      "confidence": 0.13631781935691833
+    }
+  },
+  {
+    "text": "What can we do about flooding in our home?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-can-I-do-to-my-home-to-prevent-flooding",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-find-information-on-the-value-of-my-property",
+      "confidence": 0.08468122780323029
+    }
+  },
+  {
+    "text": "What should I do to protect my home from flooding?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-can-I-do-to-my-home-to-prevent-flooding",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-protect-my-home-from-flooding",
+      "confidence": 0.39982372522354126
+    }
+  },
+  {
+    "text": "How can I protect my home from flooding?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-can-I-do-to-my-home-to-prevent-flooding",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-protect-my-home-from-flooding",
+      "confidence": 0.6026517152786255
+    }
+  },
+  {
+    "text": "How do I do to protect my home against flooding?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-can-I-do-to-my-home-to-prevent-flooding",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-protect-my-home-from-flooding",
+      "confidence": 0.23909543454647064
+    }
+  },
+  {
+    "text": "Clay county animal services costs",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Clay-county-animal-services-costs",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/When-does-Clay-County-Animal-Shelter-Open",
+      "confidence": 0.04327831417322159
+    }
+  },
+  {
+    "text": "What should I do with my new puppy?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-can-I-do-with-this-dog-that-I-found",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-facilities-can-I-rent",
+      "confidence": 0.06772759556770325
+    }
+  },
+  {
+    "text": "What are camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-find-out-more-about-Camp-Chowenwaw",
+      "confidence": 0.11750800907611847
+    }
+  },
+  {
+    "text": "What is camp chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-is-Camp-Chowenwaw",
+      "confidence": 0.12960487604141235
+    }
+  },
+  {
+    "text": "Places with pools",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Places-with-pools",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/how-do-i-become-a-master-gardener",
+      "confidence": 0.07941839843988419
+    }
+  },
+  {
+    "text": "Fairfield Marriott by Marriott is a Marriott property. The Fairfield Marriott offers excellent services.",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Fairfield-by-Marriott",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/When-does-Clay-County-Animal-Shelter-Open",
+      "confidence": 0.013152709230780602
+    }
+  },
+  {
+    "text": "Fairfield by Marriott is located near the airport. For the rest of the day, it's an easy drive.",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Fairfield-by-Marriott",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/When-does-Clay-County-Animal-Shelter-Open",
+      "confidence": 0.020479731261730194
+    }
+  },
+  {
+    "text": "Treehouse Camping",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Treehouse-Camping",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-is-the-Courtyard-by-Marriott",
+      "confidence": 0.0649770200252533
+    }
+  },
+  {
+    "text": "Treehouse Campsite. Camping in the Treehouse (near a campsite) Treehouse Camping Site (near a campsite)",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Treehouse-Camping",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/When-will-my-road-be-resurfaced",
+      "confidence": 0.0431453101336956
+    }
+  },
+  {
+    "text": "Which hotel are available for vacation in Fleming Island?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-hotels-are-in-Fleming-Island",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-Hotels-are-in-Clay-County",
+      "confidence": 0.07835927605628967
+    }
+  },
+  {
+    "text": "How can you pull a permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/can-an-owner-pull-permits-on-their-rental-property",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+      "confidence": 0.13287943601608276
+    }
+  },
+  {
+    "text": "How do you find out if you have any VA claim?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-find-out-the-status-of-my-VA-claim",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-do-I-go-to-file-a-claim-with-the-VA",
+      "confidence": 0.25252529978752136
+    }
+  },
+  {
+    "text": "How can you determine if your VA claim is a valid VA claim?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-find-out-the-status-of-my-VA-claim",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-do-I-go-to-file-a-claim-with-the-VA",
+      "confidence": 0.4942125082015991
+    }
+  },
+  {
+    "text": "How can I file a claim with the VA?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-do-I-go-to-file-a-claim-with-the-VA",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-paperwork-do-I-need-to-file-a-claim-with-the-VA",
+      "confidence": 0.4040115773677826
+    }
+  },
+  {
+    "text": "Where do I file a claim with the VA?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-do-I-go-to-file-a-claim-with-the-VA",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-paperwork-do-I-need-to-file-a-claim-with-the-VA",
+      "confidence": 0.4322414696216583
+    }
+  },
+  {
+    "text": "Can animals be a part of camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Are-pets-allowed-at-Camp-Chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-can-I-bring-to-camp-at-camp-chowenwaw",
+      "confidence": 0.10055280476808548
+    }
+  },
+  {
+    "text": "What is Camp Chowenwaw (Spanish Camp)?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-can-I-bring-to-camp-at-camp-chowenwaw",
+      "confidence": 0.13228584825992584
+    }
+  },
+  {
+    "text": "What is Camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-is-Camp-Chowenwaw",
+      "confidence": 0.12960487604141235
+    }
+  },
+  {
+    "text": "What are camp chow and what are some basic things about them?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/what-is-camp-chow",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-hotels-are-in-Fleming-Island",
+      "confidence": 0.05194075405597687
+    }
+  },
+  {
+    "text": "What is camp chow and what is camp chow?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/what-is-camp-chow",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-is-Camp-Chowenwaw",
+      "confidence": 0.15065445005893707
+    }
+  },
+  {
+    "text": "How do I find my property values?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/where-can-I-get-my-property-value",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-find-information-on-the-value-of-my-property",
+      "confidence": 0.14397116005420685
+    }
+  },
+  {
+    "text": "How can you calculate property value of your property?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/where-can-I-get-my-property-value",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-find-information-on-the-value-of-my-property",
+      "confidence": 0.18773989379405975
+    }
+  },
+  {
+    "text": "Where can I get a death certificate",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-death-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.2693690359592438
+    }
+  },
+  {
+    "text": "Where do I get death certificate?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-death-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.25939130783081055
+    }
+  },
+  {
+    "text": "How can I get death certificate in a state?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-death-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.25263023376464844
+    }
+  },
+  {
+    "text": "Where can I get my death certificate?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-death-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.27730557322502136
+    }
+  },
+  {
+    "text": "Where can I get a marriage certificate?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-marriage-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.29905062913894653
+    }
+  },
+  {
+    "text": "Where can I get a marriage certificate, if I have a valid marriage certificate?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-marriage-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.5047332048416138
+    }
+  },
+  {
+    "text": "Where can I get marriage certificates online?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-a-marriage-certificate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate",
+      "confidence": 0.25938260555267334
+    }
+  },
+  {
+    "text": "Where can I camp?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-camp",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-find-a-list-of-pet-friendly-parks",
+      "confidence": 0.1202857494354248
+    }
+  },
+  {
+    "text": "Where can I camp and camp?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-camp",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-find-a-list-of-pet-friendly-parks",
+      "confidence": 0.129754900932312
+    }
+  },
+  {
+    "text": "Where can I camp in camp?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-camp",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-find-a-list-of-pet-friendly-parks",
+      "confidence": 0.13675279915332794
+    }
+  },
+  {
+    "text": "Where do I camp at camp?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-camp",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-can-I-bring-to-camp-at-camp-chowenwaw",
+      "confidence": 0.13906575739383698
+    }
+  },
+  {
+    "text": "Where do mosquitoes come from?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-are-all-the-mosquitoes-coming-from",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-all-mosquitoes-bite",
+      "confidence": 0.18319642543792725
+    }
+  },
+  {
+    "text": "Where does the mosquito come from?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-are-all-the-mosquitoes-coming-from",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-all-mosquitoes-bite",
+      "confidence": 0.13175718486309052
+    }
+  },
+  {
+    "text": "What's to do at Camp Chowenwaw Park?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/what-to-bring-to-camp-chowenwaw-park-for-camping",
+      "confidence": 0.18807363510131836
+    }
+  },
+  {
+    "text": "What is there to do at Camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/what-to-bring-to-camp-chowenwaw-park-for-camping",
+      "confidence": 0.1463010609149933
+    }
+  },
+  {
+    "text": "What can I do in camp chowenwaw park?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-can-I-bring-to-camp-at-camp-chowenwaw",
+      "confidence": 0.13006927073001862
+    }
+  },
+  {
+    "text": "What are the best things to do at Camp Chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/what-to-bring-to-camp-chowenwaw-park-for-camping",
+      "confidence": 0.23759444057941437
+    }
+  },
+  {
+    "text": "What is there to do in camp Chowenwaw park?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/what-to-bring-to-camp-chowenwaw-park-for-camping",
+      "confidence": 0.17784041166305542
+    }
+  },
+  {
+    "text": "How do you clean the clay county fairgrounds?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Who-is-responsible-for-cleaning-after-an-event-at-the-clay-county-fairground",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-is-the-Courtyard-by-Marriott",
+      "confidence": 0.053110428154468536
+    }
+  },
+  {
+    "text": "How do I verify a job history?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-verify-information-about-a-current-or-past-employee",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-find-out-the-status-of-my-VA-claim",
+      "confidence": 0.15309792757034302
+    }
+  },
+  {
+    "text": "How do I get involved in 4-H?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-join-4H",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-find-out-what-issues-are-on-the-BCC-Agenda",
+      "confidence": 0.10063106566667557
+    }
+  },
+  {
+    "text": "Is there any map that will work for a local or national park?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-maps-are-available-for-download",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-you-help-Veterans-with-rent-or-utility-bills",
+      "confidence": 0.021294904872775078
+    }
+  },
+  {
+    "text": "What are some good things to bring to camp in camp chowenwaw?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/What-can-I-bring-to-camp-at-camp-chowenwaw",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/what-to-bring-to-camp-chowenwaw-park-for-camping",
+      "confidence": 0.5089669823646545
+    }
+  },
+  {
+    "text": "How long food can stay in the fridge without losing its natural color?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-long-is-food-good-in-a-refrigerator-without-power",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-verify-information-about-a-current-or-past-employee",
+      "confidence": 0.08607903122901917
+    }
+  },
+  {
+    "text": "How mosquito control works?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Does-mosquito-control-harm-bees",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-all-mosquitoes-bite",
+      "confidence": 0.17074503004550934
+    }
+  },
+  {
+    "text": "Can a mosquito bite a person from a mosquito bite?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Can-I-get-sick-from-a-mosquito-bite",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-all-mosquitoes-bite",
+      "confidence": 0.2837184965610504
+    }
+  },
+  {
+    "text": "What is a good mosquito education program?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-you-provide-public-education-about-mosquitoes",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-all-mosquitoes-bite",
+      "confidence": 0.09324871003627777
+    }
+  },
+  {
+    "text": "Is there a daily time or do you spray mosquitoes?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-you-have-a-set-schedule-for-spraying-mosquitoes",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/When-does-mosquito-spraying-occur",
+      "confidence": 0.13548614084720612
+    }
+  },
+  {
+    "text": "What are the risks of mosquito spraying if they are not prevented?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/When-does-mosquito-spraying-occur",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-all-mosquitoes-bite",
+      "confidence": 0.03753158450126648
+    }
+  },
+  {
+    "text": "What are the reasons why land use can change?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-to-make-a-Land-Use-change",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/why-is-this-land-being-cleared-out",
+      "confidence": 0.12770068645477295
+    }
+  },
+  {
+    "text": "How do you get a permit on a home?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.16172870993614197
+    }
+  },
+  {
+    "text": "How can I get a permit for my home?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.17500078678131104
+    }
+  },
+  {
+    "text": "How do I get a permit for my home?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.15265990793704987
+    }
+  },
+  {
+    "text": "How do I obtain a permit to stay at a home?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit",
+      "confidence": 0.23942643404006958
+    }
+  },
+  {
+    "text": "How do I change contractors?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-change-a-contractor-on-an-existing-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-you-have-an-interactive-map-viewer",
+      "confidence": 0.15545277297496796
+    }
+  },
+  {
+    "text": "What should a citizen sign for permits?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Who-needs-to-sign-the-permit-application",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit",
+      "confidence": 0.14991764724254608
+    }
+  },
+  {
+    "text": "Who do I contact to obtain permit and zoning information?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Who-do-I-call-for-permitting-and-zoning-questions",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-to-make-a-Land-Use-change",
+      "confidence": 0.04841001331806183
+    }
+  },
+  {
+    "text": "How much does my building permit cost?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-much-does-my-building-permit-cost",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-much-is-a-building-permit-fee",
+      "confidence": 0.2093549221754074
+    }
+  },
+  {
+    "text": "How much does a building permit costs?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-much-does-my-building-permit-cost",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-much-is-a-building-permit-fee",
+      "confidence": 0.18963199853897095
+    }
+  },
+  {
+    "text": "Do I need a building permit for a garage?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Will-I-need-a-building-permit-for-my-garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-permits-do-I-need-to-build-a-garage",
+      "confidence": 0.1993294060230255
+    }
+  },
+  {
+    "text": "How often do I need a building permit to build a garage?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Will-I-need-a-building-permit-for-my-garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-I-need-to-be-present-for-a-building-inspection",
+      "confidence": 0.19392730295658112
+    }
+  },
+  {
+    "text": "How long does it take to get a building permit for the garage?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Will-I-need-a-building-permit-for-my-garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home",
+      "confidence": 0.09871837496757507
+    }
+  },
+  {
+    "text": "Does a building permit require a building permit to build a garage?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Will-I-need-a-building-permit-for-my-garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-projects-require-a-building-permit",
+      "confidence": 0.2228604257106781
+    }
+  },
+  {
+    "text": "How do I dispose of a used appliance?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-do-I-dispose-of-appliances",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-do-I-dispose-of-tires",
+      "confidence": 0.1254224330186844
+    }
+  },
+  {
+    "text": "Is there a leash law for cats in Clay County?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Is-there-a-leash-law-for-cats-in-Clay-County",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Is-alcohol-sold-at-the-clay-county-fair",
+      "confidence": 0.06377053260803223
+    }
+  },
+  {
+    "text": "What is a leash ordinance in Clay County for cats?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Is-there-a-leash-law-for-cats-in-Clay-County",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Is-alcohol-sold-at-the-clay-county-fair",
+      "confidence": 0.049118053168058395
+    }
+  },
+  {
+    "text": "Do you have horses for sale if you've got one?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Do-you-have-horses-available-for-adoption",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-apply-for-a-culvert",
+      "confidence": 0.09835948795080185
+    }
+  },
+  {
+    "text": "I lost my pet and I couldnt get it back. Where can I find lost pets?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/where-can-I-find-lost-pets",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-can-I-rent-a-pavillion",
+      "confidence": 0.17245757579803467
+    }
+  },
+  {
+    "text": "What are the best websites to get flood insurance?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-flood-insurance",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-find-more-information-on-flood-insurance",
+      "confidence": 0.16433663666248322
+    }
+  },
+  {
+    "text": "How can I get flood insurance?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-get-flood-insurance",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-can-I-find-more-information-on-flood-insurance",
+      "confidence": 0.4582800269126892
+    }
+  },
+  {
+    "text": "fairground event booking",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/fairground-event-booking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-is-the-Courtyard-by-Marriott",
+      "confidence": 0.06408228725194931
+    }
+  },
+  {
+    "text": "Fairground Event Booking Fairground Event Booking Fairground Event Booking booking Fairground Event Booking Fairground Event Booking Fairground Event Bookings Fairground Event Booking Fairground Event Booking Fairground Event Booking fairground event booking Booking fairground event booking Fairground Event Booking Fairground Event Booking Fairground Event Booking",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/fairground-event-booking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Does-the-county-maintain-my-driveway",
+      "confidence": 0.010654734447598457
+    }
+  },
+  {
+    "text": "Fairground Event Booking Fairground event Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground event Booking Booking Fairground event Booking",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/fairground-event-booking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Does-the-county-maintain-my-driveway",
+      "confidence": 0.010711361654102802
+    }
+  },
+  {
+    "text": "Fairgrounds Event Bookings - Fairgrounds Event Booking Service. Fairground event booking service (fairground events booking).",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/fairground-event-booking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Does-the-county-maintain-my-driveway",
+      "confidence": 0.011445630341768265
+    }
+  },
+  {
+    "text": "Fairground Event Booking Booking Fairground Event Booking Fairground Events Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Fairground Event Booking Booking Fairground Event Booking Booking Fairground Event Booking Fairground Event Booking Ticket Booking Fairground",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/fairground-event-booking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Does-the-county-maintain-my-driveway",
+      "confidence": 0.01073129940778017
+    }
+  },
+  {
+    "text": "What should I do to prevent my home from being flooded?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-protect-my-home-from-flooding",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-can-I-do-to-my-home-to-prevent-flooding",
+      "confidence": 0.17795191705226898
+    }
+  },
+  {
+    "text": "Is there any kind of flood insurance available in the United States?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-can-I-find-more-information-on-flood-insurance",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Fairfield-by-Marriott",
+      "confidence": 0.030071154236793518
+    }
+  },
+  {
+    "text": "How can I get permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-search-for-permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.13836027681827545
+    }
+  },
+  {
+    "text": "How can I schedule a free online inspection?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online",
+      "confidence": 0.2794473469257355
+    }
+  },
+  {
+    "text": "How can I schedule an online inspection online?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online",
+      "confidence": 0.3701085150241852
+    }
+  },
+  {
+    "text": "How do I schedule an inspection online?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection",
+      "confidence": 0.3423791527748108
+    }
+  },
+  {
+    "text": "How can I schedule inspections online?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection",
+      "confidence": 0.3662016689777374
+    }
+  },
+  {
+    "text": "What is the best way to schedule an inspection online?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection",
+      "confidence": 0.30177053809165955
+    }
+  },
+  {
+    "text": "How do I obtain a pool permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit",
+      "confidence": 0.23187701404094696
+    }
+  },
+  {
+    "text": "How can I apply for a pool permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-search-for-permits",
+      "confidence": 0.13007253408432007
+    }
+  },
+  {
+    "text": "How do I obtain pool permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit",
+      "confidence": 0.22431766986846924
+    }
+  },
+  {
+    "text": "What is the procedure to obtain a pool permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit",
+      "confidence": 0.23626117408275604
+    }
+  },
+  {
+    "text": "How do I obtain a residential addition permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-residential-addition-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.13294553756713867
+    }
+  },
+  {
+    "text": "How do I get a residence addition permit?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-residential-addition-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.13819226622581482
+    }
+  },
+  {
+    "text": "How do I obtain residential addition permits?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/How-do-I-obtain-a-residential-addition-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit",
+      "confidence": 0.11776876449584961
+    }
+  },
+  {
+    "text": "Residential addition permit information. For more information please contact City of Anchorage Appeals Office (formerly Associated Office of Planning).",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/residential-addition-permit-information",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/What-maps-are-available-for-download",
+      "confidence": 0.014801476150751114
+    }
+  },
+  {
+    "text": "How can I learn about county election?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-find-information-about-county-elections",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Do-you-have-an-interactive-map-viewer",
+      "confidence": 0.08786298334598541
+    }
+  },
+  {
+    "text": "Where can I find information about county election?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-find-information-about-county-elections",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/where-can-I-watch-county-meetings",
+      "confidence": 0.1853872537612915
+    }
+  },
+  {
+    "text": "Where can I get election information?",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Where-can-I-find-information-about-county-elections",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/where-can-I-watch-county-meetings",
+      "confidence": 0.15199239552021027
+    }
+  },
+  {
+    "text": "Whitey’s Fish Camp",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Whiteys-Fish-Camp",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Where-is-the-Courtyard-by-Marriott",
+      "confidence": 0.13205552101135254
+    }
+  },
+  {
+    "text": "Whitey’s Fish Camp is a wilderness fishing lake in Vermont.",
+    "intent_response_key_target": "nlu-faq-clay-country-b1/Whiteys-Fish-Camp",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-clay-country-b1/Is-alcohol-sold-at-the-clay-county-fair",
+      "confidence": 0.026561319828033447
+    }
+  },
+  {
+    "text": "How should I take classes?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Where-can-I-take-a-class?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-I-take-classes-from-home?",
+      "confidence": 0.21004101634025574
+    }
+  },
+  {
+    "text": "How do I study?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Where-can-I-take-a-class?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Why-do-I-have-to-take-a-test?",
+      "confidence": 0.14325657486915588
+    }
+  },
+  {
+    "text": "What are the different tests?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Why-do-I-have-to-take-a-test?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-verify-a-GED-for-an-employee?",
+      "confidence": 0.15635383129119873
+    }
+  },
+  {
+    "text": "How many class are there?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-long-are-the-classes?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-much-do-classes-cost?",
+      "confidence": 0.1757752001285553
+    }
+  },
+  {
+    "text": "Can I take classes online?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Can-I-take-classes-from-home?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-I-take-classes-online?",
+      "confidence": 0.9096709489822388
+    }
+  },
+  {
+    "text": "How can I take classes online?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Can-I-take-classes-from-home?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Can-I-take-classes-online?",
+      "confidence": 0.9082680940628052
+    }
+  },
+  {
+    "text": "How do I get transcripts for GED exam?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-do-I-get-my-GED-transcript?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-transcript?",
+      "confidence": 0.4154262840747833
+    }
+  },
+  {
+    "text": "How do I get a transcript for my GED?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-do-I-get-my-GED-transcript?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-transcript?",
+      "confidence": 0.4342222809791565
+    }
+  },
+  {
+    "text": "I am 16 years old. Do I have to take GED Preparation Test if I want to take it?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Do-I-have-to-take-the-GED-Ready-(a-practice-test)-before-I-can-test-for-real?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-verify-a-GED-for-an-employee?",
+      "confidence": 0.06281251460313797
+    }
+  },
+  {
+    "text": "Is it true that you have to take a GED exam to test for real?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Do-I-have-to-take-the-GED-Ready-(a-practice-test)-before-I-can-test-for-real?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Do-GED-tests-expire?",
+      "confidence": 0.1381874829530716
+    }
+  },
+  {
+    "text": "When should I take the GED?",
+    "intent_response_key_target": "nlu-faq-utah-adult/How-old-do-you-have-to-be-to-take-the-GED?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Where-can-I-take-the-GED-test?",
+      "confidence": 0.18422873318195343
+    }
+  },
+  {
+    "text": "I have a GED and how many options there are for preparing for college?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Can-I-get-into-college-with-a-GED?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Where-can-I-take-the-GED-test?",
+      "confidence": 0.3458567261695862
+    }
+  },
+  {
+    "text": "How do I finish my GED prelims 2014?",
+    "intent_response_key_target": "nlu-faq-utah-adult/I-took-my-GED-prior-to-2014.-Do-I-have-to-start-over?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-transcript?",
+      "confidence": 0.10462367534637451
+    }
+  },
+  {
+    "text": "Do I need a transcript to be eligible for the final exam?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Do-I-need-to-bring-my-transcript?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Why-do-I-have-to-take-a-test?",
+      "confidence": 0.24278248846530914
+    }
+  },
+  {
+    "text": "Are there any classes that are not working in visa?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Will-these-classes-work-for-my-visa?-Am-I-enrolled-in-school-for-my-F-1?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/Are-there-evening-classes?",
+      "confidence": 0.13491931557655334
+    }
+  },
+  {
+    "text": "Why do I want to get my SSN?",
+    "intent_response_key_target": "nlu-faq-utah-adult/Why-do-you-want-my-SSN?",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-utah-adult/How-do-I-get-a-copy-of-my-transcript?",
+      "confidence": 0.22782647609710693
+    }
+  },
+  {
+    "text": "How much does a parking permit cost?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-much-does-a-parking-permit-cost",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-long-is-a-permit-valid",
+      "confidence": 0.08600295335054398
+    }
+  },
+  {
+    "text": "How much does parking permit costs?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-much-does-a-parking-permit-cost",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Does-everyone-need-a-parking-permit",
+      "confidence": 0.09475940465927124
+    }
+  },
+  {
+    "text": "How do I register for residential parking permit accounts?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-register-for-a-Residential-Parking-Permit-account-in-order-to-obtain-Visitor-Permits-through-the-PermitbyPlate-system",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-many-permits-may-be-requested",
+      "confidence": 0.09230981022119522
+    }
+  },
+  {
+    "text": "How many permits can I obtain?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-many-permits-may-be-requested",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-many-vehicles-may-be-assigned-to-a-permit-at-a-single-time",
+      "confidence": 0.2026626169681549
+    }
+  },
+  {
+    "text": "What is the process to obtain visitor permits with already active Residential Parking Permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-request-visitor-permits-if-I-already-have-an-active-Residential-Parking-Permit-account",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-is-the-cost-to-request-Visitor-permits",
+      "confidence": 0.21615254878997803
+    }
+  },
+  {
+    "text": "How do I pay a ticket online?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket-online",
+      "confidence": 0.2559196650981903
+    }
+  },
+  {
+    "text": "how am i supposed to pay for the ticket online?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.170061856508255
+    }
+  },
+  {
+    "text": "online payment of the parking tickets.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket-online",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket",
+      "confidence": 0.07488209754228592
+    }
+  },
+  {
+    "text": "Is it illegal to re-instate your Permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-long-is-a-permit-valid",
+      "confidence": 0.09394127130508423
+    }
+  },
+  {
+    "text": "How do I contest a ticket?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-contest-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket",
+      "confidence": 0.18960170447826385
+    }
+  },
+  {
+    "text": "How do I contest ticket?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-contest-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket",
+      "confidence": 0.20302021503448486
+    }
+  },
+  {
+    "text": "How do you contest a ticket?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-contest-a-ticket",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.1809670627117157
+    }
+  },
+  {
+    "text": "Who can qualify for Plate Visitor Permits? How do they work?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Who-is-eligible-for-Permitby-Plate-Visitor-Permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit",
+      "confidence": 0.14821355044841766
+    }
+  },
+  {
+    "text": "Can anyone make a Visitor Permit and Permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Who-is-eligible-for-Permitby-Plate-Visitor-Permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Can-I-use-my-permit-throughout-the-city",
+      "confidence": 0.10401303321123123
+    }
+  },
+  {
+    "text": "What if I only need visitor Permits and what if I can only visit the city or only need a visitor permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately",
+      "confidence": 0.4779336750507355
+    }
+  },
+  {
+    "text": "What if I need Visitor Permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately",
+      "confidence": 0.29571041464805603
+    }
+  },
+  {
+    "text": "What if I need only visitor permits?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately",
+      "confidence": 0.2941613793373108
+    }
+  },
+  {
+    "text": "I need visitor permits?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately",
+      "confidence": 0.17560511827468872
+    }
+  },
+  {
+    "text": "What will happen if you need a visitor permit at the airport and not a visitor permit itself?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits",
+      "confidence": 0.27355822920799255
+    }
+  },
+  {
+    "text": "How many vehicles are allowed to have a permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-many-vehicles-may-be-assigned-to-a-permit-at-a-single-time",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-many-permits-may-be-requested",
+      "confidence": 0.164960116147995
+    }
+  },
+  {
+    "text": "When should a permit issued for parking be issued?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Who-decides-what-areas-become-permit-parking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-should-my-guests-park",
+      "confidence": 0.06381423026323318
+    }
+  },
+  {
+    "text": "Who decides on permit parking?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Who-decides-what-areas-become-permit-parking",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Who-decides-what-the-parking-regulations-will-be",
+      "confidence": 0.14363668859004974
+    }
+  },
+  {
+    "text": "How do I request permit parking for a location?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-request-permit-parking-for-my-area",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.07241754233837128
+    }
+  },
+  {
+    "text": "How do I request permit parking in my neighborhood?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-request-permit-parking-for-my-area",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-many-vehicles-may-be-assigned-to-a-permit-at-a-single-time",
+      "confidence": 0.21938982605934143
+    }
+  },
+  {
+    "text": "How can I request permit parking from a county?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-request-permit-parking-for-my-area",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket",
+      "confidence": 0.07665616273880005
+    }
+  },
+  {
+    "text": "Will people need parking permits?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Does-everyone-need-a-parking-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.07304751127958298
+    }
+  },
+  {
+    "text": "How can I get a parking permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-obtain-a-parking-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket",
+      "confidence": 0.08821380883455276
+    }
+  },
+  {
+    "text": "How do I get a parking permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-obtain-a-parking-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket",
+      "confidence": 0.1088966503739357
+    }
+  },
+  {
+    "text": "How do you obtain a parking permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-obtain-a-parking-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket",
+      "confidence": 0.17164406180381775
+    }
+  },
+  {
+    "text": "What is the process to get a parking permit?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/How-do-I-obtain-a-parking-permit",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-are-permit-fees-used-for",
+      "confidence": 0.061777159571647644
+    }
+  },
+  {
+    "text": "How do I get into DMV without a permit if I wear a disability persons placard?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Do-I-need-a-permit-if-I-have-a-disabled-persons-placard-issued-by-the-DMV",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-I-purchase-parking-permits-if-I-have-parking-tickets",
+      "confidence": 0.24074217677116394
+    }
+  },
+  {
+    "text": "What does a permit parking officer must know about?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/What-should-my-guests-know-when-visiting-during-hours-in-which-permit-parking-regulations-are-enforced",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Does-everyone-need-a-parking-permit",
+      "confidence": 0.08097271621227264
+    }
+  },
+  {
+    "text": "Can I have a more than one permit at the same time?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-get-more-than-one-permit-if-I-have-more-than-one-vehicle",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit",
+      "confidence": 0.08607084304094315
+    }
+  },
+  {
+    "text": "Can I get two permits for different vehicles?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-get-more-than-one-permit-if-I-have-more-than-one-vehicle",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/How-do-I-request-visitor-permits-if-I-already-have-an-active-Residential-Parking-Permit-account",
+      "confidence": 0.07218649983406067
+    }
+  },
+  {
+    "text": "Is my permit required to practice street sweeping?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Does-my-permit-exempt-me-from-street-sweeping-restrictions",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Street-sweeping-schedule",
+      "confidence": 0.05789051577448845
+    }
+  },
+  {
+    "text": "Can someone ride an e-scooter or e-bike?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-I-ride-an-escooter-or-ebikes-in-a-bike-lane",
+      "confidence": 0.25311678647994995
+    }
+  },
+  {
+    "text": "What's the best way to ride an e-bike?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-I-ride-an-escooter-or-ebikes-in-a-bike-lane",
+      "confidence": 0.23528265953063965
+    }
+  },
+  {
+    "text": "Can I ride an e-scooter?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-can-the-scooters-and-bikes-be-ridden",
+      "confidence": 0.13871026039123535
+    }
+  },
+  {
+    "text": "What is it like to ride an e-scooter?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-can-the-scooters-and-bikes-be-ridden",
+      "confidence": 0.15929555892944336
+    }
+  },
+  {
+    "text": "Should I ride my motorcycle in bike lane?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-ride-an-escooter-or-ebikes-in-a-bike-lane",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-can-the-scooters-and-bikes-be-ridden",
+      "confidence": 0.21987402439117432
+    }
+  },
+  {
+    "text": "Should I be allowed to ride in a bike lane?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/May-I-ride-an-escooter-or-ebikes-in-a-bike-lane",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Where-can-the-scooters-and-bikes-be-ridden",
+      "confidence": 0.26729270815849304
+    }
+  },
+  {
+    "text": "Parking credits for cars: Vehicle parking in a parking lot on the night of a crash.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-credits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.20558129251003265
+    }
+  },
+  {
+    "text": "Parking credits and parking pass parking.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-credits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.21655802428722382
+    }
+  },
+  {
+    "text": "Parking credits available for car parking.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-credits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.2912575304508209
+    }
+  },
+  {
+    "text": "Parking credits for car parking in the garage.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-credits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.22821871936321259
+    }
+  },
+  {
+    "text": "Parking credit is non-refundable if we have multiple parking passes.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-credits",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.12335900962352753
+    }
+  },
+  {
+    "text": "Parking locations",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Parking-locations",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.12836980819702148
+    }
+  },
+  {
+    "text": "Permit by Plate",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Permit-by-Plate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.11548805981874466
+    }
+  },
+  {
+    "text": "Permit-by-Plate",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/PermitbyPlate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.1175411194562912
+    }
+  },
+  {
+    "text": "Permit-by-Plate permit permits use Permit-by-Plate permits. Permits-by-Plate permits are valid at any address in the United States and can be used to generate permit.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/PermitbyPlate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-permits-are-offered-as-PermitbyPlate",
+      "confidence": 0.16314171254634857
+    }
+  },
+  {
+    "text": "Permit-by-Plate is for permit processing with permit-by-plate.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/PermitbyPlate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-permits-are-offered-as-PermitbyPlate",
+      "confidence": 0.13953515887260437
+    }
+  },
+  {
+    "text": "Permit-by-Plate permits are issued for unauthorized habitation, a permit-by-Plate permit and a permit-by-Plate permit. Permit-by-Plate permit permits are issued to those who have a permit for any particular use or use. Permit",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/PermitbyPlate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-permits-are-offered-as-PermitbyPlate",
+      "confidence": 0.3266185224056244
+    }
+  },
+  {
+    "text": "Permit-by-Plate Permit for Parking at Permit-by-Plate.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/PermitbyPlate",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/What-permits-are-offered-as-PermitbyPlate",
+      "confidence": 0.10176536440849304
+    }
+  },
+  {
+    "text": "How will City Hall Automated Garage service in the future?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Street-sweeping-schedule",
+      "confidence": 0.04338362440466881
+    }
+  },
+  {
+    "text": "City Hall Garage",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.10045057535171509
+    }
+  },
+  {
+    "text": "City Hall Garage City Hall Garage City Hall Garage City Hall Garage Garage City Hall Garage City Hall Garage City Hall Garage Garage City Hall Garage City Hall Garage City Hall Garage City Hall Garage Garage City Hall Garage Garage City Hall Garage Garage City Hall Garage City Hall Garage Garage City Hall Garage City Hall Garage Garage City Hall Garage City Hall",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.2771094739437103
+    }
+  },
+  {
+    "text": "City Hall garage, garage, garage parking: City Hall garage: City Hall Garage. Garage parking: City Hall Garage. Garage Parking: City Hall Garage. City Hall Garage. City Hall Garage. City Hall Garage. City Hall Garage.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.04762154445052147
+    }
+  },
+  {
+    "text": "City Hall Garage, City Hall Garage, garage & Garage (Allowed Parking) Garage. City Hall Garage.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.03412206098437309
+    }
+  },
+  {
+    "text": "City Hall Garage. City Hall Garage. Garage. City Hall Garage, City Hall Garage.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.044348474591970444
+    }
+  },
+  {
+    "text": "City Hall Garage: Garage 1. The City Hall Garage is closed. If there is no parking inside City Hall, that parking space is free.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/City-Hall-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/I-have-a-permit-and-cant-find-a-parking-space",
+      "confidence": 0.04514288529753685
+    }
+  },
+  {
+    "text": "Automated Garage Door (ARA): The garage door generates the noise and starts automatically, with the car being parked.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/I-have-a-permit-and-cant-find-a-parking-space",
+      "confidence": 0.038970697671175
+    }
+  },
+  {
+    "text": "Automated garage (AGW): Automated garage (AGW): Automated Garage. Automated Garage Automation (AGW): Automated garage automation for automatized garage. Automated garage: Automated garage automation for automation. Automated garage: Automate",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.5979518294334412
+    }
+  },
+  {
+    "text": "Automated Garages – What are some examples?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.046200595796108246
+    }
+  },
+  {
+    "text": "Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated Garage Automated",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.7957964539527893
+    }
+  },
+  {
+    "text": "Automated garages. Automated garages. Automated Garages. Automated garages. Automated garages. Automated garages. Automated garages. Automated garages. Automated garages. Automated garages. Automated",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Automated-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/City-Hall-Automated-Garage",
+      "confidence": 0.3532026410102844
+    }
+  },
+  {
+    "text": "Sweetzer Garage",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Sweetzer-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.08497922122478485
+    }
+  },
+  {
+    "text": "Orange Grove Parking Lot",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.10957007855176926
+    }
+  },
+  {
+    "text": "Orange Grove Parking Lot Lot 315 Parking St, Orange Grove FL 32505 Orange Grove Parking Lot 3rd Floor Parking Lot 3rd Floor Parking Lot 3rd Floor Parking Lot 5th Floor Parking Lot 4th Floor Parking Lot 4th Floor Parking Lot 4th Floor Parking Lot 4th Floor Parking Lot",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Parking-locations",
+      "confidence": 0.1703982651233673
+    }
+  },
+  {
+    "text": "Orange Grove Parking Lot If there is a car in Orange Grove Parking Lot if it is parked there, please don't drive in.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Queens-Parking-Lot",
+      "confidence": 0.1248680129647255
+    }
+  },
+  {
+    "text": "Orange Grove Parking Lot is on the left side of the lot. Parking will be free!",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.05664600431919098
+    }
+  },
+  {
+    "text": "Where is the Queens parking lot?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Queens-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.1319386512041092
+    }
+  },
+  {
+    "text": "Sunset Parking Lot",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Sunset-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.08507101982831955
+    }
+  },
+  {
+    "text": "Sunset Parking Lot Is the place for parking?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Sunset-Parking-Lot",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.05773572996258736
+    }
+  },
+  {
+    "text": "WeHo Park Garage",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/WeHo-Park-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.12277109175920486
+    }
+  },
+  {
+    "text": "WeHo Park Garage is located in a very clean garage.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/WeHo-Park-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.06744474172592163
+    }
+  },
+  {
+    "text": "Where WeHo Park garage is located?",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/WeHo-Park-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.09867165982723236
+    }
+  },
+  {
+    "text": "WeHo park garage and parking WeHo Park Garage have everything in a parking garage, with great access to WeHo park. Our garage has a huge driveway, TheHo park Garage has a great driveway and WeHo Park Garage has everything in it.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/WeHo-Park-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hart-Park",
+      "confidence": 0.18552382290363312
+    }
+  },
+  {
+    "text": "Hancock Garage",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/May-Permits-be-Reused",
+      "confidence": 0.11234550923109055
+    }
+  },
+  {
+    "text": "Hancock garage, Hancock, KS: Hancock. Garage. Hancock Garage. Hancock.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+      "confidence": 0.08702711015939713
+    }
+  },
+  {
+    "text": "Hancock Garage is a Hancock garage.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+      "confidence": 0.07448648661375046
+    }
+  },
+  {
+    "text": "Hancock Garage: Hancock garage, Hancock, NH. Hancock garage, Hancock garage, Hancock garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Hancock Garage, Han",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+      "confidence": 0.29321274161338806
+    }
+  },
+  {
+    "text": "Hancock garage has some of the best garage doors and accessories in the world.",
+    "intent_response_key_target": "nlu-faq-weho-parking-b1/Hancock-Garage",
+    "intent_response_key_prediction": {
+      "name": "nlu-faq-weho-parking-b1/Hancock-Parking-Garage",
+      "confidence": 0.05948108434677124
+    }
+  }
+]

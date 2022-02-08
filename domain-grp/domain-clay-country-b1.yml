@@ -1,0 +1,397 @@
+version: "3.0" 
+intents: 
+  - nlu-faq-clay-country-b1
+responses:
+  utter_nlu-faq-clay-country-b1/Who-is-the-county-manager: 
+  - text: The County Manager is Howard Wanamaker. He is the executive officer of County government and is appointed by and is directly accountable to the Board of County Commissioners. For more information please visit https://www.claycountygov.com/government/county-manager
+  utter_nlu-faq-clay-country-b1/Do-I-need-permission-to-put-up-a-sign: 
+  - text: To review the application process for obtaining a Sign Permit, please visit Clay County website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/What-paperwork-do-I-need-to-file-a-claim-with-the-VA: 
+  - text: Your DD 214 or discharge documents, medical records from any doctors seen outside the VA or at minimum the names of the doctors and their addresses, additional information may be required depending on the type of claim being prepared.
+  utter_nlu-faq-clay-country-b1/Do-I-have-to-pay-in-full-before-my-event-at-the-clay-county-fairground: 
+  - text: There is a demand for some of the facilities, so bookings are handled on a "First Pay, First Serve" basis. A 50% deposit is required to "book a reservation" and payment must be made in full at least 14 days prior to the event.
+  utter_nlu-faq-clay-country-b1/Where-is-Camp-Chowenwaw: 
+  - text: Camp Chowenwaw is located at 1517 Ball Road, Green Cove Springs, FL 32043
+  utter_nlu-faq-clay-country-b1/What-is-the-address-of-the-clay-county-fairgrounds: 
+  - text: The Clay County Fairground's is located at 2497 SR 16 West, Green Cove Springs, FL 32043.
+  utter_nlu-faq-clay-country-b1/What-can-I-do-to-my-home-to-prevent-flooding: 
+  - text: There are many things you can do, depending on the flood hazard in your area, the characteristics of your property, and the zoning and building codes in your community. For more information visit floodsmart.gov
+  utter_nlu-faq-clay-country-b1/What-is-Extension: 
+  - text: Extension is the public outreach component of the University of Florida's Institute of Food and Agricultural Sciences (UF/IFAS), where experts relate research findings to daily life. Extension provides information to agricultural and livestock producers, as well as the public. Information is always research-based, current, and free.
+  utter_nlu-faq-clay-country-b1/When-is-spraying-scheduled-for-my-neighborhood: 
+  - text: Spraying is conducted on an as needed basis, based upon mosquito population monitoring data. Once mosquito populations are above a set baseline, spraying for an area is scheduled.
+  utter_nlu-faq-clay-country-b1/Clay-county-animal-services-costs: 
+  - text: You can download a list of fees [https://www.claycountygov.com/departments/animal-services/forms-reports/adoption-fees](https://www.claycountygov.com/departments/animal-services/forms-reports/adoption-fees)
+  utter_nlu-faq-clay-country-b1/What-can-I-do-with-this-dog-that-I-found: 
+  - text: Check to see if he/she has a collar with an ID tag. If you are able to keep the dog or cat at your home, you can start by posting Found Animal flyers in your neighborhood and watching out for Lost Animal flyers. You can take the animal to a veterinary clinic or CCAS to see if he/she has a microchip and try to find the owner that way. If you are going to keep the animal in your home, then call us at 904-269-6342 to give us information in case an owner calls. You can also bring us or email us a flyer for our Lost and Found Pets book. If you are unable to keep the animal in your home, then you can bring the animal to CCAS during normal business hours. Finally, you can also CLICK HERE to report a stray animal.
+  utter_nlu-faq-clay-country-b1/Is-alcohol-sold-at-the-clay-county-fair: 
+  - text: No, The sale of alcoholic beverages at any time by any person other than those that have obtained an Alcoholic Beverage Permit is strictly prohibited.\n\nPlease refer to the Rules and Regulations regarding the sale/consumption of alcoholic beverages at the Clay County Fairgrounds.
+  utter_nlu-faq-clay-country-b1/How-can-I-get-landscaping-questions-such-as-plant-pests-and-diseases-identification-and-advice-for-solutions-to-these-issues: 
+  - text: Landscape issues and plant identification can be directed to the UF/IFAS Extension Clay County Master Gardeners or the UF/IFAS Extension Clay County Environmental Horticulture Agent. Clients can either bring samples into the office, call (904)284-6355, or email photographs and descriptions of the issues or their questions to clay@ifas.ufl.edu.
+  utter_nlu-faq-clay-country-b1/how-much-is-camp-chowenwaw-park: 
+  - text: There is no fee to enter the Park and use the public areas. The only a fees are for overnight camping and renting Day-Use Meeting Buildings. Visit claycountygov.com
+  utter_nlu-faq-clay-country-b1/What-is-Camp-Chowenwaw: 
+  - text: Camp Chowenwaw is a nature-based Clay County Park that is open to the public from 8 AM until Sunset, 7 days a week.
+  utter_nlu-faq-clay-country-b1/Is-what-the-sprayers-use-safe: 
+  - text: The products we use are registered and approved by the Environmental Protection Agency (EPA). These products have undergone extensive testing to ensure that when they applied in a manner consistent with the label that they will not have any significant adverse effects on human health or the environment.
+  utter_nlu-faq-clay-country-b1/Does-Clay-County-have-presentation-guidelines: 
+  - text: Presentation guidelines can be found at: https://www.claycountygov.com/home/showpublisheddocument/924/637448291472430000
+  utter_nlu-faq-clay-country-b1/how-can-i-register-my-dog-for-a-shelter: 
+  - text: Please visit Animal Care & Controls website at [https://www.claycountygov.com/departments/animal-services/pet-disaster-preparedness](https://www.claycountygov.com/departments/animal-services/pet-disaster-preparedness)
+  utter_nlu-faq-clay-country-b1/How-can-I-get-a-map-of-Camp-Chowenwaw-Park: 
+  - text: You can download a map of the park at [https://www.claycountygov.com/departments/parks-and-recreation/camp-chowenwaw-park/camp-chowenwaw-park-map](https://www.claycountygov.com/departments/parks-and-recreation/camp-chowenwaw-park/camp-chowenwaw-park-map)
+  utter_nlu-faq-clay-country-b1/how-can-I-reserve-a-building-at-camp-chowenwaw-park: 
+  - text: Reservations are made by calling (904) 529-8058 opt. 3.
+  utter_nlu-faq-clay-country-b1/why-is-this-land-being-cleared-out: 
+  - text: Please contact the Planning and Zoning Division at (904) 278-4705 or email at clay.zoning@claycountygov.com
+  utter_nlu-faq-clay-country-b1/Does-Clay-County-Animal-Services-handle-wildlife-concerns: 
+  - text: All wildlife concerns are handled through the Florida Fish and Wildlife Commission or through a private trapper. You can get more information at www.myfwc.com or call them at 1-386-758-0525.
+  utter_nlu-faq-clay-country-b1/Can-I-give-a-PowerPoint-Presentation-during-Public-Comments: 
+  - text: Yes you can, but there are certain guidelines you must follow before giving your presentation. Please click on the link to read the guidelines: [https://www.claycountygov.com/Home/ShowDocument?id=924](https://www.claycountygov.com/Home/ShowDocument?id=924)
+  utter_nlu-faq-clay-country-b1/How-can-I-find-out-what-issues-are-on-the-BCC-Agenda: 
+  - text: The agenda is posted on the Agendas/Minutes website.
+  utter_nlu-faq-clay-country-b1/Places-with-pools: 
+  - text: Camp Chowenwaw offers a community pool with daily rates ranging from $4-$2. For more information please call the Park at 904-529-8058.
+  utter_nlu-faq-clay-country-b1/Fairfield-by-Marriott: 
+  - text: Fairfield by Marriott is located at 450 Eldridge Ave, Orange Park, FL 32073
+  utter_nlu-faq-clay-country-b1/Treehouse-Camping: 
+  - text: You can rent a Treehouse at Camp Chowenwaw located at 1517 Ball Road\nGreen Cove Springs, FL 32043
+  utter_nlu-faq-clay-country-b1/What-Hotels-are-in-Clay-County: 
+  - text: Please visit www.exploreclay.com for a complete listing of hotels
+  utter_nlu-faq-clay-country-b1/How-can-I-turn-my-land-into-a-farm: 
+  - text: We recommend obtaining a soil sample of the fields to understand if anything will have to be adjusted, as well as looking at the markets to make sure that your product is sustainable. We can help with taking the soil samples and any technical recommendations for growing your chosen crop from planting to selling.
+  utter_nlu-faq-clay-country-b1/How-much-is-it-to-rent-a-cabin-at-camp-chownewaw-park: 
+  - text: To view our fees, please visit https://www.claycountygov.com/home/showdocument?id=2457
+  utter_nlu-faq-clay-country-b1/What-hotels-are-in-Fleming-Island: 
+  - text: Holiday Inn Express and Suites Fleming Island
+  utter_nlu-faq-clay-country-b1/What-flood-zone-am-I-located-in: 
+  - text: You can contact the Planning & Zoning Division at (904)278-4705, email at [clay.zoning@claycountygov.com](mailto:clay.zoning@claycountygov.com) or search our GIS interactive viewer at [www.claycountygov.com](https://www.claycountygov.com/departments/geographic-information-systems-gis)
+  utter_nlu-faq-clay-country-b1/Do-I-have-to-reserve-a-pavilion-at-Ronnie-Van-Zant-Park: 
+  - text: Ronnie Van Zant Park has 11 pavilions, 7 are first come first serve and 2 require a reservation. Time slots are 9 a.m. to 1 p.m. and 1 p.m. to 5 p.m., costing $32.10 per time slot. To request a reservation or find out more information, please visit claycountygov.com.
+  utter_nlu-faq-clay-country-b1/How-do-I-apply-for-a-culvert: 
+  - text: Applications are located and submitted to Planning and Zoning Division located at 477 Houston Street 3rd Floor, Green Cove Springs, FL 32043. The fee for a new driveway is $125.00.
+  utter_nlu-faq-clay-country-b1/can-an-owner-pull-permits-on-their-rental-property: 
+  - text: F.S. 489.103: Owners of property when acting as their own contractor and providing direct, onsite supervision themselves of all work not performed by licensed contractors:\n\nWhen building or improving farm outbuildings or one-family or two-family residences on such property for the occupancy or use of such owners and not offered for sale or lease, or building or improving commercial buildings, at a cost not to exceed $75,000, on such property for the occupancy or use of such owners and not offered for sale or lease.
+  utter_nlu-faq-clay-country-b1/Do-I-need-to-be-present-for-a-building-inspection: 
+  - text: The inspector will need access to the work, so if the work is inside your home, yes. If the inspector can access the work outside the building (assuming the dogs are restrained) then no.
+  utter_nlu-faq-clay-country-b1/Why-is-my-contractor-license-on-hold: 
+  - text: It could be a number of things, but it is most likely an expired permit, an expired license or an insurance certificate that is out of date.
+  utter_nlu-faq-clay-country-b1/Where-can-I-print-out-building-permits: 
+  - text: Visit http://www.claycountygov.com/departments/building/online-inspections
+  utter_nlu-faq-clay-country-b1/how-long-is-plan-review: 
+  - text: The review time is affected by the volume of submittals, but in no case will it be more than 30 days without comment.
+  utter_nlu-faq-clay-country-b1/How-can-I-find-out-the-status-of-my-VA-claim: 
+  - text: Contact the VA call center 1-800-827-1000 extension 3
+  utter_nlu-faq-clay-country-b1/what-VA-benefits-am-I-eligible-for: 
+  - text: Call our office at (904) 269-6326 to speak with a Veteran Services Officer. You will need your DD 214 or other discharge documents to determine eligibility.
+  utter_nlu-faq-clay-country-b1/where-can-I-throw-out-furniture: 
+  - text: Place curbside on garbage pickup day or deliver to ECC or Rosemary Hill SWMF.
+  utter_nlu-faq-clay-country-b1/Where-do-I-go-to-file-a-claim-with-the-VA: 
+  - text: You can file a claim in our office 477 Houston Street, Green Cove Springs 32043 Second Floor (by appointment) (904) 269-6326.
+  utter_nlu-faq-clay-country-b1/How-can-I-improve-my-credit-score-and-clean-up-my-credit-history: 
+  - text: Paying your bills on time. not missing payments, and staying current. Know how much you owe and keep balances and debt low. Get a free copy of your credit report via [http://www.annualcreditreport.com](http://www.annualcreditreport.com) and contact lenders to correct inaccurate or incomplete information or to renegotiate payment plans.
+  utter_nlu-faq-clay-country-b1/Where-can-I-get-a-HIPAA-release-form: 
+  - text: Please fill out the attached form and sign. Attach to the request when submitting, download it here [https://uploads.mycusthelp.com/CLAYCOUNTYFL/CCFRaccessform.pdf](https://uploads.mycusthelp.com/CLAYCOUNTYFL/CCFRaccessform.pdf)
+  utter_nlu-faq-clay-country-b1/how-can-I-verify-an-address-for-a-building: 
+  - text: Visit the Customer Request Center at\n\nhttps://claycountyfl.mycusthelp.com/WEBAPP/_rs/(S(nfewrsvp0t4ljtqdyi5jddzd))/SupportHome.aspx?sSessionID=. \n\nLog in or create a user account, then click Addressing. Fill in the\n\nappropriate fields to submit the request.
+  utter_nlu-faq-clay-country-b1/How-do-I-dispose-of-needles: 
+  - text: Deliver to Health Department or return to pharmacy.
+  utter_nlu-faq-clay-country-b1/Are-pets-allowed-at-Camp-Chowenwaw: 
+  - text: You can bring pets to Camp Chowenwaw. They must be on a lease and with proper updated vaccine information on their collar. Pets are not allowed in the park past closing (sunset) and not allowed in any buildings. View our Park Rules at  https://www.claycountygov.com/Home/ShowDocument?id=5166
+  utter_nlu-faq-clay-country-b1/does-camp-chowenwaw-park-have-rv-parking: 
+  - text: There is no RV parking allowed at Camp Chowenwaw. Only cabins, tent sites, and day-use meeting buildings.  Please call the Parks and Recreation phone number for reservations 904-284-6378.
+  utter_nlu-faq-clay-country-b1/Why-did-I-get-a-code-violation: 
+  - text: You can be cited with a code violation because the structure did not meet standard code.
+  utter_nlu-faq-clay-country-b1/What-will-Code-Enforcement-do-if-I-refuse-to-comply-with-the-County-Code: 
+  - text: Your case will be brought to the Special Magistrate, who will order compliance. If compliance is not met, the Special Magistrate will order a lien be placed on the property.
+  utter_nlu-faq-clay-country-b1/When-are-dayuse-meeting-rooms-available-at-camp-chowenwaw-park: 
+  - text: Day-Use Buildings and meeting rooms at Camp Chowenwaw Park are available from 10 AM until sunset. Parking is limited so carpooling is encouraged. Alcoholic beverages are not allowed. Tables and chairs are included in the price. For more information call (904) 529-8058 opt. 3
+  utter_nlu-faq-clay-country-b1/What-does-Camp-Chowenwaw-offer: 
+  - text: The park offers hiking trails, picnic tables, fishing piers, playgrounds, seasonal swimming pool, Museum and a Nature Center. Overnight camping is available in a cabin, tent or treehouse. You can also rent a Day-Use Building for weddings, family gatherings, business functions.
+  utter_nlu-faq-clay-country-b1/what-is-camp-chow: 
+  - text: Camp Chowenwaw is a nature-based Clay County Park that is open to the public from 8 AM until Sunset, 7 days a week.
+  utter_nlu-faq-clay-country-b1/What-projects-require-a-building-permit: 
+  - text: Building permits are required to construct, enlarge, alter or install gas, electrical, mechanical and/or plumbing system. For more information about projects that requrie a building permit, please contact the building department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/where-can-I-get-my-property-value: 
+  - text: You can find this information by visiting the Clay County Property Appraiser's office or by calling 904-278-3736.
+  utter_nlu-faq-clay-country-b1/Where-can-I-get-a-birth-certificate: 
+  - text: You can find these records by visiting the Clay County Clerks office or calling 904-284-6314.
+  utter_nlu-faq-clay-country-b1/Where-can-I-get-a-death-certificate: 
+  - text: You can get a death certificate, birth certificate, or marriage certificate by visiting the Clay County Clerks office or calling 904-284-6314
+  utter_nlu-faq-clay-country-b1/Where-can-I-get-a-marriage-certificate: 
+  - text: You can find these records by visiting the Clay County Clerks office or calling 904-284-6314.
+  utter_nlu-faq-clay-country-b1/Where-can-I-camp: 
+  - text: You can camp at the following campgrounds: Camp Chowenwaw, Goldhead State Park, Jennings State Forest, and Bayard Conservation Area.
+  utter_nlu-faq-clay-country-b1/How-can-I-get-my-landscape-and-garden-soil-tested: 
+  - text: The UF/IFAS Extension Clay County offers free soil pH testing to Clay County residents. Samples must be around a pint of soil, made up of soil collected from several spots around the area to be tested and mixed together (for more details see http://blogs.ifas.ufl.edu/clayco/2017/08/31/ph-soil-testing/). For nutrient testing, samples must be sent to the University of Florida and information on this procedure can be found at http://edis.ifas.ufl.edu/ss494.
+  utter_nlu-faq-clay-country-b1/Where-are-all-the-mosquitoes-coming-from: 
+  - text: Immature mosquitoes live and develop in standing water. The location depends upon the species. There are mosquitoes that breed in salt marshes, swamps, crab holes, ponds, swales, bromeliads and even small containers like buckets. As adults, mosquitoes prefer nice shady places around vegetation. Chances are, if mosquitoes are bothering you at home, they are liking breeding someplace nearby.
+  utter_nlu-faq-clay-country-b1/Do-all-mosquitoes-bite: 
+  - text: No, only female mosquitoes bite. Females need blood to make eggs. Male mosquitoes feed on plant sugar. Only some species of mosquito like to bite people.
+  utter_nlu-faq-clay-country-b1/How-do-I-submit-for-Development-Review-Committee: 
+  - text: Applications are submitted to Department of Economic and Development Services located at 477 Houston Street 3rd Floor, Green Cove Springs, FL 32043. Resources are also available on the Clay County Webpage. You can also call at (904) 541-3814 or 541-3838.
+  utter_nlu-faq-clay-country-b1/What-are-the-park-hours: 
+  - text: All Clay County Neighborhood Parks are dawn to dusk. All Community Parks are dawn to dusk unless scheduled Athletic Practices or Games. For a list of park rules and regulations, please visit: http://www.claycountygov.com/departments/parks-and-recreation/forms
+  utter_nlu-faq-clay-country-b1/How-can-I-view-the-BCC-Minutes: 
+  - text: All BCC minutes can be viewed and downloaded at our Agenda/Minutes website.
+  utter_nlu-faq-clay-country-b1/When-will-my-road-be-resurfaced: 
+  - text: All road requests for resurfacing are evaluated for priority in our resurfacing program. As our resurfacing budget is established, candidate roads for resurfacing are submitted to BCC for approval. Due to limited funding it may be several years before a road enters the program. In the meantime we will patch as necessary.
+  utter_nlu-faq-clay-country-b1/How-do-I-apply-for-a-job: 
+  - text: Applications are only accepted for open positions using the online application system. You can complete an application in the comfort of your home, visit the Clay County Administration building to use the public kiosk or visit one of the computer labs in Clay County public libraries.
+  utter_nlu-faq-clay-country-b1/What-are-the-park-rules-for-Camp-Chowenwaw-Park: 
+  - text: Park Rules can be found at [https://www.claycountygov.com/Home/ShowDocument?id=5166](https://www.claycountygov.com/Home/ShowDocument?id=5166).
+  utter_nlu-faq-clay-country-b1/What-is-there-to-do-at-Camp-Chowenwaw-Park: 
+  - text: Camp Chowenwaw offers a variety of recreational activities such as fishing, boating, hiking, picnicking, and camping. The park also has a swimming pool that offers swimming lessons during the summer. Environmental education classes are offered through out the year for school and community parks. Our playground area is a favorite for our younger visitors. We also have a volleyball court and a horseshoe pit. Camp Chowenwaw Park is home to a variety of wildlife. An active bald eagles nest can be seen from the of the "Jungle Trail". The St. Johns River and Black Creek border the camp providing opportunities to see manatees. Many campers enjoying seeing deer in the early morning hours. To view a list of activities available at Camp Chowenwaw Park, click HERE.
+  utter_nlu-faq-clay-country-b1/What-are-the-Clay-county-human-resources-office-hours: 
+  - text: The general office hours for the Human Resources and Benefits Division are from 8:00 a.m. to 4:30 p.m., excluding observed holidays.
+  utter_nlu-faq-clay-country-b1/How-do-I-obtain-a-commercial-power-to-clean-and-show: 
+  - text: You can review the application process for Power to Clean and Show on the Clay County Website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/What-are-the-benefits-offered-by-the-Board-of-County-Commissioners: 
+  - text: There is a wide array of benefits available to the employee. For more information relating to insurance benefits, please click on the following link: http://www.claycountygov.com/departments/risk
+  utter_nlu-faq-clay-country-b1/Who-is-responsible-for-cleaning-after-an-event-at-the-clay-county-fairground: 
+  - text: All user groups are responsible for their own pre-event set-up and post-event breakdown. In many instances, an extra "free" day is allowed the day before and after an event.
+  utter_nlu-faq-clay-country-b1/How-can-I-verify-information-about-a-current-or-past-employee: 
+  - text: You can contact Human Resources at 904-529-4719. Information requests will be fulfilled within a reasonable amount of time.
+  utter_nlu-faq-clay-country-b1/What-Radio-and-TV-channels-should-I-use-to-track-emergency-watches-and-warnings: 
+  - text: It is best to listen to your local weather forecasters and news stations.
+  utter_nlu-faq-clay-country-b1/Do-you-have-any-information-on-flood-safety: 
+  - text: More information on flood safety is available from the Federal Emergency Management Agency, FloodSmart.gov, American Red Cross, Florida Division of Emergency Management, and Clay County Emergency Management Division.
+  utter_nlu-faq-clay-country-b1/How-do-I-join-4H: 
+  - text: The 4-H year officially begins September 1, but in Clay County 4-H we accept new members year-round. The program fee for enrolling in a 4-H community clubs is $20 per member annually and scholarships are available for families who may need a little help. One of the easiest ways to learn more about our activities is visit and like our Facebook page. If you would like to enroll in 4-H please contact us at 904-284-6355 for a club list and calendar of upcoming activities.
+  utter_nlu-faq-clay-country-b1/Do-you-have-an-interactive-map-viewer: 
+  - text: Yes, our interactive map viewer can be found at http://maps.claycountygov.com/clayview/
+  utter_nlu-faq-clay-country-b1/What-maps-are-available-for-download: 
+  - text: The most commonly requested maps are located at http://www.claycountygov.com/departments/geographic-information-systems-gis/gis-map-library
+  utter_nlu-faq-clay-country-b1/What-do-I-do-about-a-lien-on-my-property: 
+  - text: You can call the Code Enforcement office at (904) 284-6310 to learn about the lien on your property and how to file a lien reduction.
+  utter_nlu-faq-clay-country-b1/Why-am-I-being-cited-for-not-having-a-permit-I-purchased-the-property-like-this: 
+  - text: If you purchased the property as is, you also take on the risk of violations that go with the property.
+  utter_nlu-faq-clay-country-b1/How-long-will-it-take-for-the-Code-Enforcement-officer-to-respond-to-my-complaint: 
+  - text: Usually within a week.
+  utter_nlu-faq-clay-country-b1/How-long-will-it-take-to-resolve-the-code-enforcementviolation: 
+  - text: At least 60 days.
+  utter_nlu-faq-clay-country-b1/What-do-I-do-about-a-violation-letter-I-received-from-code-enforcement: 
+  - text: Contact the officer who wrote the letter or call the Code Enforcement office at (904) 284-63310
+  utter_nlu-faq-clay-country-b1/Can-I-remain-anonymous-when-filing-a-complaint: 
+  - text: No, we do not accept anonymous complaints.
+  utter_nlu-faq-clay-country-b1/What-does-Camp-Chowenwaws-Orange-Blossom-room-have-in-it: 
+  - text: The main room has 8 tables: 6" x 30", 2 wood tables: 8"x 33", 30 padded chairs: seating for 30, ceiling fans, podium (upon request) In the Kitchen you have access to a standard sized refrigerator and range, microwave and a sink
+  utter_nlu-faq-clay-country-b1/what-is-available-in-the-kiwita-room-at-camp-chowenwaw-park: 
+  - text: The main room has 7 wood tables: 8"x 33", 2 4" round tables, 55 padded chairs: seating for 55, ceiling fans, water fountain, podium (upon request) In the kitchen you have access to a standard sized refrigerator and range, microwave and a sink
+  utter_nlu-faq-clay-country-b1/What-do-you-provide-in-the-Big-Cabin-at-camp-chowenwaw-park: 
+  - text: The main room has 3 wood burning fireplaces, 20 - 5" round tables, 150 chairs, ceiling fans, Men’s and Women's Restrooms, water fountains. In the kitchen you have access to a standard sized refrigerator and range, microwave, caterers warming oven (for use by licensed caterer only), sink, locked pantry, cook's restroom and ceiling fans.
+  utter_nlu-faq-clay-country-b1/What-can-I-bring-to-camp-at-camp-chowenwaw: 
+  - text: For camping outdoors at camp chowenwaw you will need to bring charcoal for grilling, skewers for roasting hot dogs or marshmallows (do not use branches), insect repellent, flashlights, bedding, soap, towels, shampoo, cooking utensils, etc. Tent platforms are 14x18 and accommodate two- 2 man tents or one- 6 man tent.
+  utter_nlu-faq-clay-country-b1/can-you-camp-at-camp-chowenwaw-park: 
+  - text: Camp Chowenwaw offers Cabins, Treehouses and 14x18 tent platforms that can accommodate two- 2 man tents or one- 6 man tent.
+  utter_nlu-faq-clay-country-b1/How-do-I-find-out-more-about-Camp-Chowenwaw: 
+  - text: You can visit the Clay County Website or call Camp Chowenwaw at 904-529-8058.
+  utter_nlu-faq-clay-country-b1/how-do-i-become-a-master-gardener: 
+  - text: To become a Master Gardener, those interested must take around 70 hours of instruction on gardening in Florida and donate at least 75 hours of volunteer time during their first year in the organization. The course is currently offered in Clay County once a year, usually starting in August. For more information, contact (904)284-6355 or clay@ifas.ufl.edu.
+  utter_nlu-faq-clay-country-b1/How-long-is-food-good-in-a-refrigerator-without-power: 
+  - text: If a refrigerator is kept closed,  the food will not perish for approximately 4 hours. Full freezers if kept closed, food will not perish for approximately 48 hours & unopened, half full freezers will not perish for approximately 24 hours.
+  utter_nlu-faq-clay-country-b1/What-is-an-MSBU: 
+  - text: Chapter 125.01(q) 1 of the Florida Statutes authorizes the Board of County Commissioners (BCC) to create or abolish a Municipal Service Benefit Unit (MSBU). The law permits such districts to be created for the purpose of providing and maintaining facilities or services, which specifically benefit property owners in a particular area. The facilities or services must provide a public purpose. Chapter 197.3632 of the Florida Statutes provides for the levy, collection and enforcement of non-ad valorem assessments through this uniform method. In general, the County can assist with the collection of funds for particular improvements such as sidewalks, streetlights, road improvements or maintenance. Stormwater MSBU funds will be collected from property owners in the unincorporated areas of Clay County for stormwater improvements within that same boundary. The funds will only be used for designated stormwater improvements. \n\n
+  utter_nlu-faq-clay-country-b1/how-can-i-start-a-school-garden: 
+  - text: A school garden requires careful planning. You will need to assemble a garden team, assess your educational goals for the garden, make decisions about what type of garden will fit those goals, find a site where your garden will thrive, and put together a plan for obtaining funds and supplies. School gardens can take many forms. They can be established directly in the schoolyard, in raised beds, in containers, or even in water. They can produce fresh and nutritious food to eat as snacks, to take home to families, or to share with those in need.
+  utter_nlu-faq-clay-country-b1/Does-mosquito-control-harm-bees: 
+  - text: Insecticides used on mosquitoes can potentially harm other non-target insects such as bees, but our spraying, which typically takes place before dawn or after dusk, reduces the potential harm impact because bees are usually inside their hives during this time. However, it is not always appropriate to treat before dawn or after dusk for certain mosquito species. Our mosquito control program keeps an up-to-date list of local beekeepers and works with them to protect their hives. If you are a local beekeeper and would like to be added to this list, please contact Clay County Public Works at 284-6335 and request to speak with Mosquito Control.
+  utter_nlu-faq-clay-country-b1/Can-I-get-sick-from-a-mosquito-bite: 
+  - text: Only a small number of mosquitoes in Florida can transmit pathogens to people.  This means that the likelihood of a person getting sick from a mosquito bite is very low, although it is possible.
+  utter_nlu-faq-clay-country-b1/How-many-types-of-mosquitoes-are-there: 
+  - text: There are over 3,000 different types of mosquitoes. In Florida we have 80 different species!
+  utter_nlu-faq-clay-country-b1/Do-you-provide-public-education-about-mosquitoes: 
+  - text: Mosquito control personnel are willing to provide educational programs to groups throughout the year. Contact Bradley.Burbaugh@claycountygov.com for more info.
+  utter_nlu-faq-clay-country-b1/Do-you-have-a-set-schedule-for-spraying-mosquitoes: 
+  - text: Spraying for adult mosquito outbreaks occurs on an as-needed basis, and only if mosquito populations meet state guidelines for treatment. As such, we make daily decisions based on the data gathered from our 60 traps set across the county. This allows us to assign spray trucks where the chemical application is most needed and will be most effective.
+  utter_nlu-faq-clay-country-b1/When-does-mosquito-spraying-occur: 
+  - text: Spraying for adult mosquito outbreaks occurs on an as-needed basis, and only if mosquito populations meet state guidelines for treatment. As such, we make daily decisions based on the data gathered from our 60 traps set across the county. This allows us to assign spray trucks where the chemical application is most needed and will be most effective.
+  utter_nlu-faq-clay-country-b1/How-does-the-spray-request-work: 
+  - text: Mosquito spraying is a service provided by the Clay County Board of County Commissioners. You contact our office by phone 904-284-6335, and provide us with your name, telephone number, address including the city and zip code, name of your development (if applicable), and gate code (if applicable). Then, your location will be scheduled to be sprayed by a truck.
+  utter_nlu-faq-clay-country-b1/What-are-the-Lake-Asbury-and-Branan-Field-Masterplans: 
+  - text: Lake Asbury and Branan Field Master Plans are special area plans that guide development in the Lake Asbury and Branan Field areas of the County, which are the fastest growing areas of Clay County due primarily to the construction of the First Coast Expressway. The plans have specific guidelines that control the types and quality of development that can occur in these two areas.
+  utter_nlu-faq-clay-country-b1/What-is-the-Land-Use: 
+  - text: All properties in Florida are required to have a designated land use pursuant to State Law. The land use determines the type of development that may be allowed on each parcel. The land use for a particular parcel in question can be found by clicking here.
+  utter_nlu-faq-clay-country-b1/How-to-make-a-Land-Use-change: 
+  - text: Land use amendment applications are available online at [https://www.claycountygov.com/Home/ShowDocument?id=4036](https://www.claycountygov.com/Home/ShowDocument?id=4036). Prior to submitting a land use application, the applicant must schedule a pre-application conference with Planning staff to discuss the proposed change.
+  utter_nlu-faq-clay-country-b1/Where-do-we-apply-for-Alarm-permits: 
+  - text: Planning and Zoning Division located at 477 Houston Street 3rd Floor, Green Cove Springs, FL 32043. You can download an application from the zoning section of the website www.claycountygov.com under zoning applications and mail the application to Clay County Planning and Zoning DivisionP.O. Box 1366Green Cove Springs, FL 32043. Fee for alarm permit is $35.00 check made payable to CCBOCC.
+  utter_nlu-faq-clay-country-b1/how-do-i-find-out-if-a-lot-is-buildable: 
+  - text: Provide the parcel or address information of the property to the Planning and Zoning Division in order to research and determine whether a lot is buildable.
+  utter_nlu-faq-clay-country-b1/What-are-my-setbacks-on-my-property: 
+  - text: Setbacks depend on the zoning of the property. You can contact the Planning & Zoning Division at (904)278-4705, email at clay.zoning@claycountygov.com to inquire about the zoning of the property and the setbacks.
+  utter_nlu-faq-clay-country-b1/how-do-i-pull-a-permit-on-my-home: 
+  - text: Submit a completed, signed and notarized, building permit application along with the following documentation: A copy of the recorded deed showing ownership of the property. You can obtain a copy of the deed from the Recording Department in the Clay County Courthouse or by visiting the Clerk of the Court's website at www.clayclerk.com. Two (2) sets of plans for the garage or accessory structure. A survey or plot plan, no larger than 8' by 14', showing the location of the proposed addition and the actual dimensions showing the placement of the structure from all property boundaries. If you are building an addition on property served by a septic system, please contact the Clay County Health Department to see if a septic tank permit is required. The Health Department can be reached at (904) 278-3784. Notes: A Notice of Commencement will be required on any job with a value equal to or greater than $2,500.00. Please bring a picture identification, such as a drivers license, if you require the services of a notary.
+  utter_nlu-faq-clay-country-b1/How-do-I-change-a-contractor-on-an-existing-permit: 
+  - text: You would submit a new permit application with the new contractor information provided and amend the original permit.
+  utter_nlu-faq-clay-country-b1/Who-needs-to-sign-the-permit-application: 
+  - text: The application must be signed by the contractor and the owner, or contractor can sign as the owners agent.
+  utter_nlu-faq-clay-country-b1/Who-do-I-call-for-permitting-and-zoning-questions: 
+  - text: Call 904-269-6300 and ask for building or zoning.
+  utter_nlu-faq-clay-country-b1/How-much-does-my-building-permit-cost: 
+  - text: The fees vary based on the size and type of project, but a minimum Building Permit fee is $50. You can find fees here: [https://www.claycountygov.com/Home/ShowDocument?id=252](https://www.claycountygov.com/Home/ShowDocument?id=252)
+  utter_nlu-faq-clay-country-b1/What-happens-after-the-building-permit-is-issued: 
+  - text: Construction can begin and inspections performed at predetermined intervals.
+  utter_nlu-faq-clay-country-b1/Will-I-need-a-building-permit-for-my-garage: 
+  - text: The 6th Edition Florida Building Code states:\n\n [A] 105.1 Required. Any owner or owner's authorized agent who intends to construct, enlarge, alter,\n\nrepair, move, demolish or change the occupancy of a building or structure, or to erect, install, enlarge,\n\nalter, repair, remove, convert or replace any impact-resistant coverings, electrical, gas, mechanical or\n\nplumbing system, the installation of which is regulated by this code, or to cause any such work to be\n\nperformed, shall first make application to the building official and obtain the required permit.
+  utter_nlu-faq-clay-country-b1/Do-you-help-Veterans-with-rent-or-utility-bills: 
+  - text: For Homeless Veterans: Call 1-877-424-3838 for assistance or contact Chris Shuman (904) 654-9511. For help with rent or utility bills: Contact 211 or contact the local VFW/AL/DAV offices.
+  utter_nlu-faq-clay-country-b1/Do-you-provide-transportation-to-the-VA-Medical-Center-in-Gainesville-or-Lake-City: 
+  - text: Contact Jacksonville Outpatient Clinic Transportation Office at (904) 475-6294 for rides to Lake City or Gainesville. The bus for Gainesville leaves every day. Lake City are reservations only.
+  utter_nlu-faq-clay-country-b1/Where-do-I-get-a-VA-ID-card: 
+  - text: No, you can get a VA Healthcare ID card at the your closet VA (Jacksonville Outpatient Clinic/St Augustine Outpatient\n\nClinic/ and or Malcom Randall VA Center in Gainesville, Florida.) Retired Military ID cards are issued from NAS Jacksonville or Mayport Naval Station. If you are 100% permanent & total disabled, Contact local VSO office at (904) 269-6326.
+  utter_nlu-faq-clay-country-b1/Where-do-you-find-Clay-Countys-tax-exemption-certificate: 
+  - text: A current tax exemption certificate can be found under the exemption certificate tab located at: http://www.claycountygov.com/departments/purchasing-division/vendor-information
+  utter_nlu-faq-clay-country-b1/Where-are-awarded-bids-listed: 
+  - text: Information on Awarded bids can be found under the BCC Bid Tabs, Current Bids, Intent Bids & Rejection bids tab found at: http://www.claycountygov.com/departments/purchasing-division/bcc-bid-tabs-current-bids-intent-bids-rejection-bids
+  utter_nlu-faq-clay-country-b1/where-can-i-find-bccs-recent-bids: 
+  - text: Information on Awarded bids can be found under the BCC Bid Tabs, Current Bids, Intent Bids & Rejection bids tab found at: http://www.claycountygov.com/departments/purchasing-division/bcc-bid-tabs-current-bids-intent-bids-rejection-bids
+  utter_nlu-faq-clay-country-b1/Where-do-I-dispose-of-tires: 
+  - text: Tires are not collected curbside and must be dropped off to ECC or Rosemary Hill SWMF. The limit is 4 passenger tires for residential use. Over the Road (OTR) tires for commercial and residential must go to Rosemary Hill SWMF.
+  utter_nlu-faq-clay-country-b1/how-do-I-dispose-of-hazardous-waste: 
+  - text: Dispose at the Household Hazardous Waste Center for proper disposal. This includes: Batteries, electronics, motor oil, oil filters, paints, pesticides, pool chemicals, propane tanks. This is for household materials only, business/commercial waste is not accepted. There is a 25 gallon limit per day. The ECCs can accept 5 gallons of batteries, electronics, motor oil, and oil filters. ECCs cannot accept chemicals, paint, or pesticides.
+  utter_nlu-faq-clay-country-b1/How-can-I-dispose-of-my-boat: 
+  - text: Deliver to Rosemary Hill Solid Waste Management Facility with the boat cut in 6 pieces with the fuel and oil removed from the motor. The motor and large trailer will be disposed in large metals, the oil and fuel can be disposed to HHW Center, and boat sections are disposed to transfer station.
+  utter_nlu-faq-clay-country-b1/Where-do-I-dispose-of-appliances: 
+  - text: Call ADS at (904) 695-0500 to schedule collection and make sure the item is placed out by 6 a.m. on pickup day, appliance is empty, and door is removed or secured.
+  utter_nlu-faq-clay-country-b1/Who-can-I-contact-to-remove-large-appliances: 
+  - text: Large appliances and water heaters are picked up by request. Please call ADS at (904) 695-0500 to schedule collection. Please make sure appliances are empty and all food, clothes, etc. are out. Please remove or secure the doors on freezers and refrigerators.
+  utter_nlu-faq-clay-country-b1/Where-can-I-launch-my-boat-in-Clay-County: 
+  - text: There are over 10 boat launches in Clay County. For a list of locations and addresses please visit: http://www.claycountygov.com/departments/parks-and-recreation/boat-ramps
+  utter_nlu-faq-clay-country-b1/Where-can-I-launch-my-kayak: 
+  - text: Currently, you can launch a kayak at Blake Creek Ravines, Camp Chowenwaw, or Jennings State Forest. The list and addresses can be found at http://www.claycountygov.com/departments/parks-and-recreation/boat-ramps There are plans for more launch sites to be added in the future. Periodically check our website for updates.
+  utter_nlu-faq-clay-country-b1/Where-can-I-find-a-list-of-pet-friendly-parks: 
+  - text: Clay County has over 20 pet friendly parks for you and your furry friend to enjoy. For a list of parks & location, visit http://www.claycountygov.com/departments/parks-and-recreation/parks
+  utter_nlu-faq-clay-country-b1/What-facilities-can-I-rent: 
+  - text: Clay County has multiple rental facilities at various prices and occupancy. To rent J.P Hall Building at the Fairgrounds, Hunter Douglas Building, or the Historic Courthouse, please contact (904) 284-6378 x 2. To reserve online, please submit a request at https://claycountyfl.mycusthelp.com/WEBAPP/_rs/RequestOpen.aspx?rqst=23. Additional rental facilities include Camp Chowenwaw and Fairgrounds. For information on Lodging and Meeting Rentals at Camp Chow, please visit: http://www.claycountygov.com/departments/parks-and-recreation/camp-chowenwaw-park.For information on renting the Fairgrounds, please visit: http://www.claycountygov.com/departments/fairgrounds.
+  utter_nlu-faq-clay-country-b1/How-can-I-rent-a-field: 
+  - text: To rent a multi-purpose field, please contact (904) 284-6378 x 2 to learn about field availability and to reserve a date. Available fields are Moody Park (2) and Thunderbolt Park (2). Rental fee is $25 per hr. A Certificate of Insurance is required for all reservations/events where any organized sports will be played. To print off a reservation form, please visit http://www.claycountygov.com/departments/parks-and-recreation/forms
+  utter_nlu-faq-clay-country-b1/Where-can-I-rent-a-pavillion: 
+  - text: Clay County has three parks where you can rent pavilions. Foxmeadow (1), Moody Avenue Park (1), Ronnie Van Zant (2).
+  utter_nlu-faq-clay-country-b1/What-is-my-library-PIN: 
+  - text: If you don't have a PIN or can't remember it, please call the Circulation Department at: 541-5814. They will be able to help you.
+  utter_nlu-faq-clay-country-b1/How-do-I-place-holds-at-the-library-online: 
+  - text: When you visit our website, http://www.ccpl.lib.fl.us/, please click on the "Search the Catalog" link. Once you have found the book that you want to place a hold request, please look for the "I Need Material" button and click on it. The next page will have "ILL Book Request", "Recommend Items", "Place Hold Request", and "Cancel Hold Request" links. Click on the "Place Hold Request" link. You will see a form for you to fill out. It will ask you at which library you wish to pick the material up and your ID (your barcode number). The Call Number box and the Item ID box will be filled in. When you have finished entering your information in the two boxes, click on the "Send" button. You will be notified when the material is ready for you to pick up.
+  utter_nlu-faq-clay-country-b1/Is-there-a-leash-law-for-cats-in-Clay-County: 
+  - text: No, cats are allowed to roam freely outdoors in Clay County. We recognize there are a lot of outdoor pet cats and outdoor community cats in our area. We encourage responsible care of outdoor cats ensuring that they are spayed or neutered and current on their vaccinations. Please call us if you find an injured or ill cat but healthy outdoor cats do not need to come to the shelter. CLICK HERE to report a stray animal.
+  utter_nlu-faq-clay-country-b1/Do-you-have-horses-available-for-adoption: 
+  - text: We only take in owner surrender dogs and cats, so all of the horses and livestock we receive are either cruelty cases or strays. All horses and livestock are auctioned through the Clay County Sheriff's Office once they are available.Information on upcoming auctions will be in the newspaper and on our Facebook page.
+  utter_nlu-faq-clay-country-b1/Where-can-I-get-affordable-veterinary-care-for-my-pet: 
+  - text: Luckily, there are several affordable veterinary clinics in Northeast Florida. Here is a listing of some in our area: Clay Humane Society Animal Clinic, Inc.2230 Filmore Street, Orange Park, FL 32073904-276-7729www.clayhumane.org Wells Road Vet Clinic1447 Wells RoadOrange Park, FL 32073904-278-0600 Maverick Animal Hospital404 Madison Avenue, Orange Park, FL 32065, 904-276-8101 First Coast No More Homeless Pets6817 Norwood Avenue, Jacksonville, FL 32208,904-425-0005, www.fcnmhp.org Jacksonville Humane Society Community Animal Hospital8464 Beach Blvd, Jacksonville, FL 32216, 904-725-8766www.jaxhumane.org River City Community Animal HospitalMobile Clinic, 904-733-8123www.RCCAH.org
+  utter_nlu-faq-clay-country-b1/where-can-I-find-lost-pets: 
+  - text: Make Lost Animal flyers and distribute them around your neighborhood and any local veterinary clinics. Post a picture and information on some of the local classified and social media sites. Craigslist under the Lost and Found and Pets sections, Lost and Found Pets of NE Florida on Facebook, Pet Classifieds and Swip Swap pages in your area. Email or bring CCACC a flyer for our Lost and Found book. Make sure to come and walk through our shelter on a regular basis because your description and our description of your pet may be very different.
+  utter_nlu-faq-clay-country-b1/Where-and-when-does-the-Board-of-County-Commissioners-meet: 
+  - text: Unless otherwise noticed, the Board of County Commissioners meets on the second and fourth Tuesday of the month at 4:00 p.m. in the Boards Meeting Room on the fourth floor of the Administration Building Administration Building477 Houston StreetGreen Cove Springs, Florida.
+  utter_nlu-faq-clay-country-b1/where-can-I-watch-county-meetings: 
+  - text: Yes. The meetings can viewed on Comcast Channel 260. Meetings can also be viewed online at http://www.claycountygov.com/about-us/clay-county-tv-and-video-archive
+  utter_nlu-faq-clay-country-b1/How-can-I-get-a-copy-of-the-video-or-audio-tape-of-the-BCC-meetings: 
+  - text: A DVD or audio CD of BCC Meetings can be obtained by emailing publicrecords@claycountygov.com or call 904-278-4754. 0.15 each for single sided no larger than 8 1/2" x 14" 0.20 each for double sided no larger than8 1/2" x 14" $1.00 for a certified copy of a public record\n\n $1.00 for audio CDs\n\n $2.00 for DVDs\n\n Cost of postage and packaging if necessary.Please refer to the Records Request Policy below for other applicable fees.
+  utter_nlu-faq-clay-country-b1/How-can-I-address-my-concerns-at-the-Board-meeting: 
+  - text: The Board accepts public comment on any issue on its agenda. You must fill out a speaker card available on the table as you enter the Boards Meeting Room and give it to either the recording secretary or the administrative assistant. The Chairman of the Board will call on you when the Board is ready to receive public comments. A time certain may also be scheduled with the approval of the Chairman. Call the Administrative Assistant at (904) 284/269-6347 to obtain approval for a time certain to address the Board.
+  utter_nlu-faq-clay-country-b1/How-can-I-apply-for-multiple-positions-at-the-county: 
+  - text: The online application system allows the user to create a basic profile which is saved for future use. You will need to individually select the various positions for which you wish to apply.
+  utter_nlu-faq-clay-country-b1/I-am-having-a-sewage-problem: 
+  - text: Clay County Utility Authority (CCUA) has the responsibility of handling water and household sewage issues. They can be reached at 272-5999.
+  utter_nlu-faq-clay-country-b1/What-roads-are-maintained-by-the-county: 
+  - text: Click on this link: http://maps.claycountygov.com/roadmaint If you receive a disclaimer, click ok to gain access to the web viewer. You will be able to search by road name or zoom to the area in question. Refer to the legend to determine the maintenance entity.
+  utter_nlu-faq-clay-country-b1/Does-the-county-maintain-my-driveway: 
+  - text: The county does not maintain private driveways. In 2011, the Board of County Commissioners adopted and passed ordinance 2011-9 which turned over responsibility of driveway maintenance to private homeowners. Please see the link below to view the ordinance. We do address the edge of county maintained paved road to preserve the integrity of the asphalt. If a problem exist at the edge of the paved road, please submit a maintenance request for one of our Area Managers to access the problem. Ordinance 2011-9
+  utter_nlu-faq-clay-country-b1/How-do-I-sign-up-to-receive-emergency-notifications: 
+  - text: You can sign up to receive emergency notifications by visiting the ALERT Clay County webpage at [https://member.everbridge.net/index/892807736724641#/signup](https://member.everbridge.net/index/892807736724641#/signup)
+  utter_nlu-faq-clay-country-b1/Where-can-I-see-a-map-of-the-countys-evacuation-zones: 
+  - text: You can view and/or download a map of Clay County's evacuation zones [http://public.claycountygov.com/evaczone/](http://public.claycountygov.com/evaczone/).
+  utter_nlu-faq-clay-country-b1/Where-can-I-get-flood-insurance: 
+  - text: Please visit the National Flood Insurance Plan website at [https://www.fema.gov/national-flood-insurance-program](https://www.fema.gov/national-flood-insurance-program)
+  utter_nlu-faq-clay-country-b1/what-to-bring-to-camp-chowenwaw-park-for-camping: 
+  - text: Outside:\n\n- Wagons to transport belongings:limited number available on site\n\n- Firewood from a 50 mile radius: burn or remove unused wood\n\n- Charcoal for grills\n\n- Skewers for roasting marshmallows, hotdogs (do not use branches)\n\n- Insect repellent\n\n- Flashlights or other safe lighting\n\n- Tents for campgrounds: no larger than 14"x 14" for wooden platforms or 12" x 18" on pads or on the ground total size for combination of tents\n\nCabins:\n\n- Sleeping Bags\n\n- Sheets, blankets, pillows\n\n- Fans\n\nBathhouses:\n\n- Towels and washcloths\n\n- Shower Shoes\n\n- Soap, shampoo, etc.\n\nDining Halls/Kitchens\n\n- All utensils, pots, pans, plates, cups (no glass!)\n\n- Dish soap, dish pan, sponges, towels, etc.
+  utter_nlu-faq-clay-country-b1/Does-the-Board-of-County-Commissioners-have-labor-unions: 
+  - text: Yes. Presently, the Board of County Commissioners has two labor unions representing approximately 50% of the County overall workforce. The labor agreements are administered by the County's Human Resources Division. International Association Firefighters Local 3362 - Rank and File Unit\n\nInternational Association Firefighters Local 3362 Battalion Chiefs Unit\n\nRetail, Wholesale and Department Store Union
+  utter_nlu-faq-clay-country-b1/How-frequently-are-Board-of-County-Commissioners-employees-paid: 
+  - text: The County generates a bi-weekly payroll for all of its employees.
+  utter_nlu-faq-clay-country-b1/What-events-can-I-host-at-the-fairgrounds: 
+  - text: Weddings, parties/banquets, beauty pageant, home show/home and garden show, job fair, flower show, wedding show, horse shows, rodeo, dog shows, gun shows, 4-H, Boy Scouts/Girl Scouts, antique show, flea market, RV hookups/show, music concerts
+  utter_nlu-faq-clay-country-b1/fairground-event-booking: 
+  - text: Parks and Recreation Office: 904-284-6378, option #2.
+  utter_nlu-faq-clay-country-b1/How-can-I-find-out-what-the-current-water-levels-are-in-my-area: 
+  - text: The Bureau of Water Resources provides the information for monthly precipitation, water levels and potent ionmetric water surface levels in our area. To view the latest water levels visit Claycountygov.com
+  utter_nlu-faq-clay-country-b1/What-do-I-need-to-develop-a-structure-in-a-flood-plain: 
+  - text: For development which is not regulated by the Florida Building Code, a Floodplain Permit application will be the primary application. For development which must comply with the Florida Building Code, the Floodplain Permit review and approval process must precede an application for a building permit. Development of multiple building sites, whether or not approved through the County's Subdivision approval process, will be required to obtain a Floodplain permit prior to development of any of the lots. For more information visit the Clay County website or contact the Clay County Floodplain Manager by telephone at (904)529/541-3825.
+  utter_nlu-faq-clay-country-b1/How-can-I-obtain-an-Elevation-Certificate-for-floodplain-development-permits: 
+  - text: To review the process on how to obtain an Elevation Certificate/Floodplain Permit, please visit the Clay County Website or contact the Clay County Floodplain Manager by telephone at (904)529/541-3825.
+  utter_nlu-faq-clay-country-b1/Where-can-I-get-a-copy-or-view-the-FEMA-map-for-my-area: 
+  - text: FEMA Maps and FEMA Flood Zone Maps can be located on the Clay County Website under the Zoning Department.
+  utter_nlu-faq-clay-country-b1/What-is-the-elevation-of-my-property: 
+  - text: You can visit the Clay County website to view the Interactive Flood/Elevation Search, under the Zoning Department.
+  utter_nlu-faq-clay-country-b1/How-can-I-protect-my-home-from-flooding: 
+  - text: There are many things you can do, depending on the flood hazard in your area, the characteristics of your property, and the zoning and building codes in your community. For more information visit floodsmart.gov
+  utter_nlu-faq-clay-country-b1/How-can-I-find-more-information-on-flood-insurance: 
+  - text: Clay County participates in the National Flood Insurance Program, which makes federally-backed flood insurance available to all residents and property owners. If you live in a flood zone it is recommended that you purchase flood insurance to protect your home. For more information visit floodsmart.gov
+  utter_nlu-faq-clay-country-b1/How-can-I-make-zoning-payment-fees-online: 
+  - text: Online payments for Building, Zoning and Planning Fees can be made on the Clay County website under the Building Department. You can also contact the Building Department at 904-529-5394 for any questions.\n\nTO AVOID DUPLICATE PAYMENTS, PLEASE DO NOT CLICK SUBMIT PAYMENT MORE THAN ONCE.
+  utter_nlu-faq-clay-country-b1/How-do-I-search-for-permits: 
+  - text: You can search for permits using the Clay County Permits Search located on the Clay County website under the Building Department. You can also contact the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/How-do-I-schedule-an-online-inspection: 
+  - text: To schedule an online inspection, please visit our webpage at: http://www.claycountygov.com/departments/building/online-inspections
+  utter_nlu-faq-clay-country-b1/How-do-i-schedule-an-inspection-online: 
+  - text: To schedule an online inspection, please visit our webpage at: http://www.claycountygov.com/departments/building/online-inspections
+  utter_nlu-faq-clay-country-b1/What-permits-do-I-need-to-build-a-garage: 
+  - text: To review the application process for obtaining a Garage and/or Accessory Structure Permit, please visit the Clay County website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/How-do-I-obtain-a-mobile-home-moveon-permit: 
+  - text: To review the application process for obtaining a Mobile Home Move-On Permit, please visit the Clay County website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/How-do-I-obtain-a-pool-permit: 
+  - text: To review the application process for obtaining a Pool Permit, please visit the Clay County website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/How-do-I-obtain-a-residential-addition-permit: 
+  - text: To review the process for obtaining a Residential Addition Permit, please visit Clay County website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/residential-addition-permit-information: 
+  - text: To review the process for obtaining a Residential Addition Permit, please visit Clay County website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/How-do-I-obtain-a-roofing-permit: 
+  - text: To review the application process for obtaining a Roofing Permit, please visit Clay County website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/How-do-I-obtain-a-sign-permit: 
+  - text: To review the application process for obtaining a Sign Permit, please visit Clay County website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/How-do-I-obtain-a-commercial-permit: 
+  - text: You can review the application process for Commercial Permits on the Clay County Website or call the Building Department at 904-529-5394.
+  utter_nlu-faq-clay-country-b1/How-much-is-a-building-permit-fee: 
+  - text: The fees vary based on the size and type of project, but a minimum Building Permit fee is $50. For more information please visit the Clay County Website.
+  utter_nlu-faq-clay-country-b1/Where-can-I-find-information-about-county-elections: 
+  - text: You can find information by visiting the Clay County Supervisor of Elections office or by calling 904-529-5294
+  utter_nlu-faq-clay-country-b1/Where-can-I-find-information-on-the-value-of-my-property: 
+  - text: You can find this information by visiting the Clay County Property Appraiser's office or by calling 904-278-3736.
+  utter_nlu-faq-clay-country-b1/Where-can-I-find-accident-reports-and-arrest-records: 
+  - text: You can find accident reports and arrest records by visiting the Clay County Sheriffs Office or calling 904-213-6090.
+  utter_nlu-faq-clay-country-b1/Where-can-I-get-civil--criminal-records: 
+  - text: You can find these records by visiting the Clay County Clerks office or calling 904-284-6314.
+  utter_nlu-faq-clay-country-b1/Where-can-I-find-the-Clay-County-public-records-policy: 
+  - text: The public records policy can be found on the Clay County website.
+  utter_nlu-faq-clay-country-b1/What-Hotels-are-in-Orange-Park: 
+  - text: Courtyard by Marriott, Fairfield by Marriott, Hampton Inn Orange Park, Hilton Garden Inn, Holiday Inn and Suite, Astoria Hotel, Intown Suites and Stay Suites.
+  utter_nlu-faq-clay-country-b1/Are-there-any-RV-campgrounds-in-Clay-County: 
+  - text: RV Camping is available at the Clay County Fairgrounds, Goldhead State Park and Whitey's Fish Camp
+  utter_nlu-faq-clay-country-b1/Where-is-the-Courtyard-by-Marriott: 
+  - text: Courtyard by Marriott is located at 610 Wells Rd, Orange Park Fl, 32073
+  utter_nlu-faq-clay-country-b1/Where-is-Gold-Head-State-Park: 
+  - text: Gold Head State Park is located at 6239 State Rd 21, Keystone Heights, FL 32656
+  utter_nlu-faq-clay-country-b1/Where-is-Bayard-Conservation-Area: 
+  - text: Bayard Conservation Area is located at FL-16, Green Cove Springs, FL 32043
+  utter_nlu-faq-clay-country-b1/What-is-the-address-of-Jennings-State-Forest: 
+  - text: Hammock Campground at Jennings State Forest is located at 1337 Long Horn Road, Middleburg FL 32068
+  utter_nlu-faq-clay-country-b1/Whiteys-Fish-Camp: 
+  - text: Whitey’s Fish Camp is located at 2032 County Rd 220, Fleming Island, FL 32003.
+  utter_nlu-faq-clay-country-b1/When-does-Clay-County-Animal-Shelter-Open: 
+  - text: "Tuesday 10 a.m.- 4 p.m.\nWednesday 10 a.m.- 4 p.m.\nThursday 12-6 p.m.\nFriday 10 a.m.- 4 p.m.\nSaturday 10 a.m.- 3 p.m.\n***Animal Intake Closes at 2 p.m. Each Business Day**"
+  utter_nlu-faq-clay-country-b1/Who-are-the-County-Commissioners:
+  - text: The County Commissioners are Mike Cella, Wayne Bolla, Jim Renninger, Betsy Condon, and Kristen Burke. For more information, please visit https://www.claycountygov.com/government/board-of-county-commissioners 
+  utter_nlu-faq-clay-country-b1/Who-is-on-the-Board-of-County-Commissioners:
+  - text: The County Commissioners are Mike Cella, Wayne Bolla, Jim Renninger, Betsy Condon, and Kristen Burke. For more information, please visit https://www.claycountygov.com/government/board-of-county-commissioners 
+   utter_nlu-faq-clay-country-b1/What-are-the-hours-for-the-Rosemary-Hill-Solid-Waste-Management-Facility:
+  - text: The Rosemary Hill Solid Waste Management Facility is open Monday through Saturday, 7:30 a.m. to 5:30 p.m. The facility is closed on New Year’s Day, Thanksgiving, and Christmas. More information is located at https://www.claycountygov.com/community/garbage-and-recycling/facilities 
+   utter_nlu-faq-clay-country-b1/Where-can-I-drop-off-recycling:
+  - text: The county has 5 Recycling drop off locations that are 24hr/7d and 5 alternate locations. To see locations and times please visit https://www.claycountygov.com/community/garbage-and-recycling/facilities 
+   utter_nlu-faq-clay-country-b1/How-do-I-report-a-stray-animal:
+  - text: To report a stray animal please submit a stray animal report below myservices.claycountygov.com 
+   utter_nlu-faq-clay-country-b1/How-do-I-report-a-tree-trim-or-overgrown-brush:
+  - text: Public Works routinely trims back trees and brush in the rights-of-way along vacant lots in Clay County. If you see overgrowth that requires attention—especially if it is blocking visibility at an intersection, obstructing motorists' view of a stop or traffic control sign, or impeding the flow of traffic—please log in to submit a service request here myservices.claycountygov.com 
+   utter_nlu-faq-clay-country-b1/I-need-to-request-a-tree-trim:
+  - text: Public Works routinely trims back trees and brush in the rights-of-way along vacant lots in Clay County. If you see overgrowth that requires attention—especially if it is blocking visibility at an intersection, obstructing motorists' view of a stop or traffic control sign, or impeding the flow of traffic—please log in to submit a service request here myservices.claycountygov.com 
+   utter_nlu-faq-clay-country-b1/When-will-my-road-by-graded:
+  - text: Streets and Drainage Division currently completes a grading cycle in approximately 3 weeks. Of course, there are a lot of variables involved in staying on that schedule. Weather, illnesses, equipment failure, holidays, and road conditions all play a part in altering our cycle, but barring these unforeseen circumstances, your road should be graded about every 3 weeks. \n To report a severe problem, please submit a request at myservices.claycountygov.com 
+  

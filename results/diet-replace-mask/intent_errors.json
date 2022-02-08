@@ -1,0 +1,314 @@
+[
+  {
+    "text": "Do I need a permit to open my garage?",
+    "intent": "nlu-faq-clay-country-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-weho-parking-b1",
+      "confidence": 0.9401345252990723
+    }
+  },
+  {
+    "text": "good afternoon",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.36964312195777893
+    }
+  },
+  {
+    "text": "have a nice day",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "nlu-faq-utah-adult",
+      "confidence": 0.8326034545898438
+    }
+  },
+  {
+    "text": "indeed",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.26480135321617126
+    }
+  },
+  {
+    "text": "correct",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8368561267852783
+    }
+  },
+  {
+    "text": "never",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5213893055915833
+    }
+  },
+  {
+    "text": "no way",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4204932749271393
+    }
+  },
+  {
+    "text": "extremely good",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.6067099571228027
+    }
+  },
+  {
+    "text": "so good",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.45686912536621094
+    }
+  },
+  {
+    "text": "I don't feel very well",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6974469423294067
+    }
+  },
+  {
+    "text": "I am disappointed",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "nlu-faq-utah-adult",
+      "confidence": 0.6624128222465515
+    }
+  },
+  {
+    "text": "How long is the course?",
+    "intent": "nlu-faq-utah-adult",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8391451239585876
+    }
+  },
+  {
+    "text": "I have a foreign diploma, how do I find a foreigner's foreigner certificate?",
+    "intent": "nlu-faq-utah-adult",
+    "intent_prediction": {
+      "name": "nlu-faq-clay-country-b1",
+      "confidence": 0.5142892003059387
+    }
+  },
+  {
+    "text": "Where can I create a new Account?",
+    "intent": "nlu-faq-weho-parking-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-clay-country-b1",
+      "confidence": 0.8503891229629517
+    }
+  },
+  {
+    "text": "What are some rules and instructions you need to follow on a road?",
+    "intent": "nlu-faq-weho-parking-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-clay-country-b1",
+      "confidence": 0.9999853372573853
+    }
+  },
+  {
+    "text": "What are some rules or instructions I must follow on the road?",
+    "intent": "nlu-faq-weho-parking-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-clay-country-b1",
+      "confidence": 0.9987217783927917
+    }
+  },
+  {
+    "text": "Does it impose the need for helmets on employees?",
+    "intent": "nlu-faq-weho-parking-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-clay-country-b1",
+      "confidence": 0.9986984729766846
+    }
+  },
+  {
+    "text": "How can I get soil tested?",
+    "intent": "nlu-faq-clay-country-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-utah-adult",
+      "confidence": 0.9338881969451904
+    }
+  },
+  {
+    "text": "Is there any map that will work for a local or national park?",
+    "intent": "nlu-faq-clay-country-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-weho-parking-b1",
+      "confidence": 0.5763696432113647
+    }
+  },
+  {
+    "text": "Do you have horses for sale if you've got one?",
+    "intent": "nlu-faq-clay-country-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-weho-parking-b1",
+      "confidence": 0.713513970375061
+    }
+  },
+  {
+    "text": "Where can I get highly experienced veterinary care for my dog?",
+    "intent": "nlu-faq-clay-country-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-utah-adult",
+      "confidence": 0.9780559539794922
+    }
+  },
+  {
+    "text": "What permits do I need to construct a garage?",
+    "intent": "nlu-faq-clay-country-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-weho-parking-b1",
+      "confidence": 0.9977952241897583
+    }
+  },
+  {
+    "text": "hi",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3341367542743683
+    }
+  },
+  {
+    "text": "moin",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.32236728072166443
+    }
+  },
+  {
+    "text": "let's go",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "nlu-faq-utah-adult",
+      "confidence": 0.9310412406921387
+    }
+  },
+  {
+    "text": "good by",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6954045295715332
+    }
+  },
+  {
+    "text": "good night",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7955259084701538
+    }
+  },
+  {
+    "text": "of course",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "nlu-faq-utah-adult",
+      "confidence": 0.9978067278862
+    }
+  },
+  {
+    "text": "that sounds good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8096702694892883
+    }
+  },
+  {
+    "text": "not really",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9626287817955017
+    }
+  },
+  {
+    "text": "I am going to save the world",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "nlu-faq-utah-adult",
+      "confidence": 0.9310867190361023
+    }
+  },
+  {
+    "text": "super stoked",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8143839240074158
+    }
+  },
+  {
+    "text": "my day was horrible",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "nlu-faq-utah-adult",
+      "confidence": 0.57864910364151
+    }
+  },
+  {
+    "text": "What are the different tests?",
+    "intent": "nlu-faq-utah-adult",
+    "intent_prediction": {
+      "name": "nlu-faq-clay-country-b1",
+      "confidence": 0.9957770109176636
+    }
+  },
+  {
+    "text": "What are the rules of an organized schedule?",
+    "intent": "nlu-faq-utah-adult",
+    "intent_prediction": {
+      "name": "nlu-faq-weho-parking-b1",
+      "confidence": 0.8531087636947632
+    }
+  },
+  {
+    "text": "Is online schooling worth it?",
+    "intent": "nlu-faq-utah-adult",
+    "intent_prediction": {
+      "name": "nlu-faq-clay-country-b1",
+      "confidence": 0.9689781069755554
+    }
+  },
+  {
+    "text": "Is it possible to use my permit in different cities across the nation?",
+    "intent": "nlu-faq-weho-parking-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-clay-country-b1",
+      "confidence": 0.8907012939453125
+    }
+  },
+  {
+    "text": "How do I get visitor passes from the U.S. or Canadian government?",
+    "intent": "nlu-faq-weho-parking-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-utah-adult",
+      "confidence": 0.9622240662574768
+    }
+  },
+  {
+    "text": "Hancock garage has some of the best garage doors and accessories in the world.",
+    "intent": "nlu-faq-weho-parking-b1",
+    "intent_prediction": {
+      "name": "nlu-faq-clay-country-b1",
+      "confidence": 0.9740163683891296
+    }
+  }
+]

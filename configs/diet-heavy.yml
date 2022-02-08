@@ -1,0 +1,51 @@
+recipe: default.v1
+language: en
+pipeline:
+- name: HFTransformersNLP
+  model_weights: "bert-base-uncased"
+  model_name: "bert"
+- name: LanguageModelTokenizer
+- name: LanguageModelFeaturizer
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
+  min_ngram: 1
+  max_ngram: 4
+- name: CountVectorsFeaturizer
+- name: DIETClassifier
+  epochs: 100
+  num_transformer_layers: 4
+  transformer_size: 256
+  use_masked_language_model: True
+  drop_rate: 0.25
+  weight_sparsity: 0.7
+  batch_size: [64, 256]
+  embedding_dimension: 30
+  hidden_layer_sizes:
+    text: [512, 128]
+- name: ResponseSelector
+  epochs: 100
+  retrieval_intent: nlu-faq-utah-adult 
+
+- name: ResponseSelector
+  epochs: 100
+  retrieval_intent: nlu-faq-clay-country-b1
+
+- name: ResponseSelector
+  epochs: 100
+  retrieval_intent: nlu-faq-weho-parking-b1
+
+
+- name: FallbackClassifier
+  threshold: 0.75
+  ambiguity_threshold : 0.1
+
+
+policies:
+- name: TEDPolicy
+  max_history: 10
+  epochs: 20
+  batch_size:
+  - 32
+  - 64
+- name: MemoizationPolicy
+- name: RulePolicy

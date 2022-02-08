@@ -1,0 +1,140 @@
+version: "3.0" 
+intents: 
+  - nlu-faq-weho-parking-b1
+responses:
+  utter_nlu-faq-weho-parking-b1/Source-httpswwwwehoorgcitygovernmentcitydepartmentspublicworksparkingservicesparkingpermitsfrequentlyaskedquestions: 
+  - text: nan
+  utter_nlu-faq-weho-parking-b1/How-much-does-a-parking-permit-cost: 
+  - text: For more information on the pricing and costs of a Parking Permit, please visit our site. https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits
+  utter_nlu-faq-weho-parking-b1/How-do-I-register-for-a-Residential-Parking-Permit-account-in-order-to-obtain-Visitor-Permits-through-the-PermitbyPlate-system: 
+  - text: To register for a Residential Parking Permit account, please see our site. After registration, you will be able to obtain a Visitor Permit through the Permit-by-Plate system. https://prdwmq.etimspayments.com/pbw/include/weho/rppnewinfo.jsp
+  utter_nlu-faq-weho-parking-b1/How-many-permits-may-be-requested: 
+  - text: The amount of permits that may be requested for most accounts are permits worth 100 points each month, and 25 each day.
+  utter_nlu-faq-weho-parking-b1/How-long-is-a-permit-valid: 
+  - text: You may request a permit that is valid between one and five days. All visitor permits expire at noon the following day. For example, if you request a one-day permit that starts on August 12th, it will expire at noon on August 13th.
+  utter_nlu-faq-weho-parking-b1/How-do-I-request-visitor-permits-if-I-already-have-an-active-Residential-Parking-Permit-account: 
+  - text: If you already have a residential parking permit account and would like to request a visitor permit, please see our site. https://prdwmq.etimspayments.com/pbw/include/vpportal/weho/rpp_login.jsp
+  utter_nlu-faq-weho-parking-b1/What-are-my-options-if-I-would-rather-not-use-PermitbyPlate: 
+  - text: Options rather not use Permit Plate Newly created accounts are only offered as Permit-by-Plate and may not obtain physical temporary Visitor Permits. Accounts created before September 1, 2020, may opt to continue acquiring permits in-person at one of the authorized Visitor Permit pick-up locati
+  utter_nlu-faq-weho-parking-b1/How-can-I-avoid-getting-a-ticket: 
+  - text: To avoid getting a parking ticket, please display a valid parking pass on your vehicle.
+  utter_nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket: 
+  - text: In order to pay a parking ticket or citation, please visit us online at https://prdwmq.etimspayments.com/weho/dev/payment.htm
+  utter_nlu-faq-weho-parking-b1/How-do-I-pay-a-ticket-online: 
+  - text: In order to pay a parking ticket or citation, please visit us online at https://prdwmq.etimspayments.com/weho/dev/payment.htm
+  utter_nlu-faq-weho-parking-b1/May-I-share-my-permit-with-another-motorist-What-about-between-vehicles: 
+  - text: You may not share a permit with another motorist or between vehicles. Resident Decals are only valid when used with the vehicle it is assigned to.
+  utter_nlu-faq-weho-parking-b1/May-Permits-be-Reused: 
+  - text: Permits may be reused for a different vehicle if the permit is valid.
+  utter_nlu-faq-weho-parking-b1/How-do-I-contest-a-ticket: 
+  - text: If you recieved a ticket when you had a valid permit or believe you were improperly cited, you may contest your ticket below https://prdwmq.etimspayments.com/weho/dev/citation.htm
+  utter_nlu-faq-weho-parking-b1/How-do-I-fight-a-ticket: 
+  - text: If you recieved a ticket when you had a valid permit or believe you were improperly cited, you may contest your ticket below https://prdwmq.etimspayments.com/weho/dev/citation.htm
+  utter_nlu-faq-weho-parking-b1/What-permits-are-offered-as-PermitbyPlate: 
+  - text: The City only offers Visitor Permits as Permit-by-plate at the current time
+  utter_nlu-faq-weho-parking-b1/Who-is-eligible-for-Permitby-Plate-Visitor-Permits: 
+  - text: Any verified West Hollywood resident who has an approved Residential Parking Permit account is eligible for Permit-byPlate Visitor Permits
+  utter_nlu-faq-weho-parking-b1/What-if-I-only-need-Visitor-Permits: 
+  - text: If you only need a visitor permit, Apply for a Residential Parking Permit below and indicate you only want Visitor Permits on the application. https://prdwmq.etimspayments.com/pbw/include/weho/rppnewinfo.jsp
+  utter_nlu-faq-weho-parking-b1/How-long-does-it-take-for-a-PermitbyPlate-application-to-be-approved: 
+  - text: It may take up to two weeks for an application to be approved. If you are concerned about your application’s status you may inquire by sending an email to PermitParking@weho.org.
+  utter_nlu-faq-weho-parking-b1/What-if-I-need-a-Visitor-permit-immediately: 
+  - text: If you need a Visitor permit immediately, visit the Kings Road Parking Garage at 8383 Santa Monica Boulevard between the hours of 6pm and 12am.
+  utter_nlu-faq-weho-parking-b1/What-is-the-cost-to-request-Visitor-permits: 
+  - text: Visitor permits are free. However, there are certain restrictions. Please see our FAQ page for more details https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions
+  utter_nlu-faq-weho-parking-b1/How-many-vehicles-may-be-assigned-to-a-permit-at-a-single-time: 
+  - text: Only one vehicle may be assigned to a given permit at one time. However, you may reissue the permit to a different vehicle so long as the permit is still effective and the previous vehicle is no longer utilizing the permit’s privileges.
+  utter_nlu-faq-weho-parking-b1/How-will-Parking-Enforcement-know-I-have-a-permit-if-I-dont-have-a-physical-permit-displayed: 
+  - text: Parking Officers have an up to date list of all valid permits and the license plates to which they are assigned. If an officer finds a vehicle that has a Permit by Plate visitor permit rather than a hang-tag, they will see that the plate is assigned to a valid permit and will not cite the vehicle.
+  utter_nlu-faq-weho-parking-b1/How-do-I-resize-my-PDF-or-other-documents: 
+  - text: You can resize your PDF or other documents by re-saving your file as a reduced size PDF. For more information see our site. https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/frequently-asked-questions
+  utter_nlu-faq-weho-parking-b1/Who-decides-what-areas-become-permit-parking: 
+  - text: The Transportation Commission and the City Council ultimately decide what areas become permit parking.
+  utter_nlu-faq-weho-parking-b1/How-do-I-request-permit-parking-for-my-area: 
+  - text: If you wish to request permit parking in an area, you are required to submit a petition. For more information see our site.
+https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/resident-permit-parking-program
+  utter_nlu-faq-weho-parking-b1/Does-everyone-need-a-parking-permit: 
+  - text: Everyone does not need a parking permit. Only vehicles parked in restricted areas marked by posted signage are required to have permits.
+  utter_nlu-faq-weho-parking-b1/How-do-I-obtain-a-parking-permit: 
+  - text: To get a parking permit, you must be a resident and be able to provide proof of residency. For more information see our link.
+https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits
+  utter_nlu-faq-weho-parking-b1/Can-I-use-my-permit-throughout-the-city: 
+  - text: A permit cannot be used throughout the city. Permits are only valid in a specific district.
+  utter_nlu-faq-weho-parking-b1/Do-I-need-a-permit-if-I-have-a-disabled-persons-placard-issued-by-the-DMV: 
+  - text: If you have a valid disabled placard or license plate, you are exempt from permit parking restrictions.
+  utter_nlu-faq-weho-parking-b1/Where-should-my-guests-park: 
+  - text: Guests should park in the assigned district with a Guest or Visitor permit displayed.
+  utter_nlu-faq-weho-parking-b1/What-should-my-guests-know-when-visiting-during-hours-in-which-permit-parking-regulations-are-enforced: 
+  - text: Guests should know that when parking they need to acquire a pemit and display it quickly.
+  utter_nlu-faq-weho-parking-b1/What-are-permit-fees-used-for: 
+  - text: Permit fees are used to fund the City's permit parking program. Fees go to cover staffing, supplies, materials, postage and signage expenses.
+  utter_nlu-faq-weho-parking-b1/May-I-get-more-than-one-permit-if-I-have-more-than-one-vehicle: 
+  - text: Permits are issued one per licensed driver. You will not need more than one permit for multiple vehicles if the licensed driver is registered
+  utter_nlu-faq-weho-parking-b1/Where-may-I-obtain-a-Visitor-Permit: 
+  - text: You can obtain a Visitor Permit in the office located inside Kings Road Parking or online.https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits/permit-by-plate
+  utter_nlu-faq-weho-parking-b1/I-have-a-permit-and-cant-find-a-parking-space: 
+  - text: A parking permit does not guarantee or reserve a parking space. All parking is on a first-come basis
+  utter_nlu-faq-weho-parking-b1/May-I-purchase-parking-permits-if-I-have-parking-tickets: 
+  - text: If you have unpaid parking tickets, you will not be allowed to purchase a permit.
+  utter_nlu-faq-weho-parking-b1/Where-does-the-Resident-Decal-Permit-get-placed: 
+  - text: The residential parking decal should be placed on the front left windshield of a vehicle.
+  utter_nlu-faq-weho-parking-b1/Who-decides-what-the-parking-regulations-will-be: 
+  - text: Parking regulations are decided on by the Transportation Commission and the City Council.
+  utter_nlu-faq-weho-parking-b1/What-if-I-get-a-ticket-even-though-I-had-a-valid-permit: 
+  - text: If you recieved a ticket when you had a valid permit or believe you were improperly cited, you may contest your ticket belowhttps://prdwmq.etimspayments.com/weho/dev/citation.htm
+  utter_nlu-faq-weho-parking-b1/Does-my-permit-exempt-me-from-street-sweeping-restrictions: 
+  - text: A parking permit does not exempt anyone from street sweeping restrictions.
+  utter_nlu-faq-weho-parking-b1/Where-can-I-create-an-account-to-rent-an-escooter-or-ebike: 
+  - text: E-scooter and e-bike pilot program information can be found on our site at https://www.weho.org/city-government/city-departments/planning-and-development-services/long-range-planning/mobility-planning/dockless-mobility-pilot-program
+  utter_nlu-faq-weho-parking-b1/Where-will-I-be-able-to-pickup-or-park-an-escooter-or-ebike: 
+  - text: E-scooter and e-bike pilot program information can be found on our site at https://www.weho.org/city-government/city-departments/planning-and-development-services/long-range-planning/mobility-planning/dockless-mobility-pilot-program
+  utter_nlu-faq-weho-parking-b1/What-types-of-ebikes-and-escooters-will-be-available: 
+  - text: E-scooter and e-bike pilot program information can be found on our site at https://www.weho.org/city-government/city-departments/planning-and-development-services/long-range-planning/mobility-planning/dockless-mobility-pilot-program
+  utter_nlu-faq-weho-parking-b1/Are-there-any-rules-or-instructions-I-must-follow-on-roads-and-sidewalks: 
+  - text: E-scooter and e-bike pilot program information can be found on our site at https://www.weho.org/city-government/city-departments/planning-and-development-services/long-range-planning/mobility-planning/dockless-mobility-pilot-program
+  utter_nlu-faq-weho-parking-b1/Will-I-be-required-to-wear-a-helmet: 
+  - text: E-scooter and e-bike pilot program information can be found on our site at https://www.weho.org/city-government/city-departments/planning-and-development-services/long-range-planning/mobility-planning/dockless-mobility-pilot-program
+  utter_nlu-faq-weho-parking-b1/Can-anyone-ride-an-escooter-or-ebike: 
+  - text: E-scooter and e-bike pilot program information can be found on our site at https://www.weho.org/city-government/city-departments/planning-and-development-services/long-range-planning/mobility-planning/dockless-mobility-pilot-program
+  utter_nlu-faq-weho-parking-b1/What-if-I-want-to-ride-on-the-sidewalk: 
+  - text: E-scooter and e-bike pilot program information can be found on our site at https://www.weho.org/city-government/city-departments/planning-and-development-services/long-range-planning/mobility-planning/dockless-mobility-pilot-program
+  utter_nlu-faq-weho-parking-b1/Where-can-the-scooters-and-bikes-be-ridden: 
+  - text: E-scooter and e-bike pilot program information can be found on our site at https://www.weho.org/city-government/city-departments/planning-and-development-services/long-range-planning/mobility-planning/dockless-mobility-pilot-program
+  utter_nlu-faq-weho-parking-b1/May-I-ride-an-escooter-or-ebikes-in-a-bike-lane: 
+  - text: E-scooter and e-bike pilot program information can be found on our site at https://www.weho.org/city-government/city-departments/planning-and-development-services/long-range-planning/mobility-planning/dockless-mobility-pilot-program
+  utter_nlu-faq-weho-parking-b1/Contest-impound: 
+  - text: If you dispute that the officer who towed your car had reasonable cause to do so, you may request a hearing within 10 days after the date the Notice of Stored Vehicle was deposited in the U.S. Mail (CVC 22852). To request a hearing to contest the impound of your vehicle, contact the West Hollywood Parking Enforcement Office at (323) 650-6757 or by emailing office@wehoparkingenforcement.org. For more information or private property tows, please visit https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-enforcement
+  utter_nlu-faq-weho-parking-b1/Street-sweeping-schedule: 
+  - text: For information on the street sweeping schedule please visit. https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-enforcement/street-sweeping-schedules
+  utter_nlu-faq-weho-parking-b1/Cost-to-park-at-meter: 
+  - text: For more information on the cost of a parking meter please visit. https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-meters
+  utter_nlu-faq-weho-parking-b1/Parking-credits: 
+  - text: For more information on parking credits and credit application, please see our site. https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-credits-program
+  utter_nlu-faq-weho-parking-b1/Parking-locations: 
+  - text: For information on Public Parking, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/Permit-by-Plate: 
+  - text: For more information on parking permits, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits
+  utter_nlu-faq-weho-parking-b1/PermitbyPlate: 
+  - text: For more information on parking permits, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-permits
+  utter_nlu-faq-weho-parking-b1/City-Hall-Automated-Garage: 
+  - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/City-Hall-Garage: 
+  - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/Automated-Garage: 
+  - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/Sweetzer-Garage: 
+  - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/Hart-Park: 
+  - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/Orange-Grove-Parking-Lot: 
+  - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/Queens-Parking-Lot: 
+  - text: For information on Public Parking, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/Sunset-Parking-Lot: 
+  - text: For information on Public Parking, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/WeHo-Park-Garage: 
+  - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/Hancock-Parking-Garage: 
+  - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_nlu-faq-weho-parking-b1/Hancock-Garage: 
+  - text: For information on Public Parking, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
