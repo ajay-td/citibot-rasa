@@ -550,7 +550,7 @@ responses:
   utter_nlu-faq-clay-country-b1/Whiteys-Fish-Camp: 
   - text: Whitey’s Fish Camp is located at 2032 County Rd 220, Fleming Island, FL 32003.
   utter_nlu-faq-clay-country-b1/When-does-Clay-County-Animal-Shelter-Open: 
-  - text: Tuesday 10 a.m.- 4 p.m.\n Wednesday 10 a.m.- 4 p.m.\n Thursday 12-6 p.m.\n Friday 10 a.m.- 4 p.m.\n Saturday 10 a.m.- 3 p.m. \n\n ***Animal Intake Closes at 2 p.m. Each Business Day**
+  - text: "Tuesday 10 a.m.- 4 p.m. \ \n Wednesday 10 a.m.- 4 p.m. \ \n Thursday 12-6 p.m. \ \n Friday 10 a.m.- 4 p.m. \ \n Saturday 10 a.m.- 3 p.m. \n\n ***Animal Intake Closes at 2 p.m. Each Business Day**"
   utter_nlu-faq-clay-country-b1/Who-are-the-County-Commissioners:
   - text: The County Commissioners are Mike Cella, Wayne Bolla, Jim Renninger, Betsy Condon, and Kristen Burke. For more information, please visit https://www.claycountygov.com/government/board-of-county-commissioners 
   utter_nlu-faq-clay-country-b1/Who-is-on-the-Board-of-County-Commissioners:

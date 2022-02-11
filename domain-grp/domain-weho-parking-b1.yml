@@ -138,3 +138,5 @@ https://www.weho.org/city-government/city-departments/public-works/parking-servi
   - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
   utter_nlu-faq-weho-parking-b1/Hancock-Garage: 
   - text: For information on Public Parking, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?

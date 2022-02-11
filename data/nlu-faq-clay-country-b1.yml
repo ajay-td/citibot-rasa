@@ -1898,56 +1898,56 @@ nlu:
   examples: |
     - What Hotels are in Orange Park
     - What are the Best Hotels in Orange Park?
-    - What are the best hotels in orange park?
+    - What hotels orange park comprises of?
     - What are the best Hotels in Orange Park?
-    - What are the best hotels in Orange Park?
+    - some good hotels in Orange Park?
     - What are some good hotels in Orange Park?
-    - What are some of the best hotels in Orange Park?
+    - list of hotels in Orange Park?
     - What are the best hotels in Orange Park, CA?
-    - What are some hotels in Orange Park?
+    - different hotels in Orange Park?
 - intent: nlu-faq-clay-country-b1/Are-there-any-RV-campgrounds-in-Clay-County
   examples: |
     - Are there any RV campgrounds in Clay County
-    - What are some RV campgrounds in Clay County, PA?
+    - What are some RV campgrounds in Clay County?
     - Are there any RV campgrounds in Clay County? Are they all RV parks?
     - Are there any RV camping in Clay County?
-    - Where is the best RV campgrounds in Clay County for the rental of a motorhome?
+    - Where is the best RV campgrounds in Clay County?
     - Which is the best campground in Clay County for RV parkers?
     - Which is the best campground in Clay County, PA?
     - Are there any RV campgrounds in Clay County, Georgia?
     - Where are some campgrounds in Clay County, Maryland for RV camping?
-    - Are there any RV campgrounds in Clay County, OH?
-    - Are there any RV campgrounds in Clay County, KY?
+    - Are there any RV campgrounds in Clay County?
 - intent: nlu-faq-clay-country-b1/Where-is-the-Courtyard-by-Marriott
   examples: |
     - Where is the Courtyard by Marriott
-    - Where is The Courtyard by Marriott?
+    - please let me know Where is The Courtyard by Marriott?
     - What is the Courtyard Marriott by Marriott and Where is it located?
-    - Where is the Courtyard by Marriott?
-    - What is the Courtyard by Marriott?
-    - Where is the Courtyard Marriott?
+    - Where is the Courtyard by Marriott situated?
+    - Where is the Courtyard Marriott located?
 - intent: nlu-faq-clay-country-b1/Where-is-Gold-Head-State-Park
   examples: |
     - Where is Gold Head State Park?
-    - Where is Gold Head State Park?
-    - Which is Gold Head State Park?
+    - Where is Gold Head State Park situated?
+    - where is Gold Head State Park located?
+    - whats the location of Gold head state park?
     - Where is Gold Head State Park? What are some great attractions?
     - What is Gold Head State Park and how well is it managed?
-    - What is Gold Head State Park?
-    - Where is Gold Head State Park located?
+    - location of Gold Head State Park?
+    - can you provide me the location of Gold Head State Park.
 - intent: nlu-faq-clay-country-b1/Where-is-Bayard-Conservation-Area
   examples: |
     - Where is Bayard Conservation Area?
-    - Where is Bayard Conservation Area?
+    - Bayard Conservation Area is located where?
     - Where is the Bayard Conservation Area?
-    - What is Bayard Conservation Area?
-    - What is Bayard conservation area?
-    - What is the Bayard Conservation Area?
+    - Where is the Bayard Conservation Area situated?
+    - can you tell me where is Bayard conservation area?
 - intent: nlu-faq-clay-country-b1/What-is-the-address-of-Jennings-State-Forest
   examples: |
     - What is the address of Jennings State Forest?
-    - What is the address of Jennings State Forest?
-    - What is the address of Jennings state forest?
+    - What's the Jennings State Forest's address?
+    - can you tell me the address of Jennings state forest?
+    - where is the jennings state forest?
+    - where is the jennings state forest located?
     - How can I find the address of Jennings State Forest?
 - intent: nlu-faq-clay-country-b1/Whiteys-Fish-Camp
   examples: |
@@ -1965,7 +1965,8 @@ nlu:
 - intent: nlu-faq-clay-country-b1/When-does-Clay-County-Animal-Shelter-Open
   examples: |
     - When does Clay County Animal Shelter Open?
-    - When does Clay County Animal Shelter open?
+    - timings for Clay County Animal Shelter?
+    - what is the opening and closing time for clay county animal shelter?
     - When is Clay County Animal Shelter Open?
     - How long does Clay County Animal Shelter stay open?
     - When does Clay County Animal Shelter Open its doors?
