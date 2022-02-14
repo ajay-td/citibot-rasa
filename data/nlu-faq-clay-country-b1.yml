@@ -16,10 +16,9 @@ nlu:
     - Do I need to have permission to put up a sign?
     - Do I need a permission to put up a sign?
     - Do I need permission to post a sign?
-    - Do I need permission to put up a sign?
-    - Do I need a photo to put up sign?
+    - Is it necessary for me to get permission to put up a sign?
+    - Is it necessary for me to obtain permission before erecting a sign?
     - Do I need permission to write a sign?
-    - Why do I need permission to put up a sign?
 - intent: nlu-faq-clay-country-b1/What-paperwork-do-I-need-to-file-a-claim-with-the-VA
   examples: |
     - What paperwork do I need to file a claim with the VA?
@@ -1674,6 +1673,7 @@ nlu:
     - What is the elevation of my property?
     - What is elevation of property?
     - What is the elevation of property?
+    - i want to know about elevation of my property
 - intent: nlu-faq-clay-country-b1/How-can-I-protect-my-home-from-flooding
   examples: |
     - How can I protect my home from flooding?
@@ -1889,11 +1889,11 @@ nlu:
 - intent: nlu-faq-clay-country-b1/Where-can-I-find-the-Clay-County-public-records-policy
   examples: |
     - Where can I find the Clay County public records policy?
-    - Where can I find the Clay County public records policy?
+    - Where can I locate the Clay County public records policy?
     - Where can I find Clay County public records policy?
     - How can I find the Clay County public records policy?
-    - Where can I find the Clay County Public Records Policy?
-    - Where can I find a map of Clay County public records policies?
+    - how am I supposed to find the Clay County Public Records Policy?
+    - Clay County public records policies can be found where?
 - intent: nlu-faq-clay-country-b1/What-Hotels-are-in-Orange-Park
   examples: |
     - What Hotels are in Orange Park
@@ -1912,10 +1912,9 @@ nlu:
     - Are there any RV campgrounds in Clay County? Are they all RV parks?
     - Are there any RV camping in Clay County?
     - Where is the best RV campgrounds in Clay County?
-    - Which is the best campground in Clay County for RV parkers?
-    - Which is the best campground in Clay County, PA?
-    - Are there any RV campgrounds in Clay County, Georgia?
-    - Where are some campgrounds in Clay County, Maryland for RV camping?
+    - RV campground in Clay County?
+    - Which is the best campground in Clay County ?
+    - Where are some campgrounds in Clay County, for RV camping?
     - Are there any RV campgrounds in Clay County?
 - intent: nlu-faq-clay-country-b1/Where-is-the-Courtyard-by-Marriott
   examples: |
@@ -1952,16 +1951,10 @@ nlu:
 - intent: nlu-faq-clay-country-b1/Whiteys-Fish-Camp
   examples: |
     - Whitey’s Fish Camp
-    - Whitey’s Fish Camp is home to Whitey’s fish camp.
-    - Whitey’s Fish Camp, Whitey’s Camp, Whitey’s Camp.Whitey’s Fish Camp. Whitey’s Fish Camp. Whitey’s Camp.Whitey’s Camp.Whitey’s Camp. Whitey’s Fish Camp, Whitey’s Camp
-    - Whitey’s Fish Camp is located at Whitey’s Fish Camp.
-    - Whitey's Fish Camp, Whitey's Fish Camp, Whitey’s Fish Camp. Whitey’s Fish Camp, Whitey’s Fish Camp.
-    - Whitey's Fish Camp: Whitey’s Fish Camp was established in 1909 as a fish camp.
-    - Whitey’s Fish Camp, Whitey’s Fish Camp. Whitey’s Fish Camp was once the largest camping grounds in the gulf.
-    - Whitey’s Fish Camp is a wilderness fishing lake in Vermont.
-    - Whitey's Fish Camp: Whitey’s Fish Camp is open from 3rd to 5th September.
-    - Whitey's Fish Camp, a whitey’s fish camp is located at Whitey’s Fish Camp, Alabama.
-    - Whitey’s Fish Camp, Whitey’s River and Whitey’s River. Whitey’s River and Whitey’s River are both waters of Whitey’s River. Whitey’s River and Whitey’s River are the same. Whitey’s River and Whitey
+    - where is Whitey’s Fish Camp
+    - where is Whitey’s Fish Camp situated?
+    - Whitey’s Fish Camp is located where?
+    - i want to know where is whitey's fish camp located?
 - intent: nlu-faq-clay-country-b1/When-does-Clay-County-Animal-Shelter-Open
   examples: |
     - When does Clay County Animal Shelter Open?

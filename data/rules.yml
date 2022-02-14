@@ -15,17 +15,17 @@ rules:
 - rule: nlu-faq-utah-adult
   steps:
   - intent: nlu-faq-utah-adult
-  - action: utter_nlu-faq-utah-adult
+  - action: action_fallback
 
 - rule: nlu-faq-clay-country-b1
   steps:
   - intent: nlu-faq-clay-country-b1
-  - action: utter_nlu-faq-clay-country-b1
+  - action: action_fallback
 
 - rule: nlu-faq-weho-parking-b1
   steps:
   - intent: nlu-faq-weho-parking-b1
-  - action: utter_nlu-faq-weho-parking-b1
+  - action: action_fallback
 
 - rule: Ask the user to rephrase whenever they send a message with low NLU confidence
   steps:

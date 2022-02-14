@@ -32,6 +32,9 @@ responses:
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
 
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?
+
   utter_nlu-faq-utah-adult/How-old-do-I-have-to-be-to-enroll-in-Adult-Education?:
   - text: You must be 16 years old or older to enroll in adult education.
 
@@ -701,7 +704,8 @@ responses:
   - text: For information on Public Parking Garage locations, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
   utter_nlu-faq-weho-parking-b1/Hancock-Garage: 
   - text: For information on Public Parking, please see our site https://www.weho.org/city-government/city-departments/public-works/parking-services/parking-facility-directory
-
+actions:
+- action_fallback
 
 session_config:
   session_expiration_time: 60
