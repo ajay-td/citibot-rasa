@@ -1,6 +1,7 @@
 FROM rasa/rasa:3.0.4-full
 ENTRYPOINT []
 USER root
+WORKDIR /app
 
 ADD . /app/
 
