@@ -1,6 +1,6 @@
 services:
 - type: web
-  name: 
+  name: rasa
   env: docker
   plan: standard
   disk:
