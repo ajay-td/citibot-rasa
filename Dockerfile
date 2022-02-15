@@ -9,5 +9,5 @@ RUN pip install sanic==21.6.0 Sanic-Cors==1.0.0 sanic-routing==0.7.0
 
  
 RUN chmod +x /app/scripts/*
-RUN pwd
-CMD scripts/start_services.sh
+
+CMD ./scripts/start_services.sh
