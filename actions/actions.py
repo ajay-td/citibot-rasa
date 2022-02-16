@@ -46,7 +46,7 @@ class ActionFallback(Action):
         retrieval_intent_confidence = tracker.latest_message['response_selector'][_intent]['response']['confidence']*100
         
         print(f"retrieval_intent_confidence we found was {retrieval_intent_confidence}")
-        if retrieval_intent_confidence<90:
+        if retrieval_intent_confidence<75:
             dispatcher.utter_message(text=" Sorry can you please rephrase?")
         else:
              dispatcher.utter_message(response = intent_found) # use response for defining intent name

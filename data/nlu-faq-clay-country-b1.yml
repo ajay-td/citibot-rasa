@@ -1951,6 +1951,8 @@ nlu:
 - intent: nlu-faq-clay-country-b1/Whiteys-Fish-Camp
   examples: |
     - Whitey’s Fish Camp
+    - tell me the loc of Whitey’s Fish Camp
+    - loc of whitey's Fish Camp
     - where is Whitey’s Fish Camp
     - where is Whitey’s Fish Camp situated?
     - Whitey’s Fish Camp is located where?
