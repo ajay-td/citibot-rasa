@@ -1,7 +1,6 @@
 FROM rasa/rasa:3.0.4
 ENTRYPOINT []
 USER root
-RUN mkdir app
 ADD . /app/.
 RUN ls /
 RUN ls /app/scripts/
