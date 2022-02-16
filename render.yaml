@@ -3,7 +3,4 @@ services:
   name: 
   env: docker
   plan: standard
-  disk:
-    name: rasa
-    mountPath: /app
-    sizeGB: 10
+  
